@@ -1,0 +1,1036 @@
+Date,Time,Booking ID,Booking Status,Customer ID,Vehicle Type,Pickup Location,Drop Location,waiting time,Avg CTAT,Cancelled Rides by Customer,Reason for cancelling by Customer,Cancelled Rides by Driver,Driver Cancellation Reason,Incomplete Rides,Incomplete Rides Reason,Booking Value,Ride Distance,Driver Ratings,Customer Rating,Payment Method
+2025-01-12,15:44:00,UBR100294,Cancelled by Driver,CUST1016,UberXL,,Melbourne,,4.9,0,,1,Wrong pickup location,0,,0.0,12.95,2.5,,Credit Card
+2025-03-12,05:17:00,UBR100453,Completed,CUST1040,Uber Black,Los Angeles,Madrid,11.3,4.9,0,,0,,0,,79.67,22.87,3.7,1.3,PayPal
+2025-01-13,11:35:00,UBR100638,Completed,CUST1004,Uber Comfort,Melbourne,Dubai,3.7,18.2,0,,0,,0,,124.67,32.51,3.1,3.6,UPI
+2025-05-22,08:00:00,UBR100139,Cancelled by Driver,CUST1150,UberXL,Birmingham,Manchester,6.8,11.4,0,,1,Too far from pickup,0,,0.0,29.12,,,Cash
+2025-01-20,11:30:00,UBR100804,Completed,CUST1077,Uber Green,Paris,Dubai,10.2,24.3,0,,0,,0,,56.68,25.32,2.9,1.3,PayPal
+2025-05-27,18:10:00,UBR100394,Completed,CUST1135,UberXL,Sydney,Chicago,3.5,14.1,0,,0,,0,,43.22,14.65,1.2,1.3,Wallet
+2025-01-29,23:07:00,UBR100513,Completed,CUST1129,Uber Comfort,Tokyo,Rome,2.7,12.0,0,,0,,0,,50.57,23.74,4.7,3.5,Credit Card
+2025-06-23,04:08:00,UBR100584,Cancelled by Driver,CUST1245,Uber Comfort,Vancouver,New York,8.4,19.5,0,,1,Wrong pickup location,0,,0.0,3.76,4.3,,PayPal
+2025-06-04,00:14:00,UBR100231,Completed,CUST1223,Uber Green,Phoenix,Berlin,17.1,24.2,0,,0,,0,,,5.74,3.5,4.7,PayPal
+2025-03-10,17:16:00,UBR100210,Cancelled by Driver,CUST1174,Uber Green,Dubai,Singapore,16.7,3.4,0,,1,Personal emergency,0,,0.0,11.74,2.9,,Wallet
+2025-06-24,23:28:00,UBR100811,Completed,CUST1089,UberX,Dubai,Houston,2.9,17.5,0,,0,,0,,84.2,28.91,2.3,4.1,Credit Card
+2025-04-06,12:34:00,UBR100760,Completed,CUST1020,Uber Comfort,Sydney,Toronto,2.2,13.7,0,,0,,0,,59.14,14.69,3.8,3.1,Cash
+2025-03-14,01:23:00,UBR100904,Completed,CUST1058,Uber Green,Paris,Rome,15.7,14.2,0,,0,,0,,74.39,23.82,2.7,,Debit Card
+2025-06-15,10:10:00,UBR100319,Completed,CUST1236,UberX,New York,Madrid,6.6,7.6,0,,0,,0,,102.38,29.04,1.3,,PayPal
+2025-03-12,07:01:00,UBR100534,Completed,CUST1223,Uber Black,Phoenix,Vancouver,17.9,8.9,0,,0,,0,,8.42,2.14,4.3,2.7,Cash
+2025-02-12,04:44:00,UBR100031,Completed,CUST1140,Uber Comfort,Madrid,Phoenix,2.7,3.4,0,,0,,0,,90.74,28.93,1.4,3.7,Cash
+2025-05-09,10:00:00,UBR100237,Completed,CUST1092,UberX,Berlin,Houston,11.8,5.0,0,,0,,0,,56.96,14.65,,,Debit Card
+2025-06-01,15:46:00,UBR100113,Completed,CUST1095,UberX,Seoul,Phoenix,8.5,19.0,0,,0,,0,,55.82,13.74,2.9,4.5,Credit Card
+2025-01-22,21:28:00,UBR100635,Completed,CUST1008,UberX,Madrid,Dubai,13.0,13.8,0,,0,,0,,65.24,26.02,2.5,1.9,Wallet
+2025-06-10,17:03:00,UBR100826,Completed,CUST1232,Uber Comfort,Los Angeles,Paris,17.6,19.0,0,,0,,0,,19.54,6.42,3.6,,Wallet
+2025-04-03,06:02:00,UBR100715,Cancelled by Customer,CUST1125,,London,Dubai,8.0,11.9,1,Found another ride,0,,0,,0.0,5.1,,,UPI
+2025-06-16,00:24:00,UBR100784,Completed,CUST1037,Uber Green,Paris,Toronto,,9.3,0,,0,,0,,54.36,26.04,3.0,3.1,PayPal
+2025-03-26,07:40:00,UBR100617,Completed,CUST1202,Uber Green,Rome,Houston,2.8,18.3,0,,0,,0,,28.76,7.78,3.1,2.2,PayPal
+2025-05-29,21:11:00,UBR100423,Completed,CUST1069,Uber Green,Tokyo,Singapore,5.8,13.1,0,,0,,0,,41.09,12.17,2.9,4.1,UPI
+2025-03-15,16:41:00,UBR100622,Completed,CUST1183,UberXL,Houston,Seoul,4.7,7.0,0,,0,,0,,64.65,,2.7,4.3,Cash
+2025-04-28,15:11:00,UBR100851,Completed,CUST1034,UberX,London,Dubai,3.2,13.0,0,,0,,0,,73.08,28.09,4.2,4.3,Debit Card
+2025-05-08,09:34:00,UBR100593,Completed,CUST1223,UberX,Houston,Sydney,10.5,,0,,0,,0,,38.98,18.22,2.3,4.1,Wallet
+2025-04-05,14:32:00,UBR100765,Completed,CUST1228,Uber Green,Phoenix,Madrid,15.2,20.3,0,,0,,0,,67.61,26.01,1.7,3.5,UPI
+2025-04-17,20:14:00,UBR100655,Completed,CUST1223,UberXL,New York,London,7.5,12.1,0,,0,,0,,70.96,22.3,3.9,2.8,PayPal
+2025-06-13,00:57:00,UBR100310,Completed,CUST1012,Uber Comfort,Phoenix,Seoul,12.5,14.9,0,,0,,0,,50.94,13.04,2.4,,Debit Card
+2025-06-13,12:30:00,UBR100244,Completed,CUST1168,Uber Green,Tokyo,Sydney,13.9,16.4,0,,0,,0,,41.18,11.68,4.6,4.3,Debit Card
+2025-02-21,14:23:00,UBR100208,Incomplete,CUST1069,UberXL,Vancouver,Rome,9.4,14.5,0,,0,,1,Route issue,67.26,16.84,3.3,,Debit Card
+2025-01-18,01:52:00,UBR100328,Completed,CUST1232,UberX,Toronto,Berlin,4.1,16.7,0,,0,,0,,69.16,21.6,1.9,2.2,
+2025-03-23,10:03:00,UBR100209,Completed,CUST1178,Uber Comfort,Madrid,Seoul,14.7,13.5,0,,0,,0,,118.4,30.46,5.0,1.2,Wallet
+2025-01-15,21:26:00,UBR100890,Completed,CUST1249,UberX,Chicago,Phoenix,15.2,14.6,0,,0,,0,,17.84,4.91,,3.1,PayPal
+2025-04-02,00:42:00,UBR100260,Cancelled by Customer,CUST1120,UberX,Sydney,Melbourne,5.1,18.7,1,Wrong pickup location,0,,0,,0.0,25.65,,,Cash
+2025-06-12,09:20:00,UBR100527,Completed,CUST1045,Uber Green,Vancouver,Los Angeles,7.4,11.1,0,,0,,0,,73.65,27.66,3.1,4.2,Cash
+2025-03-05,17:35:00,UBR100824,Completed,CUST1079,Uber Black,Houston,Sydney,,12.0,0,,0,,0,,68.81,27.88,4.3,3.7,UPI
+2025-03-01,10:49:00,UBR100296,Completed,CUST1038,Uber Comfort,Birmingham,Rome,7.0,,0,,0,,0,,27.03,11.32,1.3,1.8,PayPal
+2025-01-22,07:00:00,UBR100158,Completed,CUST1188,UberX,Sydney,Tokyo,9.6,9.5,0,,0,,0,,66.84,18.3,3.3,3.8,
+2025-04-05,02:21:00,UBR100845,Cancelled by Driver,CUST1181,,Sydney,New York,8.1,19.7,0,,1,Vehicle issue,0,,0.0,12.96,1.9,,UPI
+2025-04-21,01:45:00,UBR100989,Incomplete,CUST1001,UberXL,Dubai,Houston,18.0,20.2,0,,0,,1,Route issue,63.91,17.09,2.2,,PayPal
+2025-04-12,03:38:00,UBR100928,Completed,CUST1112,Uber Green,Sydney,Phoenix,16.5,11.1,0,,0,,0,,18.65,8.68,1.2,2.2,UPI
+2025-05-05,15:14:00,UBR100076,Completed,CUST1035,Uber Green,Manchester,Madrid,8.2,22.6,0,,0,,0,,16.85,8.23,4.3,2.4,Credit Card
+2025-04-26,16:12:00,UBR100010,Cancelled by Driver,CUST1232,Uber Black,Madrid,Manchester,1.1,,0,,1,Vehicle issue,0,,0.0,8.9,2.7,,Wallet
+2025-03-07,20:55:00,UBR100947,Completed,CUST1116,Uber Black,Singapore,Tokyo,15.5,8.6,0,,0,,0,,75.58,25.1,2.2,4.3,Cash
+2025-01-11,07:59:00,UBR100687,Completed,CUST1133,Uber Black,Melbourne,Birmingham,7.9,23.6,0,,0,,0,,35.07,10.99,2.5,,PayPal
+2025-03-21,22:59:00,UBR100344,Completed,CUST1183,UberX,Rome,London,6.2,21.4,0,,0,,0,,34.12,11.12,3.5,3.3,Wallet
+2025-02-07,02:18:00,UBR100059,Completed,CUST1099,Uber Green,Seoul,Dubai,10.1,4.1,0,,0,,0,,85.97,25.1,2.3,1.5,Credit Card
+2025-03-27,20:43:00,UBR100168,Completed,CUST1134,Uber Black,Rome,Houston,5.7,20.3,0,,0,,0,,21.24,10.76,4.9,2.5,Credit Card
+2025-02-26,11:32:00,UBR100458,Cancelled by Customer,CUST1236,Uber Comfort,Chicago,Toronto,10.0,13.1,1,Found another ride,0,,0,,0.0,29.99,,,Cash
+2025-04-02,13:01:00,UBR100174,Completed,CUST1154,Uber Green,Vancouver,Melbourne,8.7,24.7,0,,0,,0,,112.76,30.87,4.1,1.1,Cash
+2025-05-14,02:45:00,UBR100660,Completed,CUST1025,Uber Black,Sydney,Vancouver,2.6,14.3,0,,0,,0,,36.11,15.93,3.3,,Debit Card
+2025-04-08,15:16:00,UBR100995,Cancelled by Customer,CUST1029,UberXL,Toronto,New York,17.8,11.8,1,Wrong pickup location,0,,0,,0.0,3.95,,,Wallet
+2025-04-14,18:39:00,UBR100247,Completed,CUST1166,Uber Black,New York,,14.7,5.7,0,,0,,0,,115.39,32.73,1.5,4.4,Cash
+2025-05-08,22:59:00,UBR100589,Cancelled by Customer,CUST1147,UberX,Sydney,Madrid,8.7,22.0,1,Found another ride,0,,0,,0.0,14.16,,,PayPal
+2025-02-15,14:24:00,UBR100626,Completed,CUST1204,Uber Comfort,New York,London,12.3,3.3,0,,0,,0,,86.07,30.63,4.5,2.8,Credit Card
+2025-04-21,05:02:00,UBR100781,Cancelled by Customer,CUST1111,UberX,Dubai,Melbourne,8.5,18.8,1,Change of plans,0,,0,,0.0,12.61,,,
+2025-03-05,08:24:00,UBR100732,Completed,CUST1051,Uber Comfort,Chicago,Sydney,2.8,5.7,0,,0,,0,,12.12,3.02,1.4,3.4,Wallet
+2025-01-20,08:47:00,UBR100629,Completed,CUST1148,Uber Green,New York,Phoenix,1.4,5.5,0,,0,,0,,90.73,31.07,3.4,,UPI
+2025-05-22,10:00:00,UBR100948,Completed,CUST1233,UberX,New York,Chicago,3.4,,0,,0,,0,,25.76,7.88,1.3,1.4,Wallet
+2025-04-21,15:43:00,UBR100938,Completed,CUST1157,UberXL,Houston,Birmingham,5.8,17.1,0,,0,,0,,94.24,23.89,3.4,1.6,UPI
+2025-04-13,14:58:00,UBR100603,Completed,CUST1246,Uber Comfort,London,Paris,3.2,19.9,0,,0,,0,,50.95,17.64,4.7,4.8,Credit Card
+2025-03-11,17:30:00,UBR100390,Completed,CUST1014,UberXL,Dubai,Tokyo,11.7,9.0,0,,0,,0,,54.12,31.16,2.0,4.8,Cash
+2025-05-10,20:33:00,UBR100070,Completed,CUST1218,UberXL,Paris,Chicago,16.6,15.9,0,,0,,0,,74.0,19.36,1.1,4.7,PayPal
+2025-03-11,18:47:00,UBR100595,Cancelled by Driver,CUST1203,Uber Green,Berlin,Phoenix,18.0,24.9,0,,1,Customer unreachable,0,,0.0,23.31,1.8,,Credit Card
+2025-03-21,22:13:00,UBR100107,Completed,CUST1085,Uber Comfort,Tokyo,Paris,12.9,15.3,0,,0,,0,,67.15,34.55,1.0,2.3,Credit Card
+2025-01-02,10:38:00,UBR100428,Completed,CUST1228,UberXL,Rome,Los Angeles,15.5,10.6,0,,0,,0,,83.94,33.77,1.1,,Cash
+2025-02-09,05:22:00,UBR100542,Cancelled by Customer,CUST1081,Uber Green,Sydney,,11.6,3.2,1,Driver taking too long,0,,0,,0.0,5.16,,,PayPal
+2025-06-12,20:30:00,UBR100929,Completed,CUST1173,UberX,Los Angeles,Phoenix,7.5,12.7,0,,0,,0,,56.61,26.32,2.9,4.1,Debit Card
+2025-05-27,21:25:00,UBR100858,Completed,CUST1152,UberX,Manchester,Toronto,3.7,20.3,0,,0,,0,,45.61,18.3,4.9,1.1,Credit Card
+2025-01-06,18:16:00,UBR100109,Completed,CUST1102,UberX,Dubai,Birmingham,13.1,22.2,0,,0,,0,,43.44,25.08,3.9,4.2,PayPal
+2025-01-14,19:42:00,UBR100086,Completed,CUST1151,Uber Black,Singapore,Manchester,10.5,13.6,0,,0,,0,,60.25,18.86,4.5,3.1,Credit Card
+2025-05-11,23:21:00,UBR100314,Cancelled by Driver,CUST1148,UberX,Seoul,Rome,15.7,,0,,1,Vehicle issue,0,,0.0,16.07,1.7,,Wallet
+2025-02-27,12:17:00,UBR100101,Completed,CUST1028,,Madrid,New York,,12.9,0,,0,,0,,61.98,17.72,1.7,,Wallet
+2025-05-02,10:48:00,UBR100907,Completed,CUST1079,UberXL,Birmingham,Madrid,9.6,3.6,0,,0,,0,,15.35,3.07,4.7,4.4,Wallet
+2025-03-27,06:54:00,UBR100538,Completed,CUST1234,UberXL,Phoenix,Tokyo,16.0,14.3,0,,0,,0,,76.98,27.71,4.1,3.2,Wallet
+2025-02-27,21:22:00,UBR100136,Completed,CUST1085,UberXL,Birmingham,London,,17.6,0,,0,,0,,53.13,24.19,3.2,3.9,PayPal
+2025-05-08,02:39:00,UBR100030,Completed,CUST1218,Uber Comfort,Toronto,Houston,10.8,11.5,0,,0,,0,,125.54,33.1,3.6,2.8,Debit Card
+2025-05-12,08:12:00,UBR100912,Completed,CUST1242,UberXL,Phoenix,Chicago,2.4,11.5,0,,0,,0,,37.88,19.58,3.4,3.1,UPI
+2025-04-08,12:22:00,UBR100208,Cancelled by Customer,CUST1060,UberXL,Seoul,Berlin,6.2,11.8,1,Change of plans,0,,0,,0.0,28.41,,,Cash
+2025-04-25,17:18:00,UBR100054,Completed,,UberX,Madrid,Melbourne,13.5,7.0,0,,0,,0,,,30.51,3.3,4.4,PayPal
+2025-02-05,11:24:00,UBR100023,Cancelled by Driver,CUST1019,UberX,Chicago,Tokyo,2.2,11.7,0,,1,Too far from pickup,0,,0.0,3.96,1.2,,Debit Card
+2025-03-07,13:11:00,UBR100835,Completed,CUST1165,Uber Comfort,Seoul,Tokyo,10.6,18.7,0,,0,,0,,,20.49,1.4,4.0,Wallet
+2025-01-12,00:22:00,UBR100620,Completed,CUST1053,Uber Green,Dubai,London,10.9,14.3,0,,0,,0,,37.48,11.39,3.0,2.3,Cash
+2025-03-23,23:31:00,UBR100481,Cancelled by Customer,CUST1139,Uber Green,Sydney,Seoul,8.3,12.6,1,Wrong pickup location,0,,0,,0.0,8.76,,,Debit Card
+2025-04-02,23:10:00,UBR100003,Completed,CUST1187,Uber Comfort,Vancouver,Tokyo,9.4,3.8,0,,0,,0,,7.53,1.74,4.6,2.0,UPI
+2025-02-08,13:33:00,UBR100088,Completed,CUST1243,Uber Green,Los Angeles,Vancouver,14.0,11.8,0,,0,,0,,113.93,32.94,2.9,3.5,UPI
+2025-05-31,20:44:00,UBR100430,Completed,CUST1084,Uber Green,London,New York,3.5,24.7,0,,0,,0,,94.76,24.72,,1.5,PayPal
+2025-04-30,09:17:00,UBR100184,Cancelled by Driver,CUST1037,Uber Comfort,Tokyo,New York,7.5,5.8,0,,1,Personal emergency,0,,0.0,20.14,2.7,,PayPal
+2025-03-14,17:15:00,UBR100544,Cancelled by Customer,CUST1034,Uber Comfort,Manchester,Madrid,14.1,23.1,1,Driver taking too long,0,,0,,0.0,34.44,,,Debit Card
+2025-05-08,21:23:00,UBR100213,Completed,CUST1157,Uber Black,Chicago,Los Angeles,6.9,5.4,0,,0,,0,,50.47,14.69,4.2,4.8,Credit Card
+2025-01-14,16:24:00,UBR100774,Completed,CUST1090,Uber Comfort,Vancouver,,11.8,8.5,0,,0,,0,,20.05,7.58,2.2,4.1,Debit Card
+2025-04-02,11:38:00,UBR100371,Incomplete,CUST1032,Uber Black,Tokyo,Madrid,9.9,4.5,0,,0,,1,Route issue,43.76,12.5,1.7,,Wallet
+2025-02-28,13:35:00,UBR100096,Cancelled by Driver,CUST1168,Uber Green,Toronto,New York,15.2,18.3,0,,1,Personal emergency,0,,0.0,30.54,3.7,,Debit Card
+2025-03-27,17:09:00,UBR100549,Cancelled by Driver,CUST1243,Uber Green,Houston,London,10.5,11.5,0,,1,Vehicle issue,0,,0.0,12.14,2.7,,UPI
+2025-01-26,19:04:00,UBR100510,Completed,CUST1141,UberXL,New York,London,15.9,10.8,0,,0,,0,,46.58,26.28,3.9,2.3,Wallet
+2025-05-12,18:49:00,UBR100997,Completed,CUST1033,Uber Black,Manchester,Sydney,12.5,4.2,0,,0,,0,,14.22,4.96,1.5,3.0,Cash
+2025-05-25,20:48:00,UBR100063,Completed,CUST1238,UberXL,Tokyo,London,,22.9,0,,0,,0,,49.34,16.03,3.5,,PayPal
+2025-05-12,06:11:00,UBR100924,Completed,CUST1112,Uber Comfort,Seoul,Berlin,13.0,3.7,0,,0,,0,,54.85,31.46,4.4,2.9,Cash
+2025-02-12,15:43:00,UBR100261,Completed,CUST1033,Uber Black,Sydney,Melbourne,8.8,19.1,0,,0,,0,,24.33,13.23,,3.7,Credit Card
+2025-06-18,06:05:00,UBR100429,Completed,CUST1177,UberXL,Sydney,Phoenix,9.1,17.7,0,,0,,0,,28.26,7.69,2.6,2.2,UPI
+2025-04-30,03:29:00,UBR100100,Completed,CUST1049,Uber Green,Dubai,Rome,,17.2,0,,0,,0,,51.93,20.88,3.4,2.5,Wallet
+2025-03-03,05:14:00,UBR100541,Completed,CUST1176,Uber Comfort,Dubai,Berlin,13.3,7.8,0,,0,,0,,90.28,24.94,,4.2,Cash
+2025-01-21,08:13:00,UBR100673,Cancelled by Driver,CUST1130,UberXL,,Birmingham,5.6,20.9,0,,1,Personal emergency,0,,0.0,13.15,3.1,,Cash
+2025-01-08,10:15:00,UBR100280,Completed,CUST1058,UberX,Berlin,Toronto,5.1,7.7,0,,0,,0,,57.95,25.41,2.7,4.6,UPI
+2025-04-02,03:09:00,UBR100039,Completed,CUST1248,Uber Comfort,Seoul,Birmingham,5.9,22.1,0,,0,,0,,78.42,23.14,1.9,4.9,UPI
+2025-01-08,22:33:00,UBR100572,Incomplete,CUST1045,Uber Green,Melbourne,Rome,3.7,11.1,0,,0,,1,Trip interrupted,15.27,4.21,3.5,,Wallet
+2025-01-13,14:57:00,UBR100657,Completed,CUST1183,Uber Green,Phoenix,Singapore,11.4,,0,,0,,0,,34.87,15.1,3.0,1.5,UPI
+2025-03-02,02:02:00,UBR100602,Completed,CUST1092,Uber Comfort,Rome,Houston,4.9,23.3,0,,0,,0,,26.22,9.1,3.4,2.5,Cash
+2025-01-24,01:11:00,UBR100697,Completed,CUST1008,Uber Green,Chicago,Toronto,2.1,21.2,0,,0,,0,,13.16,4.76,1.5,4.6,UPI
+2025-03-17,11:15:00,UBR100467,Completed,CUST1245,Uber Green,Los Angeles,Chicago,2.1,24.4,0,,0,,0,,100.94,32.59,2.4,2.9,PayPal
+2025-01-09,05:49:00,UBR100979,Completed,CUST1083,Uber Green,Los Angeles,Paris,17.1,13.2,0,,0,,0,,17.8,6.75,1.2,3.9,PayPal
+2025-02-05,05:44:00,UBR100532,Incomplete,CUST1151,Uber Comfort,Melbourne,Birmingham,5.1,13.3,0,,0,,1,Trip interrupted,105.05,33.14,2.8,,UPI
+2025-03-11,11:45:00,UBR100758,Cancelled by Driver,CUST1245,Uber Green,Manchester,Melbourne,16.8,,0,,1,Wrong pickup location,0,,0.0,26.11,4.4,,Cash
+2025-05-30,13:52:00,UBR100290,Completed,CUST1063,Uber Comfort,Rome,Phoenix,8.0,7.5,0,,0,,0,,89.96,22.98,1.2,3.3,Cash
+2025-06-04,01:34:00,UBR100066,Completed,CUST1114,Uber Black,Birmingham,Phoenix,10.6,18.8,0,,0,,0,,53.2,15.02,3.4,4.3,PayPal
+2025-03-04,01:43:00,UBR100309,Completed,CUST1082,Uber Comfort,Chicago,Seoul,11.2,17.4,0,,0,,0,,12.24,2.22,1.8,2.2,PayPal
+2025-02-15,06:02:00,UBR100067,Completed,CUST1139,UberXL,Berlin,Birmingham,11.0,14.1,0,,0,,0,,41.8,14.75,3.4,1.1,UPI
+2025-05-31,10:49:00,UBR100754,Completed,CUST1050,Uber Black,Vancouver,London,15.8,13.7,0,,0,,0,,49.58,28.68,2.2,3.1,Cash
+2025-02-19,06:29:00,UBR100218,Completed,CUST1068,,Dubai,Tokyo,13.6,10.0,0,,0,,0,,45.27,25.1,1.4,2.4,Debit Card
+2025-01-07,07:57:00,UBR100868,Cancelled by Customer,CUST1157,Uber Black,Chicago,London,17.3,22.1,1,Change of plans,0,,0,,0.0,27.21,,,Cash
+2025-04-07,03:49:00,UBR100916,Cancelled by Customer,CUST1226,Uber Black,Rome,Dubai,5.4,3.7,1,Driver taking too long,0,,0,,0.0,4.81,,,Debit Card
+2025-05-18,18:00:00,UBR100556,Cancelled by Driver,CUST1049,UberXL,Madrid,London,2.5,22.0,0,,1,Personal emergency,0,,0.0,15.08,,,Credit Card
+2025-03-25,09:05:00,UBR100714,Completed,CUST1075,UberX,Phoenix,Madrid,11.0,17.8,0,,0,,0,,24.58,5.81,4.2,3.6,UPI
+2025-05-09,00:55:00,UBR100530,Completed,CUST1117,Uber Comfort,Houston,Birmingham,16.3,17.6,0,,0,,0,,11.85,4.39,1.4,3.7,PayPal
+2025-03-23,03:28:00,UBR100796,Completed,CUST1188,Uber Black,London,Chicago,5.1,17.1,0,,0,,0,,57.42,19.61,2.1,1.9,UPI
+2025-02-28,09:25:00,UBR100734,Completed,CUST1085,Uber Comfort,New York,London,10.1,18.5,0,,0,,0,,31.75,14.67,2.4,1.4,PayPal
+2025-06-11,21:10:00,UBR100318,Completed,CUST1030,Uber Comfort,Birmingham,Berlin,1.5,14.5,0,,0,,0,,60.7,27.63,1.9,5.0,Cash
+2025-04-21,14:28:00,UBR100587,Completed,CUST1118,Uber Comfort,Phoenix,Birmingham,12.5,8.5,0,,0,,0,,36.81,14.29,1.1,1.7,Credit Card
+2025-06-18,09:42:00,UBR100405,Completed,CUST1002,UberXL,Chicago,Melbourne,11.6,20.8,0,,0,,0,,61.31,22.6,1.3,2.3,PayPal
+2025-03-28,10:15:00,UBR100346,Completed,CUST1122,Uber Black,Paris,Melbourne,1.0,18.7,0,,0,,0,,46.54,11.96,2.4,2.0,PayPal
+2025-05-24,15:16:00,UBR100869,Completed,CUST1091,UberX,Vancouver,London,10.4,7.0,0,,0,,0,,33.39,12.9,1.5,3.4,Debit Card
+2025-04-30,10:52:00,UBR100381,Completed,CUST1011,Uber Green,Paris,Rome,5.1,19.7,0,,0,,0,,24.4,5.87,,2.3,UPI
+2025-01-20,15:06:00,UBR100773,Completed,CUST1095,Uber Comfort,Seoul,Melbourne,3.2,12.1,0,,0,,0,,,28.16,1.1,4.4,PayPal
+2025-01-19,16:19:00,UBR100634,Cancelled by Driver,CUST1183,UberX,Rome,Madrid,13.7,3.2,0,,1,Vehicle issue,0,,0.0,28.94,1.7,,Debit Card
+2025-02-24,17:06:00,UBR100265,Completed,CUST1205,UberXL,Manchester,Rome,7.9,23.3,0,,0,,0,,60.7,32.54,1.4,3.1,Cash
+2025-02-10,15:49:00,UBR100256,Completed,CUST1147,Uber Comfort,Madrid,Manchester,8.8,5.0,0,,0,,0,,57.82,,3.2,3.6,PayPal
+2025-02-24,21:07:00,UBR100002,Completed,CUST1063,UberX,Melbourne,Sydney,1.8,16.4,0,,0,,0,,58.35,27.74,1.7,1.3,UPI
+2025-05-31,12:25:00,UBR100519,Completed,CUST1162,Uber Comfort,Rome,Toronto,17.1,8.7,0,,0,,0,,15.38,3.65,2.3,2.6,Credit Card
+2025-04-15,05:08:00,UBR100716,Completed,CUST1051,UberX,Melbourne,Sydney,12.2,22.4,0,,0,,0,,26.88,10.94,2.9,3.2,Credit Card
+2025-03-22,17:35:00,UBR100299,Completed,CUST1136,Uber Comfort,Sydney,Berlin,1.3,14.5,0,,0,,0,,70.55,19.39,2.9,3.6,UPI
+2025-06-14,03:34:00,UBR100822,Completed,CUST1070,Uber Comfort,Houston,Sydney,1.4,14.0,0,,0,,0,,12.72,4.01,2.1,3.6,Wallet
+2025-02-06,05:32:00,UBR100439,Cancelled by Driver,CUST1146,Uber Green,Seoul,Sydney,4.3,5.8,0,,1,Too far from pickup,0,,0.0,14.78,2.2,,UPI
+2025-04-08,08:27:00,UBR100981,Incomplete,CUST1131,UberXL,Chicago,Singapore,2.2,8.6,0,,0,,1,Trip interrupted,27.72,12.88,1.8,,Debit Card
+2025-01-25,07:29:00,UBR100852,Completed,CUST1242,UberX,Melbourne,Singapore,9.7,,0,,0,,0,,38.0,12.85,1.7,1.3,Credit Card
+2025-03-10,15:01:00,UBR100611,Completed,CUST1088,UberX,Dubai,Melbourne,9.4,6.5,0,,0,,0,,118.34,33.26,4.9,1.6,UPI
+2025-05-12,22:27:00,UBR100792,Completed,CUST1089,Uber Comfort,Dubai,New York,5.4,18.7,0,,0,,0,,41.57,24.31,3.9,2.1,Wallet
+2025-04-30,16:20:00,UBR100332,Completed,CUST1007,Uber Green,Birmingham,Toronto,2.5,7.3,0,,0,,0,,17.51,6.72,1.2,3.5,Wallet
+2025-06-17,08:39:00,UBR100692,Completed,CUST1127,Uber Green,Singapore,Houston,2.5,7.0,0,,0,,0,,66.92,30.26,4.0,1.1,UPI
+2025-01-04,21:04:00,UBR100972,Completed,CUST1029,Uber Green,Birmingham,Vancouver,7.5,21.4,0,,0,,0,,,17.41,4.8,4.2,Wallet
+2025-02-01,03:08:00,UBR100289,Cancelled by Driver,CUST1145,,Singapore,Houston,12.5,11.2,0,,1,Customer unreachable,0,,0.0,25.37,4.8,,Wallet
+2025-03-21,01:06:00,UBR100786,Completed,CUST1236,UberXL,Paris,Manchester,6.8,4.6,0,,0,,0,,71.79,19.28,3.3,3.9,Cash
+2025-06-30,17:33:00,UBR100199,Completed,CUST1187,Uber Comfort,London,Rome,14.6,21.1,0,,0,,0,,55.09,23.95,4.4,4.7,Debit Card
+2025-01-26,14:35:00,UBR100292,Completed,CUST1167,Uber Black,Toronto,Vancouver,1.9,3.7,0,,0,,0,,91.49,29.38,2.7,1.3,UPI
+2025-02-07,20:04:00,UBR100536,Completed,CUST1092,UberX,Melbourne,Singapore,13.7,7.6,0,,0,,0,,33.33,18.87,1.8,1.8,
+2025-01-29,14:01:00,UBR100960,Completed,CUST1031,UberX,Toronto,Manchester,7.8,24.7,0,,0,,0,,10.27,1.8,1.4,2.7,PayPal
+2025-04-22,07:42:00,UBR100323,Completed,CUST1238,Uber Comfort,Chicago,Phoenix,10.5,3.6,0,,0,,0,,76.45,24.04,4.6,,Credit Card
+2025-03-20,04:15:00,UBR100879,Completed,CUST1097,Uber Green,Seoul,Dubai,8.9,16.2,0,,0,,0,,21.04,5.86,,1.9,PayPal
+2025-01-23,03:59:00,UBR100894,Completed,CUST1072,Uber Black,Paris,Manchester,13.4,4.6,0,,0,,0,,33.61,9.49,1.9,4.0,UPI
+2025-01-05,11:29:00,UBR100939,Completed,CUST1023,UberXL,Phoenix,Paris,4.9,11.6,0,,0,,0,,38.76,10.16,3.4,,PayPal
+2025-01-18,22:23:00,UBR100106,Completed,CUST1081,Uber Black,Los Angeles,Paris,12.8,21.9,0,,0,,0,,29.33,16.59,4.1,1.2,
+2025-01-24,21:33:00,UBR100558,Cancelled by Customer,CUST1035,Uber Green,Houston,Toronto,1.7,21.3,1,Change of plans,0,,0,,0.0,27.99,,,Wallet
+2025-04-19,19:29:00,UBR100055,Completed,CUST1110,Uber Comfort,Rome,Singapore,10.1,15.9,0,,0,,0,,43.89,17.22,4.0,2.7,Debit Card
+2025-06-21,21:57:00,UBR100120,Completed,CUST1083,Uber Green,Singapore,Manchester,3.4,23.7,0,,0,,0,,52.89,18.63,3.9,1.6,Wallet
+2025-03-23,08:41:00,UBR100915,Completed,CUST1198,Uber Comfort,Vancouver,Birmingham,11.4,9.0,0,,0,,0,,32.62,9.78,3.9,3.4,Credit Card
+2025-01-05,18:46:00,UBR100025,Completed,CUST1195,Uber Green,Madrid,Phoenix,4.3,12.0,0,,0,,0,,58.36,27.23,3.8,1.6,
+2025-06-28,15:51:00,UBR100072,Completed,CUST1210,Uber Green,Birmingham,Singapore,11.6,11.3,0,,0,,0,,32.19,11.68,,3.3,Cash
+2025-02-25,10:52:00,UBR100192,Completed,CUST1188,UberX,,Chicago,1.1,7.8,0,,0,,0,,50.86,21.84,1.1,1.4,Credit Card
+2025-03-27,13:46:00,UBR100044,Incomplete,CUST1026,UberX,New York,Tokyo,15.3,13.3,0,,0,,1,Vehicle breakdown,48.91,13.93,2.7,,Cash
+2025-03-01,14:02:00,UBR100277,Completed,CUST1121,Uber Black,Chicago,Sydney,16.8,11.3,0,,0,,0,,12.27,3.52,4.3,4.4,Cash
+2025-01-26,14:11:00,UBR100834,Completed,CUST1105,Uber Comfort,Singapore,Los Angeles,,10.0,0,,0,,0,,92.58,32.57,3.9,4.2,Cash
+2025-05-15,17:22:00,UBR100694,Completed,CUST1230,UberXL,Dubai,Paris,14.5,5.8,0,,0,,0,,18.66,7.26,4.6,3.7,UPI
+2025-03-17,22:36:00,UBR100331,Cancelled by Customer,CUST1131,UberXL,Melbourne,London,2.1,14.8,1,Wrong pickup location,0,,0,,0.0,,,,PayPal
+2025-05-20,21:43:00,UBR100833,Completed,CUST1115,Uber Green,Sydney,Toronto,5.9,8.6,0,,0,,0,,92.82,29.05,2.3,2.1,UPI
+2025-01-20,07:19:00,UBR100351,Completed,CUST1210,Uber Black,Melbourne,Seoul,11.0,15.0,0,,0,,0,,61.62,20.99,1.9,3.6,Debit Card
+2025-02-10,03:00:00,UBR100700,Completed,CUST1156,Uber Black,Paris,Madrid,3.7,20.9,0,,0,,0,,21.55,7.87,1.5,1.9,PayPal
+2025-04-17,10:11:00,UBR100394,Completed,CUST1085,UberXL,Phoenix,Paris,3.9,5.6,0,,0,,0,,56.87,30.34,1.3,3.9,Cash
+2025-03-05,03:01:00,UBR100816,Completed,CUST1077,Uber Green,Rome,Toronto,16.8,21.5,0,,0,,0,,92.45,29.32,3.6,2.4,Credit Card
+2025-03-09,07:34:00,UBR100461,Cancelled by Customer,CUST1137,Uber Black,Seoul,Madrid,8.3,7.3,1,Found another ride,0,,0,,0.0,14.34,,,Credit Card
+2025-04-18,13:32:00,UBR100985,Completed,CUST1031,Uber Comfort,Sydney,Tokyo,13.8,15.8,0,,0,,0,,102.03,31.17,4.7,,PayPal
+2025-05-24,02:27:00,UBR100413,Completed,CUST1079,UberX,Melbourne,Dubai,4.7,5.5,0,,0,,0,,65.53,26.51,3.4,2.9,Cash
+2025-05-02,04:58:00,UBR100668,Incomplete,CUST1006,Uber Green,Tokyo,Phoenix,7.0,12.0,0,,0,,1,Route issue,19.37,9.96,1.1,,Wallet
+2025-04-04,22:41:00,UBR100305,Cancelled by Customer,CUST1012,Uber Black,Melbourne,Los Angeles,1.5,7.5,1,Driver taking too long,0,,0,,0.0,25.0,,,
+2025-06-12,06:11:00,UBR100990,Completed,CUST1069,Uber Black,Houston,,6.1,19.6,0,,0,,0,,45.67,25.74,2.7,3.2,Credit Card
+2025-03-27,00:51:00,UBR100350,Completed,CUST1110,Uber Green,Tokyo,London,14.5,8.1,0,,0,,0,,88.11,27.58,1.9,3.2,Credit Card
+2025-01-25,13:21:00,UBR100312,Completed,CUST1066,UberXL,Sydney,Dubai,1.1,4.3,0,,0,,0,,27.84,10.43,4.6,,Credit Card
+2025-01-29,03:14:00,UBR100333,Cancelled by Customer,CUST1142,Uber Comfort,Melbourne,Vancouver,12.8,15.2,1,Driver requested cancellation,0,,0,,0.0,30.63,,,Wallet
+2025-04-11,05:28:00,UBR100060,Completed,CUST1016,UberX,Rome,Los Angeles,11.1,13.4,0,,0,,0,,63.59,28.57,2.6,2.4,Cash
+2025-05-13,06:55:00,UBR100327,Incomplete,CUST1213,Uber Black,Madrid,Rome,17.1,11.8,0,,0,,1,Technical issue,28.78,,4.1,,Debit Card
+2025-05-02,09:39:00,UBR100362,Cancelled by Customer,CUST1122,UberXL,Singapore,Rome,5.5,14.1,1,Change of plans,0,,0,,0.0,16.16,,,PayPal
+2025-03-02,06:58:00,UBR100092,Cancelled by Customer,CUST1177,UberXL,Chicago,Manchester,12.8,6.4,1,Driver taking too long,0,,0,,0.0,18.72,,,Debit Card
+2025-04-23,07:35:00,UBR100628,Completed,CUST1206,Uber Comfort,Toronto,Tokyo,9.6,24.4,0,,0,,0,,61.42,21.6,2.1,4.2,Credit Card
+2025-03-15,07:25:00,UBR100493,Completed,CUST1156,UberXL,Singapore,London,16.6,10.4,0,,0,,0,,71.13,21.28,4.8,3.1,Debit Card
+2025-06-07,03:23:00,UBR100447,Cancelled by Driver,CUST1195,Uber Green,Manchester,Singapore,4.9,15.0,0,,1,Too far from pickup,0,,0.0,3.08,3.8,,Credit Card
+2025-05-23,03:40:00,UBR100433,Cancelled by Driver,CUST1082,Uber Black,Birmingham,Phoenix,4.5,24.0,0,,1,Customer unreachable,0,,0.0,2.3,4.7,,UPI
+2025-01-12,06:58:00,UBR100198,Completed,CUST1234,UberX,London,Chicago,2.4,11.8,0,,0,,0,,13.16,6.0,4.6,4.2,Cash
+2025-05-17,01:45:00,UBR100630,Cancelled by Customer,CUST1178,UberXL,Berlin,Toronto,7.0,16.5,1,Driver taking too long,0,,0,,0.0,,,,Cash
+2025-03-17,08:13:00,UBR100808,Completed,CUST1175,UberXL,Dubai,Manchester,12.9,23.3,0,,0,,0,,55.33,19.18,2.5,4.6,Credit Card
+2025-03-04,19:47:00,UBR100334,Cancelled by Customer,CUST1129,UberXL,Berlin,Phoenix,2.0,3.8,1,Found another ride,0,,0,,0.0,19.7,,,Wallet
+2025-05-25,13:27:00,UBR100552,Cancelled by Driver,CUST1176,Uber Green,Chicago,Dubai,11.1,11.1,0,,1,Wrong pickup location,0,,0.0,9.72,4.2,,Cash
+2025-06-05,11:24:00,UBR100881,Completed,CUST1025,Uber Comfort,Sydney,Manchester,10.1,17.9,0,,0,,0,,37.65,12.09,4.5,2.7,PayPal
+2025-06-25,00:38:00,UBR100945,Cancelled by Driver,CUST1238,Uber Green,Sydney,Houston,2.5,15.4,0,,1,Personal emergency,0,,0.0,12.15,1.5,,Debit Card
+2025-05-12,07:06:00,UBR100357,Completed,CUST1245,UberXL,New York,Los Angeles,4.7,3.9,0,,0,,0,,42.17,24.04,2.5,1.4,Wallet
+2025-06-08,09:16:00,UBR100485,Completed,CUST1136,UberXL,Phoenix,Paris,3.8,9.6,0,,0,,0,,54.87,28.07,1.4,2.1,Debit Card
+2025-02-06,10:30:00,UBR100596,Completed,CUST1066,UberXL,Paris,Madrid,12.7,6.5,0,,0,,0,,111.52,33.97,4.2,2.2,Cash
+2025-01-22,06:49:00,UBR100110,Completed,CUST1126,Uber Black,Sydney,Manchester,1.7,6.6,0,,0,,0,,61.17,19.89,2.8,,UPI
+2025-04-30,04:39:00,UBR100518,Completed,CUST1101,UberXL,Vancouver,London,18.0,3.0,0,,0,,0,,14.61,5.78,3.6,,Credit Card
+2025-06-07,08:19:00,UBR100355,Completed,CUST1092,Uber Green,Houston,Sydney,3.0,22.4,0,,0,,0,,92.95,23.44,2.7,2.5,Wallet
+2025-02-02,07:23:00,UBR100528,Completed,CUST1112,Uber Green,New York,Melbourne,10.6,9.9,0,,0,,0,,61.52,25.82,,3.7,Debit Card
+2025-04-25,06:12:00,UBR100445,Completed,CUST1204,UberX,Seoul,Rome,16.5,3.1,0,,0,,0,,46.63,11.45,4.2,4.8,PayPal
+2025-02-17,15:03:00,UBR100987,Completed,,UberXL,Dubai,Madrid,4.3,3.9,0,,0,,0,,14.11,4.93,1.6,2.5,PayPal
+2025-03-26,11:00:00,UBR100409,Cancelled by Driver,CUST1145,Uber Green,Paris,Houston,10.4,14.8,0,,1,Too far from pickup,0,,0.0,20.48,1.8,,UPI
+2025-06-04,02:17:00,UBR100682,Completed,CUST1207,UberXL,Phoenix,London,8.1,11.9,0,,0,,0,,71.99,22.01,1.1,3.2,Wallet
+2025-04-27,14:11:00,UBR100969,Cancelled by Customer,CUST1071,Uber Green,Toronto,Sydney,8.0,8.6,1,Driver taking too long,0,,0,,0.0,20.29,,,Credit Card
+2025-03-28,10:37:00,UBR100336,Completed,CUST1074,Uber Green,Seoul,Paris,2.4,3.8,0,,0,,0,,11.65,4.77,5.0,1.1,Cash
+2025-06-11,15:31:00,UBR100450,Cancelled by Driver,CUST1145,Uber Comfort,Singapore,Manchester,8.8,11.7,0,,1,Customer unreachable,0,,0.0,30.54,4.5,,PayPal
+2025-06-16,15:59:00,UBR100451,Incomplete,CUST1152,Uber Comfort,Birmingham,Seoul,6.5,14.6,0,,0,,1,Emergency,61.33,18.57,3.8,,UPI
+2025-02-01,20:01:00,UBR100074,Completed,CUST1134,Uber Green,Berlin,Seoul,7.9,15.1,0,,0,,0,,27.41,15.02,2.0,1.8,Wallet
+2025-04-29,17:54:00,UBR100664,Completed,CUST1080,Uber Comfort,London,New York,11.8,5.3,0,,0,,0,,58.02,34.05,3.5,1.4,UPI
+2025-05-22,10:07:00,UBR100705,Completed,CUST1025,Uber Black,Seoul,Birmingham,14.3,8.9,0,,0,,0,,,26.91,3.8,1.0,Cash
+2025-03-13,16:46:00,UBR100922,Completed,,Uber Green,Birmingham,Berlin,5.4,15.4,0,,0,,0,,77.1,21.36,3.1,1.6,Credit Card
+2025-03-16,23:23:00,UBR100999,Completed,CUST1228,UberXL,Sydney,Phoenix,3.2,5.5,0,,0,,0,,56.82,15.22,1.2,3.3,Credit Card
+2025-01-31,22:06:00,UBR100137,Completed,CUST1248,UberXL,Seoul,Birmingham,2.6,12.9,0,,0,,0,,19.59,4.2,4.0,2.4,UPI
+2025-02-10,02:50:00,UBR100802,Completed,CUST1212,Uber Green,Berlin,Chicago,17.0,20.7,0,,0,,0,,32.89,10.47,1.7,2.6,PayPal
+2025-05-17,03:10:00,UBR100876,Completed,CUST1204,Uber Green,Berlin,Los Angeles,9.9,24.4,0,,0,,0,,21.31,6.1,4.6,1.6,Cash
+2025-06-07,08:27:00,UBR100286,Incomplete,CUST1047,Uber Green,Toronto,Singapore,4.9,3.3,0,,0,,1,Route issue,48.19,13.38,4.1,,Credit Card
+2025-05-15,04:28:00,UBR100788,Completed,CUST1002,UberXL,London,Toronto,5.5,,0,,0,,0,,81.23,23.88,3.1,4.7,Credit Card
+2025-02-26,20:55:00,UBR100275,Completed,CUST1145,Uber Black,Paris,Vancouver,5.8,7.6,0,,0,,0,,8.03,1.65,1.2,2.9,Cash
+2025-03-14,13:44:00,UBR100585,Completed,CUST1086,Uber Green,Tokyo,Los Angeles,8.3,13.4,0,,0,,0,,63.1,25.57,1.6,1.1,UPI
+2025-05-16,01:11:00,UBR100307,Completed,CUST1154,Uber Comfort,Chicago,Rome,7.5,20.6,0,,0,,0,,,9.23,2.6,4.0,Debit Card
+2025-02-27,11:34:00,UBR100861,Cancelled by Driver,CUST1080,UberXL,Seoul,Dubai,15.1,5.4,0,,1,Vehicle issue,0,,0.0,28.25,1.4,,Wallet
+2025-02-24,17:30:00,UBR100215,Completed,CUST1117,Uber Green,Los Angeles,Birmingham,10.9,21.5,0,,0,,0,,24.52,11.09,3.2,1.9,Wallet
+2025-02-21,18:34:00,UBR100780,Cancelled by Customer,CUST1085,UberXL,Seoul,Madrid,17.8,13.2,1,Driver taking too long,0,,0,,0.0,33.23,,,PayPal
+2025-06-09,00:16:00,UBR100507,Completed,CUST1018,Uber Black,Singapore,Vancouver,16.4,16.3,0,,0,,0,,60.84,19.93,3.1,3.2,Credit Card
+2025-03-15,00:49:00,UBR100814,Completed,CUST1239,Uber Green,Manchester,Houston,,6.6,0,,0,,0,,54.54,28.0,2.3,3.2,Credit Card
+2025-06-19,18:44:00,UBR100567,Completed,CUST1028,UberXL,,Dubai,11.0,6.0,0,,0,,0,,37.99,15.73,2.7,3.2,UPI
+2025-04-21,19:30:00,UBR100370,Completed,CUST1034,Uber Green,Toronto,Tokyo,12.7,24.2,0,,0,,0,,73.19,27.62,3.9,,Cash
+2025-02-27,09:54:00,UBR100478,Cancelled by Customer,CUST1064,Uber Green,Chicago,Dubai,3.4,5.9,1,Found another ride,0,,0,,0.0,6.06,,,Debit Card
+2025-01-07,04:42:00,UBR100388,Completed,CUST1000,Uber Black,Birmingham,Houston,4.7,4.9,0,,0,,0,,54.26,22.78,1.8,4.3,Credit Card
+2025-01-14,08:40:00,UBR100078,Completed,CUST1039,UberXL,Berlin,Sydney,11.8,8.7,0,,0,,0,,23.25,7.36,1.6,4.3,UPI
+2025-01-10,18:43:00,UBR100029,Completed,CUST1033,Uber Comfort,Melbourne,,7.4,16.8,0,,0,,0,,54.64,16.91,3.0,4.4,Wallet
+2025-03-17,17:54:00,UBR100601,Completed,CUST1018,Uber Green,,Sydney,13.7,5.1,0,,0,,0,,28.46,9.37,2.9,5.0,Credit Card
+2025-04-09,21:42:00,UBR100448,Completed,CUST1208,UberX,Berlin,Seoul,6.9,12.5,0,,0,,0,,49.01,13.74,4.1,2.9,Wallet
+2025-01-17,16:23:00,UBR100395,Incomplete,CUST1068,UberXL,Tokyo,Dubai,11.6,10.6,0,,0,,1,Technical issue,61.5,16.73,1.8,,Debit Card
+2025-01-17,21:28:00,UBR100677,Completed,CUST1113,Uber Comfort,Los Angeles,Melbourne,16.2,12.9,0,,0,,0,,124.5,32.67,,2.7,PayPal
+2025-03-21,20:19:00,UBR100670,Completed,CUST1086,UberX,Rome,Madrid,13.0,19.2,0,,0,,0,,14.96,5.15,2.2,2.4,Cash
+2025-05-27,13:34:00,UBR100631,Completed,CUST1149,Uber Black,Singapore,Paris,8.8,13.8,0,,0,,0,,20.9,9.97,1.1,1.8,Credit Card
+2025-05-23,01:17:00,UBR100165,Completed,CUST1123,Uber Black,Toronto,New York,13.6,23.9,0,,0,,0,,79.07,22.7,1.8,3.3,Credit Card
+2025-04-15,02:26:00,UBR100591,Completed,CUST1022,UberX,Vancouver,New York,,5.6,0,,0,,0,,59.65,16.33,4.2,2.0,Cash
+2025-02-15,17:19:00,UBR100178,Completed,CUST1128,Uber Green,London,Sydney,17.7,17.7,0,,0,,0,,107.9,31.03,3.5,1.7,PayPal
+2025-05-19,20:52:00,UBR100514,Completed,CUST1017,UberXL,Tokyo,Madrid,1.5,11.9,0,,0,,0,,114.05,34.36,5.0,1.7,UPI
+2025-05-03,14:24:00,UBR100065,Completed,CUST1117,Uber Green,Phoenix,New York,2.9,21.6,0,,0,,0,,70.57,20.46,1.5,2.6,Wallet
+2025-05-14,18:10:00,UBR100141,Cancelled by Customer,CUST1079,Uber Comfort,Berlin,London,14.9,10.1,1,Wrong pickup location,0,,0,,0.0,23.99,,,Debit Card
+2025-03-20,04:19:00,UBR100483,Completed,CUST1081,UberXL,Singapore,Vancouver,3.5,21.1,0,,0,,0,,43.41,11.87,1.9,3.6,Debit Card
+2025-03-22,14:29:00,UBR100803,Completed,CUST1236,UberXL,Birmingham,Vancouver,2.1,4.2,0,,0,,0,,21.66,5.52,1.7,4.6,UPI
+2025-02-22,17:41:00,UBR100873,Completed,CUST1220,Uber Comfort,London,Chicago,13.7,21.6,0,,0,,0,,60.01,17.42,2.5,2.2,Debit Card
+2025-06-06,03:21:00,UBR100254,Incomplete,CUST1016,UberXL,Seoul,Singapore,17.5,5.5,0,,0,,1,Vehicle breakdown,60.84,34.34,2.6,,Wallet
+2025-02-23,15:48:00,UBR100940,Cancelled by Customer,CUST1139,Uber Comfort,Phoenix,Manchester,1.7,9.1,1,Driver taking too long,0,,0,,0.0,5.25,,,Wallet
+2025-02-22,07:50:00,UBR100306,Completed,CUST1127,Uber Comfort,Birmingham,Seoul,5.7,21.8,0,,0,,0,,89.47,31.98,4.7,,UPI
+2025-02-10,22:58:00,UBR100221,Completed,,UberXL,Phoenix,Madrid,11.8,20.0,0,,0,,0,,47.06,18.05,1.0,4.4,Wallet
+2025-03-25,12:33:00,UBR100235,Completed,CUST1085,Uber Green,Houston,Melbourne,9.5,3.3,0,,0,,0,,59.03,16.69,,2.4,UPI
+2025-04-06,08:24:00,UBR100342,Completed,CUST1225,Uber Comfort,Los Angeles,Toronto,9.2,20.1,0,,0,,0,,29.93,16.93,3.7,3.9,PayPal
+2025-05-31,06:29:00,UBR100308,Completed,CUST1085,UberXL,Dubai,New York,6.4,19.5,0,,0,,0,,71.51,24.1,2.7,1.4,Cash
+2025-02-26,04:03:00,UBR100605,Completed,CUST1070,Uber Black,Birmingham,London,10.3,,0,,0,,0,,65.26,21.87,,,Credit Card
+2025-01-17,18:21:00,UBR100950,Incomplete,CUST1205,Uber Black,,Berlin,5.5,18.2,0,,0,,1,Trip interrupted,45.76,22.68,4.7,,Cash
+2025-05-08,06:08:00,UBR100249,Completed,CUST1082,Uber Black,New York,Singapore,15.3,3.3,0,,0,,0,,26.2,6.71,3.8,4.9,Wallet
+2025-06-04,02:52:00,UBR100633,Cancelled by Driver,CUST1003,UberXL,Singapore,Houston,15.0,3.6,0,,1,Vehicle issue,0,,0.0,22.51,3.5,,Cash
+2025-02-24,23:55:00,UBR100896,Incomplete,CUST1109,UberX,Berlin,Los Angeles,3.3,3.5,0,,0,,1,Emergency,110.42,28.56,1.2,,Cash
+2025-05-30,11:05:00,UBR100071,Completed,CUST1155,UberXL,Manchester,London,12.3,6.9,0,,0,,0,,42.65,11.73,4.8,1.6,PayPal
+2025-05-19,15:54:00,UBR100094,Completed,CUST1225,Uber Comfort,Los Angeles,Toronto,7.3,8.7,0,,0,,0,,48.88,12.32,3.9,3.0,PayPal
+2025-06-01,11:02:00,UBR100033,Completed,CUST1189,Uber Green,Dubai,Chicago,5.1,18.0,0,,0,,0,,49.24,13.77,4.0,2.0,PayPal
+2025-06-09,04:21:00,UBR100259,Incomplete,CUST1175,UberX,Houston,Seoul,9.5,19.3,0,,0,,1,Technical issue,79.12,25.73,2.3,,UPI
+2025-06-14,05:04:00,UBR100204,Completed,CUST1140,UberXL,Sydney,Singapore,3.9,8.4,0,,0,,0,,38.89,12.71,4.4,2.4,Credit Card
+2025-04-27,04:30:00,UBR100361,Cancelled by Driver,CUST1001,Uber Comfort,Manchester,Berlin,1.4,5.6,0,,1,Wrong pickup location,0,,0.0,28.73,1.5,,Debit Card
+2025-03-18,12:48:00,UBR100643,Completed,CUST1214,Uber Black,Singapore,Houston,3.9,15.8,0,,0,,0,,102.66,26.53,3.2,4.0,PayPal
+2025-04-16,06:55:00,UBR100917,Cancelled by Customer,CUST1044,UberXL,Birmingham,Paris,,10.1,1,Driver requested cancellation,0,,0,,0.0,,,,Credit Card
+2025-06-15,21:19:00,UBR100077,Completed,CUST1221,UberX,Los Angeles,Houston,8.4,,0,,0,,0,,34.12,10.26,,4.1,Cash
+2025-01-08,11:00:00,UBR100084,Completed,CUST1080,Uber Green,Berlin,Singapore,12.8,21.7,0,,0,,0,,72.47,19.52,2.0,3.0,Debit Card
+2025-05-26,23:31:00,UBR100321,Completed,CUST1016,UberX,Los Angeles,Melbourne,13.2,4.5,0,,0,,0,,32.02,14.98,,1.5,Debit Card
+2025-03-22,15:57:00,UBR100082,Completed,CUST1108,Uber Black,Phoenix,New York,6.7,20.0,0,,0,,0,,40.42,19.45,1.4,1.3,Cash
+2025-03-20,05:15:00,UBR100962,Completed,CUST1204,UberXL,Melbourne,Madrid,4.1,16.4,0,,0,,0,,36.2,8.48,3.9,2.3,UPI
+2025-01-22,07:46:00,UBR100920,Completed,CUST1208,Uber Comfort,Singapore,London,13.6,,0,,0,,0,,22.66,7.78,4.8,3.9,UPI
+2025-05-23,13:47:00,UBR100497,Completed,CUST1094,UberXL,Houston,Rome,16.7,11.1,0,,0,,0,,21.16,8.37,1.4,3.8,Debit Card
+2025-01-19,05:23:00,UBR100547,Cancelled by Driver,CUST1185,UberX,Manchester,Birmingham,10.5,10.4,0,,1,Personal emergency,0,,0.0,31.22,3.1,,Cash
+2025-04-09,00:37:00,UBR100953,Completed,CUST1160,UberX,Berlin,Tokyo,6.9,23.3,0,,0,,0,,28.88,7.7,4.7,2.0,Credit Card
+2025-01-14,04:46:00,UBR100867,Completed,CUST1065,Uber Comfort,Houston,Singapore,4.4,9.3,0,,0,,0,,68.31,17.7,4.1,2.9,Cash
+2025-01-08,03:34:00,UBR100708,Completed,CUST1172,UberX,Paris,Melbourne,10.1,17.1,0,,0,,0,,56.22,14.11,4.8,1.4,Debit Card
+2025-05-04,08:12:00,UBR100005,Cancelled by Customer,CUST1040,Uber Green,Birmingham,Dubai,14.6,4.6,1,Driver requested cancellation,0,,0,,0.0,21.03,,,Cash
+2025-04-19,10:40:00,UBR100449,Completed,CUST1009,Uber Black,Chicago,Seoul,1.2,17.3,0,,0,,0,,52.38,25.05,3.0,2.8,PayPal
+2025-05-25,22:12:00,UBR100104,Cancelled by Driver,CUST1007,Uber Black,Rome,Tokyo,15.4,19.7,0,,1,Personal emergency,0,,0.0,33.92,3.5,,UPI
+2025-01-23,07:05:00,UBR100097,Cancelled by Driver,CUST1137,Uber Black,London,Birmingham,4.9,23.0,0,,1,Too far from pickup,0,,0.0,30.67,1.0,,Credit Card
+2025-02-26,01:45:00,UBR100298,Completed,CUST1180,UberXL,Chicago,Toronto,,19.0,0,,0,,0,,33.88,17.69,3.3,3.7,Cash
+2025-02-11,13:06:00,UBR100411,Incomplete,,Uber Comfort,Seoul,Vancouver,14.0,20.9,0,,0,,1,Trip interrupted,60.64,29.23,2.4,,Debit Card
+2025-06-04,13:59:00,UBR100398,Incomplete,CUST1064,UberX,,Rome,3.3,14.8,0,,0,,1,Route issue,10.51,1.82,1.7,,PayPal
+2025-06-07,11:09:00,UBR100913,Completed,CUST1178,Uber Comfort,Tokyo,Seoul,3.6,4.5,0,,0,,0,,33.03,9.12,1.9,1.5,Cash
+2025-04-25,14:17:00,UBR100281,Completed,CUST1022,UberXL,Madrid,Melbourne,17.3,12.5,0,,0,,0,,41.88,20.96,3.2,3.1,Debit Card
+2025-03-10,19:12:00,UBR100251,Cancelled by Driver,CUST1195,Uber Comfort,Berlin,Tokyo,5.2,14.3,0,,1,Too far from pickup,0,,0.0,29.14,3.1,,Wallet
+2025-01-15,02:02:00,UBR100468,Completed,CUST1143,UberX,Toronto,London,1.2,6.1,0,,0,,0,,11.16,3.13,3.9,4.9,Debit Card
+2025-06-29,09:03:00,UBR100424,Completed,CUST1233,UberXL,Seoul,Rome,8.9,20.4,0,,0,,0,,24.73,7.79,2.6,2.7,Wallet
+2025-01-19,06:54:00,UBR100696,Completed,CUST1114,Uber Black,Paris,Melbourne,11.5,24.7,0,,0,,0,,72.45,21.01,3.6,4.4,Debit Card
+2025-03-25,07:14:00,UBR100425,Incomplete,CUST1113,Uber Green,Manchester,Paris,10.7,10.3,0,,0,,1,Trip interrupted,28.87,10.07,2.3,,Wallet
+2025-01-02,20:17:00,UBR100965,Completed,CUST1165,Uber Black,Vancouver,New York,7.7,6.8,0,,0,,0,,57.27,18.19,2.5,4.2,Wallet
+2025-05-13,12:09:00,UBR100551,Completed,CUST1076,Uber Black,Berlin,Tokyo,7.1,6.9,0,,0,,0,,43.99,12.68,3.8,3.5,Cash
+2025-05-14,10:19:00,UBR100118,Cancelled by Driver,CUST1188,Uber Comfort,Phoenix,Singapore,5.6,4.3,0,,1,Wrong pickup location,0,,0.0,16.29,3.1,,UPI
+2025-06-15,00:40:00,UBR100408,Completed,,UberX,New York,Rome,2.5,23.0,0,,0,,0,,48.79,21.81,1.0,,PayPal
+2025-01-27,22:39:00,UBR100250,Completed,CUST1133,Uber Green,Houston,Seoul,17.3,18.7,0,,0,,0,,56.84,19.26,,,Debit Card
+2025-01-02,08:44:00,UBR100380,Completed,CUST1003,UberXL,Seoul,Phoenix,13.5,7.6,0,,0,,0,,65.35,,1.5,3.6,PayPal
+2025-06-30,07:13:00,UBR100479,Completed,CUST1207,UberX,Toronto,Phoenix,7.2,8.0,0,,0,,0,,28.79,6.84,1.9,1.2,Wallet
+2025-03-27,09:37:00,UBR100009,Completed,CUST1169,Uber Green,Sydney,Madrid,6.0,5.3,0,,0,,0,,99.16,33.07,2.8,1.9,UPI
+2025-05-12,09:01:00,UBR100359,Completed,CUST1157,Uber Black,Phoenix,Singapore,14.5,23.1,0,,0,,0,,34.94,11.99,2.4,2.2,Wallet
+2025-05-27,06:51:00,UBR100196,Completed,CUST1167,Uber Comfort,Los Angeles,Phoenix,16.3,11.9,0,,0,,0,,43.04,16.62,2.3,4.0,Credit Card
+2025-06-06,17:07:00,UBR100777,Cancelled by Driver,CUST1043,UberXL,Houston,Manchester,11.7,20.5,0,,1,Vehicle issue,0,,0.0,32.8,4.9,,Credit Card
+2025-05-29,21:59:00,UBR100081,Completed,CUST1010,Uber Comfort,Madrid,New York,13.2,9.5,0,,0,,0,,48.57,21.59,3.3,2.9,PayPal
+2025-04-28,13:35:00,UBR100790,Completed,CUST1111,UberXL,Dubai,Melbourne,13.1,,0,,0,,0,,56.18,25.72,4.9,1.1,UPI
+2025-04-07,05:06:00,UBR100662,Completed,CUST1082,Uber Green,London,Berlin,9.1,4.0,0,,0,,0,,41.16,15.24,2.2,2.2,UPI
+2025-01-28,01:09:00,UBR100653,Completed,CUST1197,UberX,New York,Phoenix,5.0,8.8,0,,0,,0,,68.49,32.77,,1.5,
+2025-05-25,21:41:00,UBR100239,Cancelled by Driver,CUST1097,Uber Green,Seoul,Berlin,4.8,12.5,0,,1,Vehicle issue,0,,0.0,2.52,3.9,,Debit Card
+2025-03-26,10:20:00,UBR100752,Completed,CUST1016,,Tokyo,Houston,,4.0,0,,0,,0,,34.09,11.21,1.2,2.0,Cash
+2025-06-18,11:35:00,UBR100211,Completed,CUST1029,UberX,Madrid,Chicago,14.5,24.8,0,,0,,0,,16.56,5.74,1.8,5.0,PayPal
+2025-06-03,12:37:00,UBR100755,Cancelled by Customer,CUST1018,UberX,Los Angeles,Phoenix,1.4,14.5,1,Driver requested cancellation,0,,0,,0.0,2.6,,,Credit Card
+2025-03-23,03:16:00,UBR100420,Completed,CUST1018,UberXL,Berlin,Vancouver,3.1,18.9,0,,0,,0,,94.08,25.26,1.7,2.3,Debit Card
+2025-01-21,18:01:00,UBR100501,Completed,CUST1132,Uber Comfort,Los Angeles,Paris,10.2,13.1,0,,0,,0,,103.17,32.71,3.0,1.3,Credit Card
+2025-02-14,20:37:00,UBR100227,Incomplete,CUST1058,Uber Comfort,Houston,Vancouver,16.3,18.6,0,,0,,1,Route issue,11.13,2.0,4.7,,Credit Card
+2025-01-30,13:13:00,UBR100901,Completed,CUST1180,Uber Green,Berlin,Madrid,13.8,10.5,0,,0,,0,,47.06,23.22,3.8,1.2,Wallet
+2025-01-23,21:33:00,UBR100533,Completed,CUST1090,UberX,Sydney,Birmingham,1.7,19.3,0,,0,,0,,92.58,29.26,4.3,4.9,Debit Card
+2025-04-15,03:18:00,UBR100836,Completed,CUST1147,UberXL,Singapore,,9.3,21.3,0,,0,,0,,110.83,29.31,4.8,3.5,UPI
+2025-05-09,16:54:00,UBR100177,Cancelled by Driver,CUST1007,Uber Green,Toronto,Chicago,13.5,21.0,0,,1,Personal emergency,0,,0.0,34.44,,,PayPal
+2025-03-18,12:45:00,UBR100984,Completed,CUST1190,Uber Black,Singapore,Seoul,14.1,16.0,0,,0,,0,,70.41,22.27,2.2,5.0,Cash
+2025-05-31,19:33:00,UBR100436,Completed,CUST1131,UberX,Vancouver,Berlin,5.8,15.9,0,,0,,0,,8.01,1.76,2.0,4.7,PayPal
+2025-03-10,19:13:00,UBR100404,Completed,CUST1054,UberXL,New York,Melbourne,2.8,24.6,0,,0,,0,,57.04,30.03,2.5,4.1,
+2025-05-23,20:58:00,UBR100918,Incomplete,CUST1074,Uber Comfort,Madrid,Singapore,5.4,15.0,0,,0,,1,Route issue,15.49,3.16,1.7,,Cash
+2025-04-26,12:21:00,UBR100352,Completed,CUST1112,UberXL,Madrid,London,3.6,24.5,0,,0,,0,,29.12,10.39,3.2,1.5,Debit Card
+2025-05-25,10:39:00,UBR100903,Cancelled by Driver,CUST1103,UberXL,Rome,Singapore,9.2,14.0,0,,1,Too far from pickup,0,,0.0,5.96,1.9,,UPI
+2025-04-09,11:23:00,UBR100007,Completed,CUST1103,Uber Black,Los Angeles,New York,10.5,11.4,0,,0,,0,,30.32,11.71,4.9,4.4,Wallet
+2025-06-02,08:07:00,UBR100155,Completed,CUST1058,Uber Comfort,Los Angeles,Rome,7.6,6.6,0,,0,,0,,18.24,4.95,2.1,4.7,UPI
+2025-01-30,17:23:00,UBR100570,Incomplete,CUST1047,UberX,Dubai,Sydney,9.6,4.2,0,,0,,1,Emergency,42.82,20.29,3.1,,Credit Card
+2025-04-16,20:16:00,UBR100554,Completed,CUST1059,Uber Comfort,Paris,Melbourne,5.9,4.6,0,,0,,0,,49.28,25.72,2.4,4.0,Debit Card
+2025-02-27,10:05:00,UBR100329,Completed,CUST1118,UberX,Los Angeles,Vancouver,1.9,6.5,0,,0,,0,,57.84,16.15,2.3,1.3,Debit Card
+2025-04-07,10:22:00,UBR100525,Completed,CUST1005,Uber Comfort,New York,Madrid,10.2,20.7,0,,0,,0,,52.57,23.26,3.0,1.2,UPI
+2025-05-21,16:55:00,UBR100442,Completed,CUST1096,Uber Green,Birmingham,London,,24.7,0,,0,,0,,34.74,11.01,2.0,3.0,Cash
+2025-01-01,21:35:00,UBR100817,Completed,CUST1008,UberX,Rome,Chicago,17.0,3.0,0,,0,,0,,25.22,10.31,3.9,3.6,Credit Card
+2025-06-17,07:21:00,UBR100597,Completed,CUST1217,UberX,Manchester,Madrid,2.2,9.1,0,,0,,0,,20.49,5.03,2.3,4.8,Credit Card
+2025-04-25,06:12:00,UBR100445,Completed,CUST1204,UberX,Seoul,Rome,16.5,3.1,0,,0,,0,,46.63,11.45,4.2,4.8,PayPal
+2025-05-31,08:33:00,UBR100761,Cancelled by Customer,CUST1151,UberX,,Houston,14.6,12.5,1,Found another ride,0,,0,,0.0,6.54,,,Cash
+2025-01-27,21:50:00,UBR100983,Completed,CUST1218,UberXL,Chicago,Madrid,5.5,5.9,0,,0,,0,,70.36,34.12,3.0,2.6,Wallet
+2025-02-26,06:04:00,UBR100598,Completed,CUST1008,UberX,Birmingham,London,3.1,23.8,0,,0,,0,,,27.02,1.5,4.1,UPI
+2025-06-03,09:19:00,UBR100464,Completed,CUST1094,Uber Black,Sydney,London,13.5,9.1,0,,0,,0,,111.98,28.95,3.6,2.4,UPI
+2025-01-01,03:04:00,UBR100978,Cancelled by Driver,CUST1144,UberXL,Tokyo,Houston,8.1,6.8,0,,1,Personal emergency,0,,0.0,3.8,1.5,,Debit Card
+2025-01-12,13:33:00,UBR100614,Completed,CUST1158,UberX,Sydney,Seoul,4.2,4.2,0,,0,,0,,31.02,8.45,1.3,5.0,UPI
+2025-05-20,09:12:00,UBR100745,Completed,CUST1229,UberXL,Singapore,Seoul,8.3,7.3,0,,0,,0,,98.49,30.67,1.1,4.2,PayPal
+2025-04-25,01:40:00,UBR100516,Completed,CUST1148,UberXL,Toronto,Phoenix,6.1,13.1,0,,0,,0,,47.21,17.73,2.1,2.5,Credit Card
+2025-01-23,00:56:00,UBR100506,Completed,CUST1234,UberX,Singapore,Vancouver,7.1,14.6,0,,0,,0,,11.51,3.87,3.3,4.2,Wallet
+2025-04-14,06:32:00,UBR100228,Completed,CUST1118,Uber Green,Toronto,Melbourne,10.0,17.3,0,,0,,0,,71.85,23.9,3.6,3.2,PayPal
+2025-06-03,02:26:00,UBR100616,Completed,CUST1121,UberX,Phoenix,Sydney,17.1,7.3,0,,0,,0,,53.46,17.97,4.5,3.8,Cash
+2025-05-15,17:27:00,UBR100767,Cancelled by Driver,CUST1027,Uber Black,Chicago,Madrid,11.6,,0,,1,Personal emergency,0,,0.0,12.98,3.2,,Debit Card
+2025-05-21,10:47:00,UBR100212,Cancelled by Customer,CUST1132,Uber Comfort,Manchester,Chicago,12.2,19.9,1,Driver taking too long,0,,0,,0.0,22.59,,,UPI
+2025-03-26,00:41:00,UBR100079,Completed,CUST1099,UberX,Toronto,Los Angeles,5.7,,0,,0,,0,,10.56,1.82,3.6,4.3,Wallet
+2025-06-30,05:37:00,UBR100148,Completed,CUST1228,Uber Green,Manchester,Phoenix,1.7,11.2,0,,0,,0,,7.31,1.61,2.1,3.6,Wallet
+2025-05-18,06:26:00,UBR100302,Incomplete,CUST1186,Uber Comfort,Melbourne,London,10.5,21.6,0,,0,,1,Vehicle breakdown,61.76,27.75,4.2,,PayPal
+2025-06-05,07:00:00,UBR100576,Completed,CUST1104,UberX,Paris,Dubai,4.5,10.1,0,,0,,0,,,7.66,2.9,4.8,Debit Card
+2025-01-07,18:23:00,UBR100688,Completed,CUST1164,Uber Green,Dubai,New York,10.5,,0,,0,,0,,25.46,11.52,3.0,,Credit Card
+2025-05-06,12:31:00,UBR100535,Completed,CUST1135,Uber Comfort,Seoul,New York,15.6,18.1,0,,0,,0,,78.19,34.68,4.5,1.8,
+2025-06-28,03:16:00,UBR100382,Cancelled by Customer,CUST1246,UberX,Manchester,Paris,3.6,10.2,1,Driver requested cancellation,0,,0,,0.0,32.79,,,Cash
+2025-06-02,07:29:00,UBR100043,Cancelled by Driver,CUST1009,UberXL,Vancouver,Chicago,,6.6,0,,1,Customer unreachable,0,,0.0,15.28,2.6,,PayPal
+2025-03-30,03:40:00,UBR100377,Completed,CUST1146,Uber Black,New York,Phoenix,11.4,9.5,0,,0,,0,,35.88,17.91,2.0,,Cash
+2025-01-11,10:49:00,UBR100133,Completed,CUST1200,Uber Green,Dubai,Melbourne,11.1,13.9,0,,0,,0,,21.73,8.98,5.0,1.5,Wallet
+2025-06-29,14:11:00,UBR100580,Cancelled by Driver,CUST1067,Uber Black,Birmingham,Houston,1.7,11.9,0,,1,Wrong pickup location,0,,0.0,30.47,3.6,,Wallet
+2025-02-17,10:08:00,UBR100311,Completed,CUST1190,Uber Comfort,Chicago,Sydney,4.2,11.2,0,,0,,0,,37.96,16.17,4.7,1.2,Cash
+2025-06-25,17:05:00,UBR100477,Completed,CUST1232,Uber Comfort,Manchester,Chicago,10.3,18.0,0,,0,,0,,64.33,30.9,1.8,3.1,UPI
+2025-05-09,05:13:00,UBR100883,Cancelled by Customer,CUST1002,Uber Green,Singapore,Phoenix,15.7,9.5,1,Found another ride,0,,0,,0.0,21.9,,,Wallet
+2025-06-04,09:11:00,UBR100490,Completed,CUST1223,UberXL,Tokyo,Phoenix,8.4,14.6,0,,0,,0,,9.71,1.85,1.8,4.0,UPI
+2025-02-09,11:30:00,UBR100828,Completed,CUST1079,Uber Green,Dubai,Birmingham,16.2,20.7,0,,0,,0,,53.5,13.55,1.7,2.2,Wallet
+2025-03-16,01:27:00,UBR100000,Cancelled by Customer,CUST1116,Uber Comfort,Manchester,Melbourne,3.4,17.3,1,Driver requested cancellation,0,,0,,0.0,21.37,,,Wallet
+2025-06-07,02:51:00,UBR100666,Completed,CUST1237,UberXL,Paris,Berlin,16.8,9.1,0,,0,,0,,29.7,14.09,4.8,1.3,PayPal
+2025-05-18,05:44:00,UBR100316,Completed,CUST1179,UberX,Singapore,Chicago,,8.6,0,,0,,0,,87.49,23.41,4.1,1.4,Wallet
+2025-01-30,17:01:00,UBR100992,Completed,CUST1105,UberXL,Birmingham,Manchester,16.6,14.7,0,,0,,0,,64.42,30.86,1.4,3.4,Cash
+2025-02-08,05:06:00,UBR100842,Completed,CUST1003,UberX,Vancouver,Birmingham,14.8,13.1,0,,0,,0,,16.06,5.14,,2.6,UPI
+2025-01-07,06:04:00,UBR100689,Cancelled by Customer,CUST1034,UberX,Sydney,,3.9,15.8,1,Driver requested cancellation,0,,0,,0.0,30.65,,,Debit Card
+2025-02-20,02:40:00,UBR100964,Completed,CUST1145,Uber Green,Singapore,Melbourne,6.2,22.5,0,,0,,0,,52.17,12.95,3.7,2.4,PayPal
+2025-05-01,09:26:00,UBR100982,Completed,CUST1193,UberXL,Dubai,Vancouver,9.8,19.9,0,,0,,0,,34.03,14.18,1.7,4.0,UPI
+2025-04-22,11:57:00,UBR100770,Completed,CUST1130,UberX,Vancouver,New York,2.3,14.0,0,,0,,0,,59.2,30.84,3.7,4.2,UPI
+2025-04-08,14:01:00,UBR100172,Completed,CUST1084,Uber Green,Los Angeles,Rome,17.1,21.7,0,,0,,0,,73.08,25.12,3.7,,Debit Card
+2025-02-18,12:15:00,UBR100125,Completed,CUST1240,Uber Black,Manchester,Melbourne,4.9,4.6,0,,0,,0,,40.28,14.33,3.4,3.7,Credit Card
+2025-02-03,05:24:00,UBR100440,Completed,CUST1054,UberXL,Tokyo,Toronto,8.8,10.2,0,,0,,0,,6.54,1.52,,2.8,Credit Card
+2025-03-10,10:08:00,UBR100841,Cancelled by Driver,CUST1211,Uber Green,Dubai,Los Angeles,2.7,23.3,0,,1,Vehicle issue,0,,0.0,33.63,1.6,,Debit Card
+2025-02-02,15:12:00,UBR100582,Completed,CUST1151,Uber Green,Paris,New York,13.1,24.4,0,,0,,0,,6.27,1.36,4.2,2.0,Debit Card
+2025-05-23,15:58:00,UBR100949,Incomplete,CUST1052,Uber Black,Melbourne,Birmingham,17.1,16.3,0,,0,,1,Vehicle breakdown,83.48,27.55,,,Wallet
+2025-02-06,01:00:00,UBR100090,Completed,CUST1228,,Sydney,Paris,11.0,24.6,0,,0,,0,,29.79,14.44,4.5,,PayPal
+2025-04-18,13:20:00,UBR100988,Incomplete,CUST1147,Uber Comfort,Toronto,Paris,12.2,8.0,0,,0,,1,Technical issue,47.41,25.27,2.7,,Cash
+2025-01-23,19:59:00,UBR100181,Completed,CUST1127,UberX,Chicago,Los Angeles,15.3,13.4,0,,0,,0,,56.91,16.42,4.9,3.5,UPI
+2025-02-24,02:23:00,UBR100363,Cancelled by Driver,CUST1094,Uber Comfort,Los Angeles,Toronto,8.1,3.3,0,,1,Customer unreachable,0,,0.0,27.71,2.9,,Credit Card
+2025-03-21,07:04:00,UBR100274,Completed,CUST1242,Uber Comfort,Melbourne,Paris,6.7,20.4,0,,0,,0,,103.85,29.46,,,Credit Card
+2025-01-03,20:12:00,UBR100941,Completed,CUST1049,UberXL,Dubai,Singapore,14.0,23.1,0,,0,,0,,61.02,15.65,2.7,2.7,Wallet
+2025-02-26,17:04:00,UBR100069,Completed,CUST1062,Uber Black,Madrid,New York,,11.8,0,,0,,0,,122.28,34.49,1.2,2.3,UPI
+2025-02-28,17:46:00,UBR100291,Completed,CUST1206,Uber Comfort,Vancouver,Sydney,8.7,18.1,0,,0,,0,,41.95,24.37,4.6,3.6,Credit Card
+2025-06-19,09:43:00,UBR100131,Completed,CUST1151,UberX,Paris,Berlin,5.0,,0,,0,,0,,20.56,7.11,2.1,4.3,UPI
+2025-02-08,03:06:00,UBR100300,Cancelled by Driver,CUST1088,Uber Green,Rome,London,16.1,21.0,0,,1,Vehicle issue,0,,0.0,30.26,3.0,,Wallet
+2025-04-16,20:16:00,UBR100554,Completed,CUST1059,Uber Comfort,Paris,Melbourne,5.9,4.6,0,,0,,0,,49.28,25.72,2.4,4.0,Debit Card
+2025-05-26,10:07:00,UBR100326,Completed,CUST1200,Uber Green,Vancouver,Rome,16.3,7.7,0,,0,,0,,70.76,32.13,4.5,3.2,Credit Card
+2025-04-03,00:42:00,UBR100144,Cancelled by Driver,CUST1129,Uber Comfort,Toronto,Sydney,7.2,11.5,0,,1,Too far from pickup,0,,0.0,4.77,3.3,,Credit Card
+2025-03-23,08:41:00,UBR100915,Completed,CUST1198,Uber Comfort,Vancouver,Birmingham,11.4,9.0,0,,0,,0,,32.62,9.78,3.9,3.4,Credit Card
+2025-01-24,10:36:00,UBR100613,Completed,CUST1191,UberXL,Vancouver,Berlin,8.5,23.9,0,,0,,0,,30.72,11.45,2.0,3.1,Cash
+2025-03-27,22:27:00,UBR100675,Cancelled by Customer,CUST1179,Uber Comfort,Rome,Vancouver,17.1,6.7,1,Wrong pickup location,0,,0,,0.0,12.57,,,Wallet
+2025-03-11,07:04:00,UBR100866,Cancelled by Driver,CUST1230,Uber Comfort,Birmingham,Phoenix,8.5,21.3,0,,1,Personal emergency,0,,0.0,14.76,3.7,,UPI
+2025-01-14,19:17:00,UBR100866,Completed,CUST1075,Uber Comfort,Toronto,Los Angeles,5.9,11.9,0,,0,,0,,26.27,6.17,4.0,4.9,Cash
+2025-04-23,20:06:00,UBR100164,Completed,CUST1224,UberXL,London,Houston,7.3,4.4,0,,0,,0,,33.57,16.08,4.2,4.1,Cash
+2025-01-29,20:43:00,UBR100028,Completed,CUST1068,UberX,Chicago,Toronto,6.3,24.5,0,,0,,0,,15.65,6.56,1.7,,Credit Card
+2025-01-05,18:56:00,UBR100910,Completed,CUST1117,Uber Comfort,Paris,Sydney,,16.3,0,,0,,0,,64.11,28.02,4.8,2.4,Cash
+2025-01-09,22:47:00,UBR100193,Completed,CUST1036,UberX,Manchester,Singapore,11.5,5.5,0,,0,,0,,27.41,14.61,2.4,3.0,Cash
+2025-02-27,09:49:00,UBR100432,Cancelled by Driver,CUST1074,UberXL,Phoenix,Los Angeles,8.3,16.8,0,,1,Too far from pickup,0,,0.0,16.25,1.9,,Cash
+2025-04-30,12:21:00,UBR100743,Cancelled by Driver,CUST1133,Uber Comfort,Toronto,Berlin,8.3,11.8,0,,1,Vehicle issue,0,,0.0,12.0,1.7,,PayPal
+2025-01-19,11:51:00,UBR100578,Cancelled by Customer,CUST1219,,Birmingham,Madrid,5.5,4.2,1,Change of plans,0,,0,,0.0,15.46,,,Cash
+2025-03-25,04:09:00,UBR100169,Completed,CUST1106,UberX,Toronto,London,6.9,9.9,0,,0,,0,,31.89,17.68,4.1,1.3,Credit Card
+2025-04-23,03:52:00,UBR100529,Completed,CUST1194,Uber Black,Toronto,New York,8.9,4.2,0,,0,,0,,43.3,15.61,1.2,3.9,PayPal
+2025-02-24,04:21:00,UBR100140,Completed,CUST1162,Uber Black,Paris,New York,,15.5,0,,0,,0,,40.97,14.62,2.6,3.0,Cash
+2025-05-18,10:10:00,UBR100173,Completed,CUST1191,Uber Black,Manchester,Toronto,14.4,7.4,0,,0,,0,,66.13,18.52,2.0,1.7,UPI
+2025-05-16,06:58:00,UBR100006,Completed,CUST1032,Uber Black,New York,Toronto,2.3,10.9,0,,0,,0,,7.29,1.68,1.5,4.5,UPI
+2025-01-21,20:51:00,UBR100810,Completed,CUST1119,UberXL,Tokyo,Seoul,17.1,4.5,0,,0,,0,,76.99,24.38,3.0,2.3,
+2025-03-21,18:17:00,UBR100523,Completed,CUST1190,Uber Comfort,Seoul,Vancouver,10.3,16.6,0,,0,,0,,36.07,,3.7,4.3,Cash
+2025-01-08,09:22:00,UBR100685,Completed,CUST1234,Uber Green,,Seoul,2.0,22.1,0,,0,,0,,53.25,22.77,2.2,1.0,Wallet
+2025-04-24,20:45:00,UBR100073,Completed,CUST1165,Uber Black,Vancouver,Seoul,3.6,7.0,0,,0,,0,,51.56,18.92,4.4,4.8,
+2025-04-15,11:35:00,UBR100720,Completed,CUST1248,UberXL,Berlin,Birmingham,15.9,12.2,0,,0,,0,,50.19,14.99,4.6,5.0,Credit Card
+2025-06-19,11:27:00,UBR100462,Completed,CUST1043,UberXL,London,Phoenix,4.7,5.3,0,,0,,0,,34.55,11.09,3.3,3.0,Credit Card
+2025-03-23,05:23:00,UBR100238,Cancelled by Customer,CUST1192,UberXL,Vancouver,Singapore,16.3,22.3,1,Found another ride,0,,0,,0.0,14.26,,,UPI
+2025-03-24,18:42:00,UBR100145,Completed,CUST1148,UberX,Berlin,Los Angeles,14.3,8.8,0,,0,,0,,82.06,26.69,,3.8,Cash
+2025-05-08,22:40:00,UBR100996,Cancelled by Driver,CUST1225,UberX,Birmingham,Toronto,3.0,18.4,0,,1,Wrong pickup location,0,,0.0,6.42,1.0,,UPI
+2025-04-08,21:36:00,UBR100234,Completed,CUST1106,Uber Black,Singapore,London,9.9,24.5,0,,0,,0,,104.43,27.99,4.0,1.6,PayPal
+2025-06-10,08:42:00,UBR100220,Completed,CUST1016,Uber Comfort,Berlin,Melbourne,12.9,9.6,0,,0,,0,,80.73,25.3,1.4,4.1,UPI
+2025-04-29,02:41:00,UBR100214,Completed,CUST1233,Uber Comfort,Toronto,Seoul,13.0,4.1,0,,0,,0,,23.0,,1.3,2.6,UPI
+2025-04-09,11:19:00,UBR100695,Cancelled by Customer,CUST1053,UberXL,Berlin,Tokyo,4.5,3.4,1,Driver requested cancellation,0,,0,,0.0,18.81,,,Credit Card
+2025-03-10,11:26:00,UBR100132,Cancelled by Customer,CUST1048,Uber Black,Manchester,Madrid,15.8,13.4,1,Wrong pickup location,0,,0,,0.0,22.29,,,Wallet
+2025-01-14,04:46:00,UBR100867,Completed,CUST1065,Uber Comfort,Houston,Singapore,4.4,9.3,0,,0,,0,,68.31,17.7,4.1,2.9,Cash
+2025-01-02,02:59:00,UBR100457,Completed,CUST1065,Uber Comfort,Toronto,London,4.0,22.1,0,,0,,0,,23.3,11.77,2.8,1.5,Debit Card
+2025-03-26,05:13:00,UBR100800,Completed,CUST1078,Uber Comfort,Phoenix,New York,2.2,18.2,0,,0,,0,,60.67,18.26,3.1,2.5,UPI
+2025-05-17,19:12:00,UBR100422,Completed,CUST1153,Uber Green,Rome,Tokyo,9.1,10.4,0,,0,,0,,,31.4,,1.0,Cash
+2025-05-30,01:22:00,UBR100185,Completed,CUST1109,Uber Black,Seoul,Dubai,,18.4,0,,0,,0,,98.66,26.21,4.4,4.9,PayPal
+2025-04-12,16:11:00,UBR100041,Cancelled by Customer,CUST1151,,Chicago,Dubai,6.7,6.7,1,Wrong pickup location,0,,0,,0.0,10.7,,,UPI
+2025-06-06,05:29:00,UBR100644,Cancelled by Customer,CUST1219,UberX,Manchester,Tokyo,3.4,22.4,1,Driver taking too long,0,,0,,0.0,22.18,,,Debit Card
+2025-04-13,03:13:00,UBR100108,Cancelled by Driver,CUST1165,UberXL,New York,Los Angeles,12.7,20.6,0,,1,Vehicle issue,0,,0.0,29.07,1.8,,UPI
+2025-01-21,00:51:00,UBR100621,Completed,CUST1081,Uber Black,Dubai,Manchester,6.2,7.0,0,,0,,0,,37.98,16.3,1.3,3.9,Wallet
+2025-02-28,14:36:00,UBR100056,Completed,CUST1197,Uber Green,Berlin,Paris,16.9,3.2,0,,0,,0,,95.59,31.61,1.9,2.5,UPI
+2025-05-13,23:38:00,UBR100557,Completed,CUST1064,UberXL,,Los Angeles,7.1,20.8,0,,0,,0,,14.33,6.26,2.6,4.2,Wallet
+2025-01-23,08:43:00,UBR100491,Completed,CUST1071,Uber Green,Paris,New York,8.5,4.5,0,,0,,0,,56.83,25.95,3.3,3.4,
+2025-01-15,12:57:00,UBR100594,Completed,CUST1040,Uber Black,Los Angeles,Seoul,2.5,23.3,0,,0,,0,,72.13,23.31,3.8,1.5,UPI
+2025-02-15,06:45:00,UBR100905,Completed,CUST1217,Uber Green,New York,Madrid,15.2,4.5,0,,0,,0,,38.55,15.01,4.8,4.9,Credit Card
+2025-04-08,12:25:00,UBR100435,Cancelled by Customer,CUST1000,UberXL,Toronto,Tokyo,3.0,24.0,1,Change of plans,0,,0,,0.0,32.44,,,Debit Card
+2025-06-02,09:34:00,UBR100024,Completed,CUST1189,Uber Green,Sydney,Los Angeles,15.3,21.9,0,,0,,0,,36.84,20.75,2.0,1.2,PayPal
+2025-05-12,07:06:00,UBR100357,Completed,CUST1245,UberXL,New York,Los Angeles,4.7,3.9,0,,0,,0,,42.17,24.04,2.5,1.4,Wallet
+2025-04-20,21:53:00,UBR100522,Completed,,Uber Black,Melbourne,Madrid,13.6,19.7,0,,0,,0,,47.68,14.41,3.4,1.7,Credit Card
+2025-05-22,10:00:00,UBR100948,Completed,CUST1233,UberX,New York,Chicago,3.4,,0,,0,,0,,25.76,7.88,1.3,1.4,Wallet
+2025-02-09,20:34:00,UBR100652,Cancelled by Driver,CUST1045,Uber Green,Toronto,Vancouver,1.4,15.8,0,,1,Wrong pickup location,0,,0.0,30.92,3.2,,UPI
+2025-01-28,19:13:00,UBR100731,Cancelled by Customer,CUST1120,Uber Black,Toronto,Birmingham,2.5,16.0,1,Found another ride,0,,0,,,14.24,,,UPI
+2025-02-16,15:18:00,UBR100047,Completed,CUST1206,Uber Green,Rome,Phoenix,11.5,18.5,0,,0,,0,,83.88,27.96,1.9,1.5,UPI
+2025-02-15,07:02:00,UBR100338,Completed,CUST1244,Uber Black,Los Angeles,Chicago,5.7,,0,,0,,0,,74.06,20.27,1.4,3.4,Credit Card
+2025-03-02,08:53:00,UBR100051,Completed,CUST1148,UberX,Singapore,Seoul,10.1,10.8,0,,0,,0,,18.79,6.91,4.6,1.5,Credit Card
+2025-03-11,11:37:00,UBR100383,Incomplete,CUST1098,UberXL,Toronto,Los Angeles,4.5,9.9,0,,0,,1,Trip interrupted,44.78,,3.5,,PayPal
+2025-06-26,06:35:00,UBR100543,Completed,CUST1236,UberXL,Melbourne,Birmingham,13.0,8.2,0,,0,,0,,65.09,17.84,2.6,2.8,UPI
+2025-06-28,12:37:00,UBR100967,Completed,CUST1233,Uber Comfort,Dubai,Rome,12.0,15.0,0,,0,,0,,21.3,5.24,4.0,2.4,Cash
+2025-06-20,12:41:00,UBR100667,Completed,CUST1189,Uber Comfort,Chicago,Manchester,6.4,,0,,0,,0,,85.29,23.82,2.9,3.4,Wallet
+2025-05-29,06:29:00,UBR100973,Completed,CUST1219,UberXL,Houston,Berlin,4.5,24.3,0,,0,,0,,14.8,6.85,1.1,4.1,PayPal
+2025-02-06,22:38:00,UBR100264,Completed,CUST1091,UberXL,Madrid,London,15.0,9.4,0,,0,,0,,52.37,16.16,2.8,1.1,UPI
+2025-01-24,12:20:00,UBR100998,Completed,CUST1012,Uber Green,Toronto,Chicago,8.1,18.4,0,,0,,0,,72.13,20.15,4.0,4.1,PayPal
+2025-01-08,13:35:00,UBR100854,Completed,CUST1084,Uber Black,Paris,Vancouver,13.6,24.7,0,,0,,0,,21.56,11.38,3.7,2.0,Credit Card
+2025-02-11,04:03:00,UBR100937,Completed,CUST1094,Uber Black,Sydney,New York,17.6,17.1,0,,0,,0,,106.41,33.09,1.1,3.9,Cash
+2025-05-11,04:36:00,UBR100444,Incomplete,CUST1226,UberX,Sydney,London,8.6,19.1,0,,0,,1,Route issue,60.54,14.89,,,Wallet
+2025-06-20,00:58:00,UBR100395,Completed,CUST1031,UberX,New York,Los Angeles,13.2,5.4,0,,0,,0,,46.64,18.52,1.1,5.0,Credit Card
+2025-03-16,16:28:00,UBR100545,Completed,CUST1127,Uber Green,Berlin,Phoenix,13.7,7.6,0,,0,,0,,99.28,27.66,3.1,3.9,UPI
+2025-01-28,17:20:00,UBR100499,Completed,CUST1126,Uber Black,New York,Madrid,2.5,23.6,0,,0,,0,,33.77,18.78,,4.2,PayPal
+2025-05-28,23:35:00,UBR100018,Completed,CUST1134,Uber Black,Paris,Houston,12.2,15.5,0,,0,,0,,24.73,9.22,1.4,2.5,PayPal
+2025-02-28,18:12:00,UBR100753,Completed,CUST1214,UberX,Sydney,Los Angeles,5.9,11.1,0,,0,,0,,50.54,19.19,1.3,,Wallet
+2025-02-11,02:16:00,UBR100526,Completed,CUST1119,Uber Black,New York,Paris,17.4,18.8,0,,0,,0,,16.73,4.66,5.0,3.8,
+2025-04-07,13:19:00,UBR100599,Completed,CUST1179,Uber Black,Los Angeles,Houston,2.8,24.2,0,,0,,0,,87.41,31.32,4.6,2.1,PayPal
+2025-03-10,13:32:00,UBR100482,Completed,CUST1105,UberX,Phoenix,Singapore,11.6,13.4,0,,0,,0,,64.04,16.39,4.5,2.1,Wallet
+2025-03-30,23:11:00,UBR100367,Completed,CUST1077,UberX,Melbourne,Vancouver,3.8,4.3,0,,0,,0,,64.16,16.46,3.8,3.9,Cash
+2025-04-18,02:51:00,UBR100083,Completed,CUST1178,UberXL,New York,Rome,2.8,9.9,0,,0,,0,,32.03,16.74,4.2,4.8,Cash
+2025-06-11,09:47:00,UBR100061,Completed,CUST1226,Uber Black,Phoenix,Toronto,16.7,18.9,0,,0,,0,,127.69,32.73,1.2,4.1,Debit Card
+2025-05-21,12:04:00,UBR100494,Completed,CUST1232,UberXL,Vancouver,Seoul,14.2,7.9,0,,0,,0,,28.02,13.9,1.7,2.6,Wallet
+2025-06-26,04:04:00,UBR100272,Completed,CUST1063,Uber Green,Toronto,,6.7,6.1,0,,0,,0,,37.9,19.2,3.8,1.8,
+2025-01-31,18:34:00,UBR100285,Completed,CUST1223,Uber Green,New York,Manchester,15.6,24.9,0,,0,,0,,82.7,34.96,2.0,,Wallet
+2025-01-19,18:44:00,UBR100360,Completed,CUST1145,Uber Green,New York,Vancouver,1.2,22.7,0,,0,,0,,76.19,21.59,1.6,4.1,PayPal
+2025-06-22,13:10:00,UBR100354,Completed,CUST1241,Uber Comfort,Madrid,Singapore,,10.6,0,,0,,0,,31.23,11.58,4.3,2.9,Cash
+2025-04-05,04:52:00,UBR100746,Completed,CUST1024,UberX,Dubai,Rome,3.7,16.1,0,,0,,0,,59.57,20.49,,1.7,PayPal
+2025-02-27,23:11:00,UBR100278,Completed,CUST1172,UberXL,Los Angeles,Melbourne,13.9,3.3,0,,0,,0,,55.68,20.84,1.8,3.9,Debit Card
+2025-05-10,03:39:00,UBR100012,Completed,CUST1053,Uber Green,Dubai,Phoenix,6.9,17.0,0,,0,,0,,11.11,2.45,3.7,3.1,Credit Card
+2025-06-16,07:33:00,UBR100182,Completed,CUST1200,Uber Comfort,Melbourne,Los Angeles,4.9,21.4,0,,0,,0,,44.51,24.4,2.1,3.6,UPI
+2025-03-04,18:35:00,UBR100368,Completed,CUST1178,Uber Black,Singapore,Toronto,14.0,12.1,0,,0,,0,,37.08,10.86,3.6,3.3,UPI
+2025-04-03,03:11:00,UBR100531,Cancelled by Driver,CUST1102,Uber Comfort,Madrid,Houston,1.2,6.3,0,,1,Too far from pickup,0,,0.0,34.32,,,PayPal
+2025-03-07,13:29:00,UBR100649,Completed,CUST1192,Uber Comfort,Phoenix,Seoul,3.7,18.1,0,,0,,0,,44.64,21.46,1.5,2.7,Cash
+2025-06-21,19:32:00,UBR100223,Completed,CUST1027,UberX,Birmingham,Manchester,16.1,9.3,0,,0,,0,,101.69,26.11,2.5,1.2,
+2025-01-05,14:46:00,UBR100604,Completed,CUST1222,Uber Black,Manchester,Madrid,7.5,20.5,0,,0,,0,,73.87,32.13,2.8,1.7,Wallet
+2025-02-27,18:36:00,UBR100736,Completed,CUST1220,Uber Black,London,Dubai,9.4,10.5,0,,0,,0,,51.31,18.11,1.6,3.2,UPI
+2025-01-04,08:52:00,UBR100713,Completed,CUST1158,Uber Green,Rome,Phoenix,11.8,23.0,0,,0,,0,,34.04,19.36,,,Cash
+2025-05-24,11:07:00,UBR100575,Completed,CUST1076,Uber Black,Berlin,Paris,8.3,19.1,0,,0,,0,,60.43,25.37,2.3,2.3,Debit Card
+2025-02-13,11:14:00,UBR100486,Incomplete,CUST1054,UberX,Paris,Los Angeles,1.3,6.2,0,,0,,1,Technical issue,32.75,15.27,3.6,,UPI
+2025-01-21,12:14:00,UBR100465,Completed,CUST1101,UberXL,Chicago,Rome,2.1,21.1,0,,0,,0,,82.41,24.75,3.6,3.6,Debit Card
+2025-01-17,08:12:00,UBR100615,Incomplete,CUST1074,Uber Black,Seoul,Madrid,8.7,13.4,0,,0,,1,Technical issue,71.38,29.24,3.8,,Debit Card
+2025-04-30,13:57:00,UBR100495,Cancelled by Driver,CUST1246,UberX,Los Angeles,Seoul,13.2,12.5,0,,1,Personal emergency,0,,0.0,18.68,2.2,,UPI
+2025-03-04,03:03:00,UBR100880,Cancelled by Customer,CUST1054,UberX,Paris,Melbourne,10.5,10.2,1,Driver requested cancellation,0,,0,,0.0,,,,Cash
+2025-05-23,03:57:00,UBR100176,Completed,CUST1103,UberXL,Paris,Houston,3.7,18.3,0,,0,,0,,39.02,11.76,4.2,2.3,Debit Card
+2025-01-12,01:21:00,UBR100954,Completed,CUST1043,UberXL,Phoenix,Toronto,8.2,19.6,0,,0,,0,,31.01,7.65,3.4,3.8,Wallet
+2025-04-22,21:04:00,UBR100661,Completed,CUST1232,Uber Black,Melbourne,Sydney,14.6,12.7,0,,0,,0,,32.8,11.9,3.0,4.4,Wallet
+2025-05-21,21:38:00,UBR100618,Completed,CUST1006,UberX,Berlin,Vancouver,12.6,14.0,0,,0,,0,,14.47,3.86,4.1,4.4,Credit Card
+2025-02-04,17:59:00,UBR100456,Cancelled by Customer,CUST1107,UberX,Houston,Chicago,14.2,21.9,1,Driver taking too long,0,,0,,0.0,11.45,,,
+2025-03-18,14:28:00,UBR100548,Completed,CUST1083,UberX,New York,Los Angeles,1.1,19.7,0,,0,,0,,19.3,6.08,3.9,2.5,
+2025-03-26,14:21:00,UBR100393,Completed,CUST1133,UberX,Dubai,Madrid,17.9,12.6,0,,0,,0,,35.88,9.87,4.7,2.4,
+2025-05-27,02:38:00,UBR100163,Completed,CUST1187,Uber Comfort,Seoul,Houston,6.5,17.0,0,,0,,0,,54.81,17.65,1.6,3.8,UPI
+2025-03-25,22:11:00,UBR100248,Cancelled by Customer,CUST1244,Uber Black,Dubai,Los Angeles,3.0,19.8,1,Driver requested cancellation,0,,0,,0.0,6.01,,,Wallet
+2025-01-30,18:33:00,UBR100971,Completed,CUST1134,Uber Green,Chicago,Tokyo,11.9,17.6,0,,0,,0,,34.44,11.53,2.7,1.2,UPI
+2025-01-06,06:49:00,UBR100678,Cancelled by Driver,CUST1074,Uber Green,Berlin,Dubai,16.5,12.0,0,,1,Too far from pickup,0,,0.0,16.18,4.0,,Cash
+2025-05-23,13:02:00,UBR100930,Incomplete,,Uber Comfort,Birmingham,Singapore,11.0,3.2,0,,0,,1,Vehicle breakdown,71.22,26.03,1.2,,UPI
+2025-01-28,16:44:00,UBR100706,Completed,CUST1130,Uber Comfort,Toronto,Madrid,1.4,17.1,0,,0,,0,,30.96,10.2,2.7,2.1,Wallet
+2025-04-27,23:44:00,UBR100375,Completed,CUST1027,UberX,Birmingham,Dubai,4.1,10.0,0,,0,,0,,39.88,16.09,2.7,,Wallet
+2025-02-15,14:27:00,UBR100412,Incomplete,CUST1143,Uber Green,Dubai,Chicago,13.7,12.8,0,,0,,1,Technical issue,100.83,33.01,1.1,,PayPal
+2025-02-01,20:01:00,UBR100074,Completed,CUST1134,Uber Green,Berlin,Seoul,7.9,15.1,0,,0,,0,,27.41,15.02,2.0,1.8,Wallet
+2025-06-11,13:26:00,UBR100926,Completed,CUST1040,UberX,London,Madrid,1.7,11.5,0,,0,,0,,105.81,32.44,2.6,1.7,Credit Card
+2025-06-08,11:12:00,UBR100500,Incomplete,CUST1166,Uber Green,Phoenix,Berlin,17.7,14.8,0,,0,,1,Emergency,9.33,2.89,3.0,,Cash
+2025-05-29,17:14:00,UBR100590,Completed,CUST1063,UberX,Singapore,Rome,3.6,23.5,0,,0,,0,,68.14,30.37,2.5,3.9,Cash
+2025-05-05,21:31:00,UBR100114,Completed,CUST1130,Uber Green,Houston,Manchester,8.9,21.4,0,,0,,0,,78.77,34.73,1.9,4.1,UPI
+2025-03-25,19:38:00,UBR100417,Completed,CUST1052,Uber Black,Rome,Seoul,2.4,10.8,0,,0,,0,,60.8,19.98,3.7,2.1,Debit Card
+2025-03-06,00:02:00,UBR100089,Completed,CUST1172,UberXL,Sydney,Berlin,6.0,8.1,0,,0,,0,,37.96,12.57,1.2,1.1,PayPal
+2025-05-13,22:42:00,UBR100968,Cancelled by Customer,CUST1195,UberXL,Houston,Birmingham,17.2,7.0,1,Found another ride,0,,0,,0.0,16.43,,,Cash
+2025-06-22,18:21:00,UBR100911,Completed,CUST1055,UberXL,Dubai,Berlin,2.1,16.7,0,,0,,0,,57.98,33.97,,2.1,Credit Card
+2025-04-13,00:53:00,UBR100684,Completed,CUST1182,Uber Black,Tokyo,Los Angeles,2.8,24.7,0,,0,,0,,97.61,25.6,3.5,3.6,Credit Card
+2025-02-02,09:17:00,UBR100847,Completed,CUST1080,Uber Green,Seoul,Sydney,1.6,,0,,0,,0,,45.35,18.5,3.0,,Cash
+2025-06-09,20:56:00,UBR100011,Completed,CUST1179,UberX,New York,Seoul,2.1,8.6,0,,0,,0,,,9.45,2.0,,Debit Card
+2025-04-23,03:48:00,UBR100396,Completed,CUST1170,Uber Green,Singapore,Berlin,9.7,22.0,0,,0,,0,,41.63,22.31,4.5,1.0,Credit Card
+2025-06-23,08:47:00,UBR100908,Completed,CUST1141,UberX,Tokyo,Vancouver,10.8,22.6,0,,0,,0,,15.95,3.22,3.6,2.9,Credit Card
+2025-06-04,08:21:00,UBR100042,Completed,CUST1190,UberX,Birmingham,Tokyo,,12.0,0,,0,,0,,32.07,13.38,3.4,2.1,Wallet
+2025-03-31,21:23:00,UBR100167,Completed,CUST1125,UberXL,Seoul,Dubai,16.5,20.2,0,,0,,0,,106.71,32.88,,1.2,PayPal
+2025-03-19,13:03:00,UBR100416,Completed,CUST1082,UberXL,Vancouver,Chicago,16.9,14.3,0,,0,,0,,90.31,24.89,3.0,1.7,Credit Card
+2025-06-25,11:14:00,UBR100837,Completed,CUST1159,UberX,Seoul,Manchester,10.9,23.9,0,,0,,0,,115.89,31.95,2.9,4.6,Cash
+2025-06-13,19:44:00,UBR100426,Completed,CUST1174,Uber Green,Rome,Berlin,12.9,9.3,0,,0,,0,,125.61,34.77,3.5,2.8,Debit Card
+2025-05-31,00:04:00,UBR100927,Cancelled by Driver,CUST1033,UberX,Toronto,New York,13.8,5.0,0,,1,Customer unreachable,0,,0.0,12.91,4.4,,PayPal
+2025-05-26,12:09:00,UBR100004,Completed,CUST1043,UberXL,Los Angeles,Manchester,7.7,23.4,0,,0,,0,,36.05,20.39,3.9,2.3,PayPal
+2025-06-23,08:20:00,UBR100721,Incomplete,CUST1128,Uber Comfort,Tokyo,Vancouver,4.1,14.1,0,,0,,1,Technical issue,,26.86,4.4,,UPI
+2025-03-02,18:55:00,UBR100991,Completed,CUST1051,Uber Black,Toronto,Birmingham,8.4,20.4,0,,0,,0,,80.88,27.34,4.3,2.2,Credit Card
+2025-02-17,22:29:00,UBR100257,Completed,CUST1232,Uber Black,Chicago,Manchester,5.6,16.1,0,,0,,0,,79.16,24.05,4.5,4.8,Credit Card
+2025-01-22,11:31:00,UBR100335,Completed,CUST1179,Uber Comfort,Tokyo,Los Angeles,3.1,5.4,0,,0,,0,,51.99,22.88,3.6,4.5,Cash
+2025-06-08,22:01:00,UBR100015,Completed,CUST1098,Uber Comfort,Birmingham,New York,4.0,24.6,0,,0,,0,,55.6,26.05,3.1,2.0,Cash
+2025-01-19,01:03:00,UBR100806,Completed,CUST1100,UberXL,Tokyo,Vancouver,2.8,17.6,0,,0,,0,,38.43,9.09,2.1,,Debit Card
+2025-06-20,02:38:00,UBR100324,Completed,CUST1200,Uber Green,Toronto,Los Angeles,15.2,4.1,0,,0,,0,,,9.02,2.9,2.5,Wallet
+2025-06-05,05:53:00,UBR100832,Completed,CUST1110,UberX,Birmingham,New York,15.2,22.7,0,,0,,0,,36.82,19.18,4.3,1.4,Credit Card
+2025-02-23,15:51:00,UBR100222,Cancelled by Driver,CUST1213,UberX,Singapore,Phoenix,14.5,19.6,0,,1,Customer unreachable,0,,0.0,8.37,1.1,,Cash
+2025-05-06,17:01:00,UBR100179,Completed,CUST1132,Uber Black,Phoenix,Chicago,4.2,21.9,0,,0,,0,,94.5,25.51,4.3,3.2,Debit Card
+2025-03-01,05:34:00,UBR100099,Completed,CUST1221,Uber Green,Tokyo,Manchester,2.7,23.6,0,,0,,0,,81.16,33.75,3.8,1.3,Debit Card
+2025-04-18,18:55:00,UBR100521,Completed,CUST1152,Uber Comfort,Manchester,Sydney,1.1,14.0,0,,0,,0,,59.69,33.51,2.5,4.9,Debit Card
+2025-01-17,18:47:00,UBR100022,Incomplete,CUST1160,UberX,Singapore,Sydney,12.9,10.9,0,,0,,1,Trip interrupted,25.33,9.79,2.2,,Credit Card
+2025-03-22,16:48:00,UBR100356,Completed,CUST1168,UberXL,Seoul,London,9.1,16.2,0,,0,,0,,52.43,15.23,3.3,2.6,UPI
+2025-01-19,12:19:00,UBR100703,Completed,CUST1114,UberX,Toronto,Rome,2.1,15.7,0,,0,,0,,40.99,21.68,2.4,2.1,Wallet
+2025-05-13,08:25:00,UBR100906,Completed,CUST1024,Uber Black,Rome,Seoul,5.4,8.6,0,,0,,0,,82.77,27.44,4.8,3.5,Wallet
+2025-01-10,17:40:00,UBR100740,Cancelled by Driver,CUST1176,Uber Green,Singapore,Phoenix,1.5,18.2,0,,1,Customer unreachable,0,,0.0,34.74,2.9,,PayPal
+2025-01-27,14:40:00,UBR100340,Completed,CUST1181,UberXL,Birmingham,Tokyo,14.0,3.1,0,,0,,0,,70.97,29.82,1.0,2.5,UPI
+2025-05-20,05:56:00,UBR100431,Completed,CUST1239,UberX,Houston,Paris,2.5,14.8,0,,0,,0,,7.02,1.91,4.7,2.6,Debit Card
+2025-03-29,14:40:00,UBR100581,Completed,CUST1076,Uber Green,Melbourne,London,6.4,19.9,0,,0,,0,,38.49,18.49,3.0,2.2,Credit Card
+2025-03-24,08:29:00,UBR100877,Completed,CUST1050,Uber Black,Manchester,Seoul,16.5,10.2,0,,0,,0,,75.11,20.54,3.0,4.8,Cash
+2025-02-04,18:30:00,UBR100203,Cancelled by Driver,CUST1133,Uber Comfort,Sydney,Berlin,17.9,15.0,0,,1,Too far from pickup,0,,0.0,13.72,1.4,,
+2025-06-10,07:18:00,UBR100665,Cancelled by Customer,CUST1018,Uber Green,Vancouver,Houston,10.9,10.9,1,Driver requested cancellation,0,,0,,0.0,34.24,,,Credit Card
+2025-05-22,23:00:00,UBR100093,Completed,CUST1097,Uber Black,,Vancouver,15.9,8.8,0,,0,,0,,59.41,19.35,1.5,4.6,Cash
+2025-02-21,20:32:00,UBR100588,Completed,CUST1037,Uber Comfort,Los Angeles,Dubai,14.9,24.1,0,,0,,0,,12.93,3.85,4.2,3.4,Wallet
+2025-02-06,02:06:00,UBR100068,Completed,CUST1105,UberX,Madrid,Toronto,10.8,16.3,0,,0,,0,,110.98,32.25,2.7,3.9,Cash
+2025-06-25,02:39:00,UBR100656,Completed,CUST1083,UberXL,Rome,Chicago,14.8,3.8,0,,0,,0,,42.37,15.97,3.1,3.6,Debit Card
+2025-06-06,07:34:00,UBR100284,Cancelled by Customer,CUST1103,Uber Green,Vancouver,Tokyo,15.0,21.6,1,Driver taking too long,0,,0,,0.0,31.55,,,Debit Card
+2025-01-06,00:13:00,UBR100844,Cancelled by Driver,CUST1131,Uber Black,Seoul,Los Angeles,5.7,7.5,0,,1,Personal emergency,0,,0.0,34.67,2.8,,Debit Card
+2025-06-20,18:06:00,UBR100434,Cancelled by Customer,CUST1120,UberXL,Rome,Los Angeles,13.9,11.7,1,Wrong pickup location,0,,0,,0.0,22.84,,,Cash
+2025-03-22,20:46:00,UBR100153,Completed,CUST1135,UberX,Phoenix,Paris,17.6,17.7,0,,0,,0,,7.23,1.91,1.0,2.0,UPI
+2025-01-08,01:35:00,UBR100075,Completed,CUST1087,Uber Black,Birmingham,Melbourne,17.4,23.8,0,,0,,0,,90.75,31.2,1.6,2.6,Credit Card
+2025-02-06,22:38:00,UBR100264,Completed,CUST1091,UberXL,Madrid,London,15.0,9.4,0,,0,,0,,52.37,16.16,2.8,1.1,UPI
+2025-03-04,09:33:00,UBR100446,Incomplete,CUST1099,Uber Black,Berlin,Madrid,13.5,24.9,0,,0,,1,Vehicle breakdown,7.52,1.68,2.2,,Debit Card
+2025-02-17,21:39:00,UBR100188,Incomplete,CUST1100,Uber Black,Chicago,Rome,9.3,19.2,0,,0,,1,Trip interrupted,66.05,20.58,3.1,,Cash
+2025-01-19,03:14:00,UBR100271,Cancelled by Customer,CUST1073,UberXL,Tokyo,Sydney,3.9,14.0,1,Wrong pickup location,0,,0,,0.0,20.02,,,Debit Card
+2025-02-24,07:35:00,UBR100236,Completed,CUST1175,Uber Black,Berlin,Rome,5.3,8.4,0,,0,,0,,58.43,28.51,2.6,4.6,Wallet
+2025-04-16,13:31:00,UBR100487,Completed,CUST1073,Uber Black,Sydney,Los Angeles,7.1,19.6,0,,0,,0,,34.13,11.54,3.0,1.5,PayPal
+2025-03-06,09:46:00,UBR100559,Completed,CUST1178,Uber Black,Melbourne,Toronto,6.3,18.3,0,,0,,0,,58.19,19.97,1.1,2.5,UPI
+2025-01-01,05:12:00,UBR100117,Cancelled by Driver,CUST1063,Uber Comfort,Berlin,Toronto,7.4,16.3,0,,1,Vehicle issue,0,,0.0,,2.4,,UPI
+2025-02-25,06:53:00,UBR100859,Completed,CUST1021,Uber Black,New York,Toronto,4.6,9.0,0,,0,,0,,54.1,32.81,2.2,3.1,Wallet
+2025-06-07,00:52:00,UBR100512,Incomplete,CUST1091,Uber Black,Paris,Chicago,7.5,21.4,0,,0,,1,Technical issue,74.12,25.83,4.5,,UPI
+2025-02-28,16:52:00,UBR100583,Completed,CUST1176,Uber Black,Birmingham,Chicago,9.7,10.0,0,,0,,0,,96.82,31.2,4.9,4.7,Credit Card
+2025-06-23,19:25:00,UBR100707,Completed,CUST1135,UberX,Toronto,Paris,14.4,17.8,0,,0,,0,,32.49,9.99,1.5,3.8,Wallet
+2025-06-05,10:28:00,UBR100126,Completed,CUST1220,UberXL,Los Angeles,Sydney,2.9,6.3,0,,0,,0,,76.03,19.53,3.1,2.0,UPI
+2025-06-13,05:00:00,UBR100116,Cancelled by Driver,CUST1150,Uber Black,Dubai,Los Angeles,16.0,12.7,0,,1,Too far from pickup,0,,0.0,12.19,2.3,,Wallet
+2025-05-05,05:13:00,UBR100473,Completed,CUST1069,Uber Green,Berlin,Madrid,14.3,18.5,0,,0,,0,,20.07,4.77,4.3,1.2,Wallet
+2025-01-30,20:27:00,UBR100730,Completed,CUST1171,Uber Comfort,Houston,Singapore,11.6,17.6,0,,0,,0,,82.93,,1.9,3.6,Debit Card
+2025-02-05,15:19:00,UBR100057,Completed,CUST1222,UberXL,Madrid,Paris,10.8,23.2,0,,0,,0,,50.26,18.93,,4.9,PayPal
+2025-01-03,05:06:00,UBR100711,Incomplete,CUST1078,UberXL,Birmingham,New York,12.3,18.2,0,,0,,1,Technical issue,32.43,15.62,4.1,,Cash
+2025-06-06,20:52:00,UBR100958,Cancelled by Driver,CUST1189,Uber Comfort,Vancouver,London,6.6,20.8,0,,1,Vehicle issue,0,,0.0,21.12,1.5,,Cash
+2025-01-24,10:05:00,UBR100369,Completed,CUST1172,Uber Green,Vancouver,Los Angeles,3.9,4.1,0,,0,,0,,97.75,33.91,3.5,1.8,Credit Card
+2025-03-17,07:50:00,UBR100268,Cancelled by Driver,CUST1207,Uber Black,London,Seoul,8.0,3.3,0,,1,Vehicle issue,0,,0.0,,2.2,,Wallet
+2025-02-01,00:33:00,UBR100046,Completed,CUST1091,UberXL,New York,Seoul,9.5,13.5,0,,0,,0,,32.86,8.2,4.3,2.2,Cash
+2025-06-12,11:48:00,UBR100349,Completed,CUST1218,Uber Comfort,London,Paris,12.8,18.4,0,,0,,0,,20.84,5.7,4.0,4.5,PayPal
+2025-04-01,02:53:00,UBR100195,Cancelled by Driver,CUST1086,Uber Green,Melbourne,New York,,3.9,0,,1,Wrong pickup location,0,,0.0,28.96,4.5,,Credit Card
+2025-03-22,23:25:00,UBR100102,Cancelled by Customer,CUST1235,Uber Comfort,Madrid,Los Angeles,13.4,23.0,1,Found another ride,0,,0,,0.0,23.32,,,Wallet
+2025-03-28,13:57:00,UBR100934,Completed,CUST1150,Uber Comfort,Seoul,Los Angeles,4.7,20.0,0,,0,,0,,59.02,23.53,,3.7,Credit Card
+2025-04-02,03:52:00,UBR100728,Completed,CUST1009,UberX,Chicago,Birmingham,12.0,19.5,0,,0,,0,,52.29,17.13,4.6,4.5,PayPal
+2025-01-15,17:50:00,UBR100970,Completed,CUST1084,UberXL,London,Houston,9.8,18.9,0,,0,,0,,40.74,12.82,2.5,1.1,PayPal
+2025-01-28,14:24:00,UBR100263,Cancelled by Driver,CUST1181,Uber Green,Berlin,Singapore,12.3,20.3,0,,1,Personal emergency,0,,0.0,19.4,2.8,,Wallet
+2025-02-25,21:01:00,UBR100443,Completed,CUST1214,Uber Comfort,New York,Birmingham,8.7,9.1,0,,0,,0,,83.87,21.99,4.8,1.6,Credit Card
+2025-03-10,20:59:00,UBR100712,Completed,CUST1047,Uber Green,Dubai,Seoul,17.3,23.3,0,,0,,0,,81.96,25.29,2.8,4.4,Debit Card
+2025-03-13,01:48:00,UBR100304,Completed,CUST1022,Uber Black,Houston,New York,5.0,23.0,0,,0,,0,,21.28,7.94,2.9,2.9,Cash
+2025-02-11,05:02:00,UBR100341,Completed,CUST1164,Uber Green,Berlin,Madrid,11.3,21.7,0,,0,,0,,75.9,22.34,1.2,3.9,Credit Card
+2025-02-14,21:28:00,UBR100820,Completed,CUST1029,Uber Comfort,Houston,Paris,10.7,23.4,0,,0,,0,,7.91,1.88,3.6,2.7,UPI
+2025-05-23,13:47:00,UBR100977,Completed,CUST1235,Uber Green,Houston,Tokyo,16.2,23.1,0,,0,,0,,21.59,6.9,1.9,,PayPal
+2025-06-29,09:13:00,UBR100149,Cancelled by Driver,CUST1020,UberXL,Seoul,Houston,16.2,24.0,0,,1,Wrong pickup location,0,,,23.23,4.1,,Cash
+2025-04-19,22:34:00,UBR100124,Cancelled by Customer,CUST1128,UberX,London,Seoul,6.6,16.9,1,Change of plans,0,,0,,0.0,30.87,,,
+2025-03-12,16:08:00,UBR100825,Completed,CUST1085,UberXL,New York,Singapore,1.9,15.6,0,,0,,0,,37.74,22.26,4.5,2.9,PayPal
+2025-01-24,18:51:00,UBR100864,Cancelled by Driver,CUST1244,UberX,Singapore,Paris,4.2,15.2,0,,1,Vehicle issue,0,,0.0,14.36,2.0,,PayPal
+2025-04-05,23:17:00,UBR100050,Completed,CUST1143,Uber Comfort,Melbourne,Madrid,4.1,10.6,0,,0,,0,,13.98,5.56,4.6,2.9,Wallet
+2025-06-20,00:45:00,UBR100353,Completed,CUST1052,UberX,Manchester,Houston,17.6,,0,,0,,0,,73.27,24.92,2.2,4.9,UPI
+2025-06-13,07:52:00,UBR100976,Cancelled by Driver,CUST1113,Uber Black,Birmingham,Rome,5.3,11.4,0,,1,Customer unreachable,0,,0.0,4.59,3.0,,Credit Card
+2025-01-10,13:12:00,UBR100142,Completed,CUST1053,UberX,Los Angeles,,16.7,13.7,0,,0,,0,,98.57,33.56,3.4,4.1,Wallet
+2025-01-15,23:37:00,UBR100470,Cancelled by Driver,,Uber Comfort,Seoul,Birmingham,4.2,7.1,0,,1,Customer unreachable,0,,0.0,12.77,1.2,,Cash
+2025-01-31,19:41:00,UBR100399,Cancelled by Driver,CUST1111,UberXL,Chicago,Rome,6.1,9.6,0,,1,Too far from pickup,0,,0.0,26.12,2.3,,Cash
+2025-03-28,08:21:00,UBR100749,Completed,CUST1014,Uber Black,Phoenix,Houston,8.7,3.3,0,,0,,0,,44.23,20.19,3.2,3.6,Wallet
+2025-05-23,04:28:00,UBR100320,Completed,CUST1240,Uber Green,Toronto,London,4.5,3.4,0,,0,,0,,17.42,7.37,3.7,1.3,Cash
+2025-01-21,13:17:00,UBR100019,Incomplete,CUST1096,Uber Comfort,Vancouver,London,12.4,22.0,0,,0,,1,Route issue,96.53,31.35,1.9,,Debit Card
+2025-06-09,15:55:00,UBR100850,Cancelled by Driver,CUST1177,Uber Black,Toronto,Birmingham,15.5,21.6,0,,1,Wrong pickup location,0,,0.0,13.71,2.9,,Wallet
+2025-01-16,18:20:00,UBR100829,Incomplete,CUST1185,Uber Green,Rome,Sydney,12.6,21.3,0,,0,,1,Route issue,85.04,25.5,1.2,,UPI
+2025-06-18,23:18:00,UBR100849,Completed,CUST1099,UberX,London,Berlin,1.7,3.3,0,,0,,0,,74.76,34.78,1.5,3.6,Credit Card
+2025-03-05,03:06:00,UBR100407,Completed,CUST1241,UberXL,Melbourne,Paris,4.1,5.4,0,,0,,0,,88.32,26.86,4.5,2.4,UPI
+2025-01-06,10:33:00,UBR100537,Cancelled by Driver,CUST1235,Uber Black,Manchester,Madrid,3.3,10.4,0,,1,Vehicle issue,0,,0.0,26.05,3.3,,Cash
+2025-02-08,07:37:00,UBR100853,Completed,CUST1107,UberX,Manchester,Rome,7.4,,0,,0,,0,,82.98,25.79,3.0,4.4,UPI
+2025-04-18,20:05:00,UBR100038,Completed,CUST1166,Uber Black,Toronto,Houston,5.2,10.3,0,,0,,0,,69.56,25.14,2.7,2.0,Credit Card
+2025-06-16,10:00:00,UBR100175,Completed,CUST1122,UberXL,Chicago,Paris,2.6,12.7,0,,0,,0,,52.07,14.41,1.8,,UPI
+2025-02-08,08:23:00,UBR100245,Completed,CUST1021,Uber Green,Tokyo,Vancouver,10.2,6.3,0,,0,,0,,51.83,12.59,2.5,2.7,Credit Card
+2025-06-10,01:10:00,UBR100886,Incomplete,CUST1007,UberX,Vancouver,Madrid,1.2,17.9,0,,0,,1,Technical issue,22.7,5.51,2.9,,UPI
+2025-02-22,08:49:00,UBR100704,Cancelled by Driver,CUST1214,Uber Comfort,Berlin,Vancouver,7.5,12.9,0,,1,Too far from pickup,0,,0.0,8.27,4.9,,Debit Card
+2025-04-17,23:32:00,UBR100793,Completed,CUST1207,Uber Black,Melbourne,Phoenix,2.3,11.2,0,,0,,0,,65.42,31.08,3.8,3.7,UPI
+2025-01-15,02:22:00,UBR100903,Completed,CUST1188,Uber Comfort,Phoenix,London,14.5,7.5,0,,0,,0,,70.26,31.24,4.8,3.0,Debit Card
+2025-04-24,02:28:00,UBR100154,Completed,CUST1163,Uber Comfort,Vancouver,Paris,9.1,5.5,0,,0,,0,,34.52,19.12,2.9,4.7,UPI
+2025-04-09,08:34:00,UBR100287,Completed,CUST1207,Uber Green,,Houston,15.7,,0,,0,,0,,90.26,29.49,3.3,5.0,Debit Card
+2025-05-22,00:43:00,UBR100625,Completed,CUST1143,UberX,Tokyo,Vancouver,7.5,21.4,0,,0,,0,,53.02,13.61,3.6,3.5,Cash
+2025-03-21,11:28:00,UBR100636,Completed,CUST1081,UberX,New York,Los Angeles,17.8,7.6,0,,0,,0,,57.31,33.11,1.0,5.0,Wallet
+2025-04-19,10:18:00,UBR100569,Completed,CUST1144,UberX,Phoenix,Dubai,2.7,15.8,0,,0,,0,,41.24,9.81,3.5,2.5,Wallet
+2025-05-09,00:55:00,UBR100530,Completed,CUST1117,Uber Comfort,Houston,Birmingham,16.3,17.6,0,,0,,0,,11.85,4.39,1.4,3.7,PayPal
+2025-04-09,02:32:00,UBR100017,Cancelled by Driver,CUST1092,UberXL,Birmingham,Houston,3.7,15.1,0,,1,Wrong pickup location,0,,0.0,20.83,3.8,,Wallet
+2025-01-21,06:46:00,UBR100127,Cancelled by Customer,CUST1106,Uber Green,Sydney,,16.3,8.4,1,Change of plans,0,,0,,0.0,25.38,,,Debit Card
+2025-04-10,02:01:00,UBR100322,Completed,CUST1175,Uber Comfort,Madrid,Melbourne,14.8,16.5,0,,0,,0,,12.8,3.8,2.5,2.0,Cash
+2025-05-11,12:57:00,UBR100255,Completed,CUST1097,UberX,Singapore,Paris,,16.9,0,,0,,0,,35.35,18.77,,3.8,Credit Card
+2025-03-12,20:05:00,UBR100693,Completed,CUST1121,Uber Black,Tokyo,Berlin,2.2,16.0,0,,0,,0,,43.35,13.54,3.1,4.0,Debit Card
+2025-05-11,09:47:00,UBR100180,Cancelled by Driver,CUST1219,UberXL,Rome,Madrid,5.2,5.5,0,,1,Wrong pickup location,0,,0.0,16.72,1.3,,Cash
+2025-02-24,05:47:00,UBR100190,Completed,CUST1027,Uber Comfort,Birmingham,Seoul,7.5,13.7,0,,0,,0,,86.77,27.86,3.6,4.8,Credit Card
+2025-03-10,16:44:00,UBR100115,Completed,CUST1040,Uber Comfort,Melbourne,Berlin,7.9,16.0,0,,0,,0,,69.21,34.03,3.3,3.7,PayPal
+2025-04-26,09:51:00,UBR100650,Completed,CUST1014,Uber Green,Berlin,Sydney,7.7,18.7,0,,0,,0,,114.09,31.0,3.6,3.5,PayPal
+2025-06-10,02:03:00,UBR100606,Completed,CUST1009,UberX,Paris,Madrid,16.1,11.1,0,,0,,0,,86.18,33.22,1.6,3.8,PayPal
+2025-05-11,09:47:00,UBR100180,Cancelled by Driver,CUST1219,UberXL,Rome,Madrid,5.2,5.5,0,,1,Wrong pickup location,0,,0.0,16.72,1.3,,Cash
+2025-06-15,01:59:00,UBR100301,Incomplete,CUST1219,Uber Green,Vancouver,Houston,5.7,7.8,0,,0,,1,Vehicle breakdown,60.29,26.27,1.7,,Credit Card
+2025-03-16,05:28:00,UBR100798,Completed,CUST1077,UberX,Seoul,Toronto,1.6,16.0,0,,0,,0,,17.67,8.83,1.7,2.4,UPI
+2025-01-15,05:20:00,UBR100750,Completed,CUST1053,Uber Green,Paris,Dubai,8.3,15.2,0,,0,,0,,10.12,3.46,2.3,3.9,UPI
+2025-03-06,14:15:00,UBR100762,Completed,CUST1061,,Toronto,Tokyo,17.8,23.6,0,,0,,0,,53.8,19.45,4.4,4.6,PayPal
+2025-06-10,11:17:00,UBR100722,Completed,CUST1127,Uber Green,Los Angeles,Birmingham,5.9,20.8,0,,0,,0,,38.87,16.99,4.2,2.8,Debit Card
+2025-01-03,12:50:00,UBR100787,Completed,CUST1155,UberX,Manchester,Singapore,6.3,3.3,0,,0,,0,,49.79,19.0,1.4,2.2,UPI
+2025-01-02,23:42:00,UBR100517,Completed,CUST1150,Uber Green,London,Sydney,4.6,5.6,0,,0,,0,,17.62,6.97,4.9,1.1,Cash
+2025-05-06,22:46:00,UBR100372,Completed,CUST1053,Uber Comfort,Chicago,Los Angeles,12.5,11.7,0,,0,,0,,55.13,16.74,1.5,1.6,PayPal
+2025-01-03,17:26:00,UBR100045,Completed,CUST1228,Uber Green,Melbourne,London,,21.7,0,,0,,0,,66.11,19.26,2.0,2.8,PayPal
+2025-06-16,16:12:00,UBR100974,Cancelled by Customer,CUST1137,UberXL,Singapore,Birmingham,9.3,10.5,1,Driver taking too long,0,,0,,0.0,3.4,,,Credit Card
+2025-05-30,03:54:00,UBR100157,Cancelled by Customer,CUST1088,Uber Comfort,Birmingham,Sydney,1.7,6.6,1,Found another ride,0,,0,,0.0,3.02,,,Wallet
+2025-05-24,17:54:00,UBR100783,Completed,CUST1111,Uber Black,Melbourne,Madrid,6.9,22.3,0,,0,,0,,73.51,30.94,1.8,,Credit Card
+2025-06-18,02:40:00,UBR100171,Completed,CUST1177,Uber Green,Phoenix,Singapore,4.8,8.5,0,,0,,0,,102.73,34.05,,3.2,Cash
+2025-04-09,13:35:00,UBR100016,Completed,CUST1207,Uber Black,Melbourne,Rome,15.6,11.9,0,,0,,0,,64.01,31.03,4.6,4.4,Cash
+2025-01-24,18:52:00,UBR100511,Completed,CUST1190,Uber Black,Berlin,Singapore,7.4,23.3,0,,0,,0,,20.27,9.12,,2.1,Credit Card
+2025-06-28,07:26:00,UBR100048,Completed,CUST1225,Uber Comfort,Los Angeles,Manchester,10.3,12.9,0,,0,,0,,67.07,22.72,,2.2,Credit Card
+2025-06-05,07:00:00,UBR100576,Completed,CUST1104,UberX,Paris,Dubai,4.5,10.1,0,,0,,0,,,7.66,2.9,4.8,Debit Card
+2025-01-27,15:41:00,UBR100884,Completed,CUST1033,UberX,Vancouver,Seoul,,24.4,0,,0,,0,,71.47,20.92,1.5,4.8,Credit Card
+2025-02-08,00:20:00,UBR100515,Completed,CUST1137,Uber Black,Rome,Chicago,17.9,17.6,0,,0,,0,,10.43,3.33,3.0,4.7,Credit Card
+2025-02-10,16:29:00,UBR100717,Completed,CUST1131,UberXL,Houston,London,,25.0,0,,0,,0,,33.64,8.03,2.1,2.3,UPI
+2025-04-08,19:03:00,UBR100723,Completed,CUST1036,UberX,Sydney,Toronto,13.2,7.7,0,,0,,0,,58.57,19.68,1.8,2.7,UPI
+2025-02-18,01:40:00,UBR100480,Completed,CUST1001,Uber Comfort,Dubai,Melbourne,1.1,13.3,0,,0,,0,,18.74,5.95,3.7,1.9,Credit Card
+2025-03-04,08:53:00,UBR100283,Cancelled by Customer,CUST1069,Uber Green,London,Phoenix,15.9,8.4,1,Driver taking too long,0,,0,,0.0,15.81,,,Wallet
+2025-06-07,04:23:00,UBR100756,Completed,CUST1148,UberXL,Melbourne,Singapore,5.4,13.0,0,,0,,0,,89.19,22.63,1.1,2.6,PayPal
+2025-06-09,23:20:00,UBR100865,Cancelled by Customer,CUST1206,Uber Comfort,Melbourne,Singapore,15.8,18.7,1,Found another ride,0,,0,,0.0,,,,Credit Card
+2025-04-29,19:39:00,UBR100225,Completed,CUST1015,UberX,Madrid,Houston,9.9,24.5,0,,0,,0,,,14.64,1.5,1.1,Debit Card
+2025-04-02,18:01:00,UBR100026,Completed,CUST1182,UberXL,Singapore,Berlin,1.4,24.2,0,,0,,0,,63.61,28.08,4.3,3.8,Wallet
+2025-05-23,00:36:00,UBR100956,Cancelled by Driver,CUST1185,Uber Green,Chicago,Vancouver,9.3,22.6,0,,1,Customer unreachable,0,,0.0,29.42,,,Credit Card
+2025-06-26,06:19:00,UBR100437,Incomplete,CUST1217,UberX,Sydney,Melbourne,14.6,22.0,0,,0,,1,Route issue,68.52,18.59,2.8,,PayPal
+2025-03-02,02:02:00,UBR100602,Completed,CUST1092,Uber Comfort,Rome,Houston,4.9,23.3,0,,0,,0,,26.22,9.1,3.4,2.5,Cash
+2025-03-15,21:14:00,UBR100364,Completed,CUST1038,UberXL,Toronto,Phoenix,2.4,12.7,0,,0,,0,,77.03,27.01,1.7,1.7,UPI
+2025-01-26,17:28:00,UBR100229,Completed,CUST1137,Uber Black,Paris,Singapore,10.8,6.2,0,,0,,0,,18.26,7.82,4.2,,UPI
+2025-01-05,00:28:00,UBR100037,Completed,CUST1164,Uber Black,Toronto,Birmingham,10.9,22.0,0,,0,,0,,94.54,28.98,4.5,1.9,Cash
+2025-03-05,23:37:00,UBR100669,Completed,,Uber Green,Sydney,Phoenix,8.7,20.4,0,,0,,0,,53.05,24.46,4.4,3.6,PayPal
+2025-05-02,06:27:00,UBR100623,Completed,CUST1240,UberXL,Chicago,Houston,12.0,10.5,0,,0,,0,,23.05,8.89,3.8,3.2,UPI
+2025-06-19,19:18:00,UBR100374,Completed,CUST1049,Uber Comfort,Toronto,Rome,12.9,,0,,0,,0,,44.96,26.29,,2.6,Wallet
+2025-05-19,07:35:00,UBR100469,Completed,CUST1007,UberX,Los Angeles,Manchester,10.4,7.2,0,,0,,0,,41.33,20.56,1.4,4.6,Wallet
+2025-03-30,09:03:00,UBR100961,Completed,CUST1136,Uber Comfort,Rome,Los Angeles,12.4,3.7,0,,0,,0,,,6.02,1.5,3.7,PayPal
+2025-02-28,15:08:00,UBR100895,Completed,CUST1102,UberX,Tokyo,Rome,8.5,9.6,0,,0,,0,,32.13,10.84,2.8,1.3,Credit Card
+2025-01-26,12:23:00,UBR100741,Completed,CUST1045,Uber Comfort,Birmingham,Phoenix,1.2,18.3,0,,0,,0,,64.4,20.61,2.7,3.3,Wallet
+2025-02-17,21:48:00,UBR100764,Cancelled by Customer,CUST1026,UberXL,Seoul,Berlin,17.0,14.7,1,Driver taking too long,0,,0,,0.0,28.1,,,Credit Card
+2025-05-07,00:00:00,UBR100194,Completed,CUST1167,Uber Comfort,Manchester,Vancouver,13.4,22.4,0,,0,,0,,10.9,2.72,3.7,2.0,Wallet
+2025-05-13,23:50:00,UBR100899,Completed,CUST1042,UberXL,Birmingham,New York,7.2,7.6,0,,0,,0,,56.9,22.63,4.1,2.9,Debit Card
+2025-05-28,09:51:00,UBR100909,Cancelled by Customer,CUST1006,UberXL,,New York,12.5,24.5,1,Driver taking too long,0,,0,,0.0,11.06,,,Credit Card
+2025-06-08,01:08:00,UBR100503,Completed,CUST1215,UberX,Manchester,Vancouver,3.3,15.0,0,,0,,0,,19.36,5.24,3.2,1.4,UPI
+2025-01-17,16:23:00,UBR100049,Incomplete,CUST1068,UberXL,Tokyo,Dubai,11.6,10.6,0,,0,,1,Technical issue,61.5,16.73,1.8,,Debit Card
+2025-05-22,23:19:00,UBR100874,Completed,CUST1151,Uber Black,Toronto,Dubai,9.5,13.0,0,,0,,0,,65.54,17.15,2.4,3.8,PayPal
+2025-06-14,19:22:00,UBR100579,Cancelled by Customer,CUST1019,Uber Black,Houston,Singapore,12.0,11.4,1,Driver taking too long,0,,0,,0.0,17.53,,,UPI
+2025-01-16,10:31:00,UBR100550,Completed,CUST1083,Uber Green,New York,Sydney,7.3,15.5,0,,0,,0,,89.02,,4.5,4.8,PayPal
+2025-04-20,04:37:00,UBR100680,Completed,CUST1067,Uber Black,Singapore,Vancouver,13.6,9.9,0,,0,,0,,46.82,27.78,,3.4,Credit Card
+2025-02-26,15:40:00,UBR100162,Completed,CUST1019,UberX,London,Paris,11.0,13.6,0,,0,,0,,8.11,2.18,3.6,1.3,Credit Card
+2025-02-18,19:52:00,UBR100739,Incomplete,CUST1115,Uber Green,London,Tokyo,15.5,8.3,0,,0,,1,Emergency,79.76,20.95,4.5,,UPI
+2025-05-19,07:15:00,UBR100152,Incomplete,CUST1142,Uber Black,Chicago,Singapore,12.2,7.1,0,,0,,1,Emergency,40.64,14.3,1.7,,Wallet
+2025-03-14,10:11:00,UBR100718,Completed,CUST1222,UberX,Phoenix,Berlin,14.7,6.0,0,,0,,0,,37.75,10.33,4.1,4.2,Debit Card
+2025-03-21,09:42:00,UBR100737,Completed,CUST1154,Uber Comfort,Vancouver,Phoenix,12.1,18.6,0,,0,,0,,23.56,6.45,3.3,2.4,Debit Card
+2025-01-20,10:20:00,UBR100872,Completed,CUST1192,Uber Comfort,Singapore,Madrid,6.0,7.3,0,,0,,0,,,6.4,3.2,2.5,UPI
+2025-04-10,11:24:00,UBR100111,Completed,CUST1135,Uber Green,Rome,Vancouver,14.4,17.5,0,,0,,0,,53.67,22.01,3.0,3.2,Credit Card
+2025-06-02,00:32:00,UBR100226,Completed,CUST1054,UberXL,Sydney,Paris,4.8,17.1,0,,0,,0,,19.68,10.18,3.3,3.3,Wallet
+2025-05-08,09:03:00,UBR100885,Incomplete,CUST1193,UberXL,London,Vancouver,15.4,9.5,0,,0,,1,Technical issue,78.8,29.94,2.4,,Wallet
+2025-05-04,15:33:00,UBR100103,Cancelled by Customer,CUST1014,UberXL,Seoul,London,4.6,3.7,1,Driver requested cancellation,0,,0,,0.0,34.46,,,Cash
+2025-01-10,07:48:00,UBR100421,Completed,CUST1211,Uber Comfort,Rome,Paris,2.4,12.6,0,,0,,0,,23.32,10.65,3.6,2.8,Wallet
+2025-01-10,10:33:00,UBR100419,Cancelled by Driver,CUST1144,UberX,Vancouver,Berlin,14.5,20.9,0,,1,Wrong pickup location,0,,0.0,4.33,2.9,,UPI
+2025-02-27,21:39:00,UBR100789,Incomplete,CUST1161,Uber Green,Dubai,Toronto,15.0,7.2,0,,0,,1,Emergency,106.56,34.95,3.8,,Debit Card
+2025-04-15,05:37:00,UBR100586,Completed,CUST1066,UberXL,Sydney,New York,6.9,16.7,0,,0,,0,,18.61,4.02,1.2,1.7,Cash
+2025-06-14,07:07:00,UBR100819,Incomplete,CUST1136,UberXL,Birmingham,Sydney,8.3,4.1,0,,0,,1,Emergency,30.3,15.07,1.4,,Cash
+2025-05-28,16:09:00,UBR100672,Cancelled by Customer,CUST1028,UberX,London,Madrid,4.9,11.9,1,Change of plans,0,,0,,0.0,18.03,,,Wallet
+2025-06-28,20:29:00,UBR100119,Completed,CUST1011,UberXL,New York,Houston,7.8,13.6,0,,0,,0,,76.96,32.76,3.7,1.1,Cash
+2025-03-19,20:39:00,UBR100053,Completed,CUST1129,Uber Green,Sydney,Melbourne,2.1,6.3,0,,0,,0,,55.37,17.58,1.5,3.7,PayPal
+2025-06-09,15:39:00,UBR100151,Completed,CUST1192,Uber Green,Sydney,Singapore,1.8,3.8,0,,0,,0,,38.55,18.72,4.0,3.6,Debit Card
+2025-05-26,15:01:00,UBR100403,Completed,CUST1044,UberX,Paris,New York,1.7,9.0,0,,0,,0,,37.5,19.69,4.8,4.8,Credit Card
+2025-03-23,00:12:00,UBR100994,Completed,CUST1023,Uber Comfort,Birmingham,Dubai,14.5,9.0,0,,0,,0,,123.6,33.45,3.5,4.3,Credit Card
+2025-02-23,19:23:00,UBR100207,Completed,CUST1245,Uber Green,Houston,Seoul,,15.1,0,,0,,0,,65.13,21.24,1.2,3.7,Cash
+2025-06-14,11:45:00,UBR100658,Completed,CUST1233,Uber Green,Paris,Madrid,12.2,22.4,0,,0,,0,,64.85,27.91,2.6,2.2,Credit Card
+2025-05-17,11:44:00,UBR100888,Completed,CUST1076,UberXL,Seoul,Houston,7.9,7.6,0,,0,,0,,37.5,17.22,3.6,4.5,PayPal
+2025-01-11,17:58:00,UBR100801,Completed,CUST1001,UberX,New York,Phoenix,1.9,11.4,0,,0,,0,,74.52,29.08,2.3,3.9,Cash
+2025-05-04,14:23:00,UBR100008,Completed,CUST1230,UberX,Vancouver,Manchester,6.3,14.2,0,,0,,0,,48.26,25.22,4.6,2.0,Wallet
+2025-04-07,07:43:00,UBR100848,Cancelled by Driver,CUST1038,Uber Black,Singapore,London,2.2,21.1,0,,1,Too far from pickup,0,,0.0,26.69,3.0,,PayPal
+2025-03-16,10:57:00,UBR100036,Completed,CUST1238,Uber Comfort,Manchester,Sydney,12.7,21.4,0,,0,,0,,61.09,16.12,,4.4,PayPal
+2025-05-20,10:17:00,UBR100452,Cancelled by Driver,CUST1132,Uber Comfort,London,Houston,4.3,9.8,0,,1,Vehicle issue,0,,0.0,13.15,4.9,,Credit Card
+2025-03-06,13:16:00,UBR100651,Completed,CUST1047,Uber Green,Tokyo,Toronto,6.7,3.6,0,,0,,0,,61.06,18.23,2.4,4.2,Debit Card
+2025-02-16,07:31:00,UBR100253,Completed,CUST1032,Uber Green,Singapore,,14.3,19.1,0,,0,,0,,44.15,24.1,1.5,4.1,PayPal
+2025-05-07,23:49:00,UBR100303,Completed,CUST1131,Uber Green,Seoul,Paris,11.6,16.2,0,,0,,0,,54.72,18.78,1.2,2.5,Cash
+2025-01-08,04:41:00,UBR100785,Completed,CUST1139,Uber Black,Berlin,Dubai,12.1,23.3,0,,0,,0,,55.13,30.37,1.2,1.1,Debit Card
+2025-04-04,21:41:00,UBR100571,Cancelled by Customer,CUST1069,UberXL,Chicago,Berlin,14.8,7.3,1,Found another ride,0,,0,,0.0,18.79,,,Credit Card
+2025-05-02,06:27:00,UBR100623,Completed,CUST1240,UberXL,Chicago,Houston,12.0,10.5,0,,0,,0,,23.05,8.89,3.8,3.2,UPI
+2025-03-18,12:48:00,UBR100643,Completed,CUST1214,Uber Black,Singapore,Houston,3.9,15.8,0,,0,,0,,102.66,26.53,3.2,4.0,PayPal
+2025-04-29,10:54:00,UBR100966,Cancelled by Driver,CUST1080,Uber Green,Houston,Los Angeles,15.6,8.0,0,,1,Personal emergency,0,,0.0,2.58,1.9,,Debit Card
+2025-06-23,06:26:00,UBR100262,Cancelled by Driver,CUST1201,UberX,Melbourne,Berlin,5.3,24.7,0,,1,Personal emergency,0,,0.0,17.88,2.2,,PayPal
+2025-02-02,00:37:00,UBR100610,Completed,CUST1024,UberXL,Singapore,Dubai,2.8,22.4,0,,0,,0,,18.27,4.4,3.1,4.3,Cash
+2025-01-22,00:30:00,UBR100297,Completed,CUST1118,Uber Black,Houston,Tokyo,10.6,20.7,0,,0,,0,,60.49,30.43,,3.3,PayPal
+2025-04-18,21:49:00,UBR100414,Incomplete,CUST1048,Uber Comfort,Toronto,Chicago,17.4,14.8,0,,0,,1,Emergency,46.43,14.58,3.5,,PayPal
+2025-01-21,21:47:00,UBR100150,Cancelled by Customer,CUST1202,UberXL,Paris,New York,7.6,12.9,1,Driver requested cancellation,0,,0,,0.0,10.64,,,Cash
+2025-02-01,11:45:00,UBR100827,Cancelled by Customer,CUST1204,UberX,Toronto,Birmingham,8.1,,1,Change of plans,0,,0,,0.0,18.67,,,Credit Card
+2025-05-08,20:52:00,UBR100640,Completed,CUST1060,UberX,Toronto,Berlin,9.7,7.4,0,,0,,0,,35.2,12.44,2.3,3.4,Credit Card
+2025-01-16,04:58:00,UBR100935,Completed,CUST1171,UberXL,Paris,Toronto,5.1,16.7,0,,0,,0,,97.07,27.63,1.7,4.0,Credit Card
+2025-01-16,10:31:00,UBR100550,Completed,CUST1083,Uber Green,New York,Sydney,7.3,15.5,0,,0,,0,,89.02,,4.5,4.8,PayPal
+2025-02-01,16:37:00,UBR100830,Completed,CUST1194,UberXL,Paris,Melbourne,16.5,16.9,0,,0,,0,,58.95,15.1,3.3,2.5,Cash
+2025-02-12,03:07:00,UBR100488,Completed,CUST1185,UberX,Chicago,Vancouver,16.1,12.0,0,,0,,0,,82.76,22.66,3.4,3.5,Credit Card
+2025-04-01,02:51:00,UBR100710,Completed,CUST1100,Uber Green,Toronto,Vancouver,1.3,23.6,0,,0,,0,,38.27,15.38,1.3,4.2,Cash
+2025-03-27,08:29:00,UBR100147,Completed,CUST1182,UberXL,Chicago,Birmingham,3.3,,0,,0,,0,,37.33,,4.2,3.3,Credit Card
+2025-02-21,06:59:00,UBR100146,Incomplete,CUST1123,UberXL,Houston,Phoenix,3.2,22.5,0,,0,,1,Vehicle breakdown,22.19,9.06,2.8,,Wallet
+2025-06-25,21:31:00,UBR100759,Completed,CUST1150,UberX,Phoenix,Rome,4.5,10.4,0,,0,,0,,47.92,,2.9,2.3,Cash
+2025-05-17,16:22:00,UBR100980,Completed,CUST1102,Uber Green,Rome,Phoenix,8.9,23.4,0,,0,,0,,103.22,27.3,4.6,,UPI
+2025-03-08,05:03:00,UBR100778,Incomplete,CUST1203,Uber Comfort,New York,Dubai,1.4,,0,,0,,1,Vehicle breakdown,38.66,22.49,2.0,,Debit Card
+2025-03-09,10:38:00,UBR100659,Completed,CUST1200,UberXL,Rome,London,15.3,3.7,0,,0,,0,,22.37,7.38,4.8,4.6,Credit Card
+2025-04-09,03:12:00,UBR100348,Incomplete,CUST1126,UberXL,Manchester,Melbourne,9.1,10.0,0,,0,,1,Route issue,71.31,19.18,3.0,,UPI
+2025-02-14,10:59:00,UBR100463,Completed,CUST1023,Uber Green,Toronto,Paris,2.3,5.5,0,,0,,0,,84.02,31.98,1.2,2.0,Credit Card
+2025-04-27,12:12:00,UBR100325,Completed,CUST1166,Uber Comfort,Melbourne,Chicago,8.5,22.7,0,,0,,0,,22.93,11.84,3.6,1.0,Credit Card
+2025-01-30,04:24:00,UBR100186,Cancelled by Driver,CUST1063,UberX,Paris,Seoul,9.0,9.6,0,,1,Too far from pickup,0,,0.0,19.48,3.4,,Debit Card
+2025-01-13,09:44:00,UBR100123,Completed,CUST1244,Uber Green,Singapore,London,5.9,5.4,0,,0,,0,,119.39,30.49,3.6,4.1,UPI
+2025-02-01,01:21:00,UBR100898,Completed,CUST1077,UberXL,Vancouver,Sydney,4.9,14.2,0,,0,,0,,15.92,7.81,,3.8,Credit Card
+2025-03-03,22:40:00,UBR100608,Completed,CUST1163,UberXL,New York,Rome,,12.8,0,,0,,0,,75.04,31.75,2.0,1.8,PayPal
+2025-05-29,16:33:00,UBR100143,Incomplete,CUST1195,UberX,Seoul,Chicago,5.0,4.8,0,,0,,1,Vehicle breakdown,46.22,23.72,4.1,,UPI
+2025-05-04,07:14:00,UBR100751,Cancelled by Customer,CUST1171,UberXL,Toronto,Madrid,9.7,13.1,1,Change of plans,0,,0,,0.0,19.91,,,Wallet
+2025-06-13,07:52:00,UBR100976,Cancelled by Driver,CUST1113,Uber Black,Birmingham,Rome,5.3,11.4,0,,1,Customer unreachable,0,,0.0,4.59,3.0,,Credit Card
+2025-02-20,19:01:00,UBR100197,Completed,CUST1200,UberX,Paris,Madrid,3.6,6.8,0,,0,,0,,36.4,21.27,3.6,4.0,Wallet
+2025-04-01,14:41:00,UBR100609,Completed,CUST1243,UberXL,London,Vancouver,6.5,,0,,0,,0,,48.4,26.38,3.6,1.1,Credit Card
+2025-05-24,12:06:00,UBR100279,Completed,CUST1222,Uber Black,Manchester,Berlin,8.4,20.0,0,,0,,0,,30.87,14.41,4.4,3.2,PayPal
+2025-06-25,02:34:00,UBR100293,Completed,CUST1180,UberX,Seoul,Melbourne,18.0,3.7,0,,0,,0,,60.71,21.37,4.6,3.5,Cash
+2025-06-21,18:57:00,UBR100400,Cancelled by Driver,CUST1124,UberX,Sydney,Vancouver,15.0,15.0,0,,1,Personal emergency,0,,0.0,,1.3,,Debit Card
+2025-05-22,17:56:00,UBR100122,Cancelled by Customer,CUST1047,Uber Green,Rome,Birmingham,10.8,10.7,1,Found another ride,0,,0,,0.0,24.07,,,Credit Card
+2025-06-30,22:05:00,UBR100183,Completed,CUST1243,Uber Comfort,Sydney,London,15.8,19.9,0,,0,,0,,15.46,3.52,4.2,3.7,Credit Card
+2025-06-03,19:38:00,UBR100202,Incomplete,CUST1173,Uber Black,Dubai,Toronto,7.6,6.5,0,,0,,1,Route issue,38.76,19.18,1.1,,Debit Card
+2025-05-04,13:36:00,UBR100438,Cancelled by Customer,CUST1075,Uber Green,Rome,Houston,8.1,22.3,1,Driver taking too long,0,,0,,0.0,4.01,,,Credit Card
+2025-01-17,07:15:00,UBR100246,Cancelled by Customer,CUST1110,UberX,Berlin,Los Angeles,3.2,15.3,1,Driver taking too long,0,,0,,,10.29,,,Cash
+2025-03-07,12:25:00,UBR100415,Completed,CUST1200,Uber Green,Los Angeles,Toronto,12.3,21.5,0,,0,,0,,16.26,8.16,3.2,,Debit Card
+2025-04-20,18:57:00,UBR100946,Completed,CUST1050,Uber Comfort,Toronto,Chicago,16.2,16.9,0,,0,,0,,97.66,28.81,1.9,1.2,UPI
+2025-04-02,03:04:00,UBR100889,Cancelled by Customer,CUST1215,Uber Comfort,Melbourne,Sydney,15.9,6.0,1,Wrong pickup location,0,,0,,0.0,32.65,,,Cash
+2025-02-18,09:50:00,UBR100952,Completed,,Uber Black,Rome,Paris,14.6,5.9,0,,0,,0,,76.97,30.36,1.4,4.7,PayPal
+2025-03-29,17:20:00,UBR100807,Completed,CUST1039,UberXL,London,Vancouver,,14.2,0,,0,,0,,98.11,28.34,1.6,,Debit Card
+2025-03-17,11:37:00,UBR100933,Completed,CUST1077,UberX,Tokyo,Seoul,14.2,9.3,0,,0,,0,,91.66,25.62,2.3,3.7,PayPal
+2025-04-04,21:26:00,UBR100129,Completed,CUST1094,Uber Comfort,Houston,Tokyo,4.1,14.6,0,,0,,0,,120.08,34.21,3.8,1.4,Credit Card
+2025-05-26,14:52:00,UBR100637,Completed,CUST1184,UberX,Birmingham,Seoul,4.6,9.9,0,,0,,0,,78.48,20.81,1.7,4.6,PayPal
+2025-03-19,17:19:00,UBR100402,Completed,CUST1070,Uber Black,Manchester,Toronto,12.9,7.3,0,,0,,0,,37.52,13.94,2.8,4.3,PayPal
+2025-06-21,17:19:00,UBR100823,Incomplete,CUST1192,UberXL,Berlin,Dubai,8.0,22.7,0,,0,,1,Emergency,76.53,27.96,1.7,,Credit Card
+2025-05-11,20:56:00,UBR100809,Completed,CUST1215,UberX,Chicago,Los Angeles,13.7,4.0,0,,0,,0,,55.58,14.73,,3.8,Wallet
+2025-01-26,09:00:00,UBR100735,Completed,CUST1018,Uber Green,Birmingham,Sydney,3.0,7.1,0,,0,,0,,24.98,6.04,1.5,2.4,Cash
+2025-03-05,12:10:00,UBR100959,Completed,CUST1085,Uber Black,New York,Melbourne,6.1,24.1,0,,0,,0,,48.4,12.43,3.5,3.2,Debit Card
+2025-05-21,18:26:00,UBR100219,Completed,CUST1176,Uber Comfort,Paris,Los Angeles,12.5,5.6,0,,0,,0,,102.97,27.87,1.2,3.3,UPI
+2025-04-05,19:08:00,UBR100641,Cancelled by Customer,CUST1040,Uber Black,Madrid,Vancouver,15.4,19.0,1,Driver taking too long,0,,0,,0.0,26.66,,,Wallet
+2025-03-30,09:03:00,UBR100961,Completed,CUST1136,Uber Comfort,Rome,Los Angeles,12.4,3.7,0,,0,,0,,,6.02,1.5,3.7,PayPal
+2025-01-13,11:03:00,UBR100932,Completed,CUST1171,UberX,Berlin,New York,10.0,19.6,0,,0,,0,,48.56,15.86,2.8,4.0,UPI
+2025-01-17,09:20:00,UBR100846,Incomplete,CUST1227,UberX,Rome,Paris,10.0,16.4,0,,0,,1,Technical issue,44.37,14.14,3.0,,Cash
+2025-01-31,02:41:00,UBR100966,Completed,CUST1049,UberX,Phoenix,Singapore,7.3,10.4,0,,0,,0,,71.07,25.15,2.0,3.3,Cash
+2025-02-07,09:59:00,UBR100624,Completed,CUST1010,UberX,Phoenix,Rome,2.6,9.4,0,,0,,0,,84.15,31.37,4.9,4.8,PayPal
+2025-02-07,09:31:00,UBR100882,Completed,CUST1037,UberXL,Singapore,Chicago,1.9,16.1,0,,0,,0,,16.79,3.6,2.7,2.3,Debit Card
+2025-04-16,14:03:00,UBR100799,Completed,,Uber Black,Rome,Tokyo,3.0,23.8,0,,0,,0,,39.69,14.52,3.9,3.5,Credit Card
+2025-06-23,19:35:00,UBR100386,Incomplete,CUST1074,UberXL,London,Tokyo,5.1,9.7,0,,0,,1,Emergency,23.95,12.29,1.3,,Debit Card
+2025-04-25,17:18:00,UBR100054,Completed,,UberX,Madrid,Melbourne,13.5,7.0,0,,0,,0,,,30.51,3.3,4.4,PayPal
+2025-01-27,06:43:00,UBR100509,Completed,CUST1152,UberXL,Madrid,Houston,2.3,17.6,0,,0,,0,,23.65,7.43,2.0,3.0,Cash
+2025-02-05,10:21:00,UBR100267,Completed,CUST1233,UberX,Seoul,Toronto,9.6,23.7,0,,0,,0,,122.46,32.09,4.5,1.4,Cash
+2025-02-28,13:35:00,UBR100096,Cancelled by Driver,CUST1168,Uber Green,Toronto,New York,15.2,18.3,0,,1,Personal emergency,0,,0.0,30.54,3.7,,Debit Card
+2025-03-19,01:24:00,UBR100441,Completed,CUST1029,Uber Green,London,Seoul,2.3,4.0,0,,0,,0,,24.08,5.41,1.1,,UPI
+2025-04-01,00:28:00,UBR100496,Completed,,Uber Comfort,Phoenix,Chicago,2.3,10.3,0,,0,,0,,87.65,25.45,2.0,5.0,Debit Card
+2025-02-04,07:24:00,UBR100112,Incomplete,CUST1092,UberX,Tokyo,Phoenix,15.3,6.8,0,,0,,1,Vehicle breakdown,34.16,17.87,4.8,,Credit Card
+2025-05-23,14:58:00,UBR100691,Completed,CUST1036,Uber Green,Singapore,Tokyo,,23.1,0,,0,,0,,69.83,25.89,4.2,4.7,UPI
+2025-01-06,18:36:00,UBR100232,Completed,CUST1007,Uber Comfort,Singapore,Vancouver,16.3,17.8,0,,0,,0,,29.34,15.83,1.5,5.0,Credit Card
+2025-01-04,17:08:00,UBR100914,Completed,CUST1040,Uber Comfort,Tokyo,Sydney,12.0,23.4,0,,0,,0,,87.96,27.9,1.6,1.7,Wallet
+2025-04-01,02:46:00,UBR100607,Cancelled by Customer,CUST1190,UberXL,Sydney,Los Angeles,3.9,10.1,1,Found another ride,0,,0,,0.0,19.18,,,Cash
+2025-03-19,12:51:00,UBR100671,Cancelled by Driver,CUST1240,Uber Green,Seoul,Melbourne,7.8,14.5,0,,1,Customer unreachable,0,,0.0,24.64,2.6,,Credit Card
+2025-06-20,15:18:00,UBR100373,Completed,CUST1095,Uber Green,Birmingham,Berlin,11.1,15.7,0,,0,,0,,44.15,13.21,1.6,2.9,Debit Card
+2025-01-01,09:20:00,UBR100663,Cancelled by Driver,CUST1095,UberX,Sydney,Dubai,12.6,5.7,0,,1,Personal emergency,0,,0.0,19.37,1.5,,UPI
+2025-03-09,20:02:00,UBR100887,Completed,CUST1100,Uber Black,Dubai,London,11.9,13.9,0,,0,,0,,84.52,30.87,1.1,2.3,PayPal
+2025-03-05,18:33:00,UBR100233,Incomplete,CUST1189,UberX,Madrid,Toronto,4.7,13.1,0,,0,,1,Technical issue,130.37,33.36,4.7,,PayPal
+2025-03-05,17:35:00,UBR100824,Completed,CUST1079,Uber Black,Houston,Sydney,,12.0,0,,0,,0,,68.81,27.88,4.3,3.7,UPI
+2025-03-28,22:57:00,UBR100676,Completed,CUST1074,UberXL,Paris,Los Angeles,13.2,4.5,0,,0,,0,,35.59,12.47,2.3,2.1,Credit Card
+2025-01-02,05:59:00,UBR100317,Completed,CUST1187,Uber Black,Phoenix,Vancouver,12.2,14.7,0,,0,,0,,35.51,8.85,1.4,1.7,Debit Card
+2025-05-10,05:35:00,UBR100648,Completed,CUST1094,Uber Green,Madrid,Birmingham,16.5,7.6,0,,0,,0,,84.24,33.63,3.7,1.3,UPI
+2025-05-12,22:41:00,UBR100410,Completed,CUST1147,Uber Black,Phoenix,Vancouver,1.9,9.9,0,,0,,0,,48.75,13.78,3.0,1.9,Debit Card
+2025-06-09,08:26:00,UBR100944,Completed,CUST1248,Uber Green,Dubai,Manchester,,21.1,0,,0,,0,,56.0,33.39,3.2,2.4,PayPal
+2025-05-28,03:51:00,UBR100709,Incomplete,CUST1186,Uber Green,Sydney,Dubai,12.5,14.5,0,,0,,1,Vehicle breakdown,7.19,1.96,4.1,,Wallet
+2025-03-19,06:16:00,UBR100358,Completed,CUST1145,Uber Comfort,Tokyo,Houston,6.0,6.2,0,,0,,0,,14.87,3.88,1.6,2.7,UPI
+2025-01-22,14:27:00,UBR100258,Completed,CUST1097,UberX,Berlin,Melbourne,1.9,16.8,0,,0,,0,,53.92,32.94,2.5,4.7,Cash
+2025-03-19,11:12:00,UBR100744,Completed,CUST1086,Uber Green,Los Angeles,Toronto,17.0,11.0,0,,0,,0,,17.29,5.93,4.7,4.1,UPI
+2025-03-10,19:03:00,UBR100627,Cancelled by Customer,CUST1066,Uber Green,Seoul,Los Angeles,14.7,5.4,1,Wrong pickup location,0,,0,,0.0,17.98,,,PayPal
+2025-01-20,08:09:00,UBR100632,Completed,CUST1220,UberX,Phoenix,Berlin,14.3,8.6,0,,0,,0,,104.77,30.77,4.3,3.8,Debit Card
+2025-06-05,23:21:00,UBR100282,Completed,CUST1109,Uber Green,London,Chicago,12.1,21.1,0,,0,,0,,29.8,12.17,1.3,4.1,UPI
+2025-04-27,22:58:00,UBR100376,Completed,CUST1224,Uber Black,London,Manchester,11.6,15.1,0,,0,,0,,80.86,20.97,2.6,3.1,PayPal
+2025-02-04,03:02:00,UBR100384,Cancelled by Driver,CUST1013,UberX,Tokyo,Sydney,12.2,17.1,0,,1,Vehicle issue,0,,0.0,13.71,1.1,,Cash
+2025-04-12,14:27:00,UBR100224,Completed,CUST1141,UberXL,Berlin,Toronto,1.5,19.2,0,,0,,0,,54.3,24.46,2.3,4.6,UPI
+2025-01-12,21:53:00,UBR100217,Cancelled by Driver,CUST1081,UberXL,Singapore,Vancouver,13.3,9.0,0,,1,Wrong pickup location,0,,0.0,6.03,2.6,,
+2025-06-18,09:43:00,UBR100855,Completed,CUST1138,Uber Green,Tokyo,Madrid,11.7,24.5,0,,0,,0,,29.8,11.52,2.3,1.5,Credit Card
+2025-04-15,04:42:00,UBR100472,Cancelled by Customer,CUST1057,UberXL,Madrid,Birmingham,12.5,,1,Driver requested cancellation,0,,0,,0.0,31.39,,,Cash
+2025-06-02,13:56:00,UBR100347,Incomplete,CUST1218,UberX,Birmingham,Vancouver,7.6,13.6,0,,0,,1,Route issue,91.54,31.58,1.6,,Debit Card
+2025-03-15,21:43:00,UBR100505,Completed,CUST1209,UberX,Sydney,Houston,7.5,12.2,0,,0,,0,,27.41,10.47,1.2,2.2,Debit Card
+2025-06-22,17:20:00,UBR100639,Completed,CUST1055,UberXL,Paris,Berlin,16.1,21.4,0,,0,,0,,18.16,5.01,4.5,4.7,Credit Card
+2025-01-21,08:13:00,UBR100673,Cancelled by Driver,CUST1130,UberXL,,Birmingham,5.6,20.9,0,,1,Personal emergency,0,,0.0,13.15,3.1,,Cash
+2025-02-22,14:19:00,UBR100797,Completed,CUST1076,Uber Comfort,Berlin,Vancouver,17.6,,0,,0,,0,,,32.94,2.4,3.9,Credit Card
+2025-05-23,13:47:00,UBR100977,Completed,CUST1235,Uber Green,Houston,Tokyo,16.2,23.1,0,,0,,0,,21.59,6.9,1.9,,PayPal
+2025-06-04,12:57:00,UBR100951,Completed,CUST1103,Uber Comfort,Dubai,Tokyo,,22.2,0,,0,,0,,22.66,6.53,2.5,4.8,Debit Card
+2025-06-10,12:45:00,UBR100619,Completed,CUST1127,Uber Green,Singapore,Tokyo,4.1,16.0,0,,0,,0,,20.48,4.4,3.2,4.0,Debit Card
+2025-04-06,05:11:00,UBR100900,Completed,CUST1220,Uber Black,Dubai,Phoenix,1.3,21.3,0,,0,,0,,39.03,21.86,1.7,3.1,PayPal
+2025-05-13,03:02:00,UBR100843,Completed,CUST1052,UberXL,Los Angeles,Vancouver,4.9,6.3,0,,0,,0,,108.37,28.96,3.6,3.7,Wallet
+2025-06-13,08:00:00,UBR100645,Completed,CUST1083,Uber Green,Sydney,New York,17.9,19.5,0,,0,,0,,50.94,15.21,3.6,2.4,UPI
+2025-04-02,21:12:00,UBR100891,Completed,CUST1104,Uber Black,Sydney,Melbourne,13.2,19.8,0,,0,,0,,35.9,13.65,1.7,2.7,Cash
+2025-05-18,18:00:00,UBR100556,Cancelled by Driver,CUST1049,UberXL,Madrid,London,2.5,22.0,0,,1,Personal emergency,0,,0.0,15.08,,,Credit Card
+2025-01-15,17:50:00,UBR100970,Completed,CUST1084,UberXL,London,Houston,9.8,18.9,0,,0,,0,,40.74,12.82,2.5,1.1,PayPal
+2025-03-16,21:16:00,UBR100577,Completed,CUST1168,Uber Black,Vancouver,London,9.1,21.4,0,,0,,0,,81.43,29.66,4.0,2.9,Credit Card
+2025-05-29,16:36:00,UBR100795,Completed,CUST1081,Uber Comfort,Phoenix,Singapore,10.3,23.9,0,,0,,0,,61.92,15.66,1.7,1.1,Cash
+2025-05-25,16:20:00,UBR100034,Completed,CUST1085,,Paris,Vancouver,6.3,5.7,0,,0,,0,,11.67,,3.9,1.8,Credit Card
+2025-01-24,17:07:00,UBR100242,Cancelled by Customer,CUST1066,UberXL,Chicago,Melbourne,15.9,14.9,1,Driver requested cancellation,0,,0,,0.0,25.76,,,UPI
+2025-04-19,02:49:00,UBR100698,Completed,CUST1177,Uber Green,Birmingham,Manchester,8.9,23.7,0,,0,,0,,21.87,7.19,2.9,2.9,Cash
+2025-06-11,20:51:00,UBR100919,Cancelled by Driver,,UberXL,Madrid,Seoul,7.7,19.4,0,,1,Personal emergency,0,,0.0,6.7,4.6,,Debit Card
+2025-05-09,21:24:00,UBR100159,Completed,CUST1002,UberX,Sydney,Phoenix,5.7,7.3,0,,0,,0,,29.56,16.8,4.5,3.6,Cash
+2025-06-25,12:49:00,UBR100332,Completed,CUST1203,Uber Black,Melbourne,Berlin,6.8,22.8,0,,0,,0,,40.38,18.77,4.8,3.7,Credit Card
+2025-06-29,14:50:00,UBR100035,Completed,CUST1212,Uber Comfort,Tokyo,Sydney,17.1,20.2,0,,0,,0,,16.41,4.3,1.5,,Credit Card
+2025-01-23,13:43:00,UBR100540,Completed,CUST1134,UberX,Rome,Los Angeles,13.3,8.1,0,,0,,0,,10.93,4.4,3.7,4.9,UPI
+2025-05-08,02:21:00,UBR100170,Cancelled by Driver,CUST1056,Uber Green,Madrid,,17.7,8.6,0,,1,Too far from pickup,0,,0.0,2.97,3.6,,Credit Card
+2025-04-02,13:17:00,UBR100654,Completed,CUST1017,Uber Comfort,Berlin,Vancouver,,8.3,0,,0,,0,,57.24,14.09,2.7,3.5,Credit Card
+2025-06-21,16:02:00,UBR100936,Completed,CUST1095,UberXL,Toronto,Houston,6.6,14.7,0,,0,,0,,25.84,9.72,1.2,1.8,Credit Card
+2025-02-06,23:20:00,UBR100902,Cancelled by Customer,CUST1069,UberXL,Paris,Birmingham,4.8,25.0,1,Driver taking too long,0,,0,,0.0,28.08,,,PayPal
+2025-03-17,10:58:00,UBR100892,Completed,CUST1088,UberXL,Birmingham,Dubai,17.7,11.6,0,,0,,0,,37.99,11.03,2.4,2.3,Cash
+2025-05-25,05:34:00,UBR100993,Completed,CUST1078,UberX,Vancouver,Tokyo,17.7,4.4,0,,0,,0,,17.12,4.5,4.6,4.3,PayPal
+2025-06-02,16:21:00,UBR100733,Cancelled by Driver,CUST1047,Uber Green,Dubai,Vancouver,14.7,8.6,0,,1,Customer unreachable,0,,0.0,8.41,2.0,,Debit Card
+2025-02-09,22:04:00,UBR100095,Completed,CUST1223,Uber Green,Phoenix,Dubai,16.4,15.6,0,,0,,0,,17.04,3.77,3.6,3.2,Wallet
+2025-01-20,11:39:00,UBR100563,Completed,CUST1081,Uber Black,Dubai,Birmingham,16.9,10.6,0,,0,,0,,117.12,33.7,1.6,3.3,Cash
+2025-03-12,02:33:00,UBR100240,Cancelled by Customer,CUST1039,Uber Green,Chicago,Toronto,8.1,20.2,1,Wrong pickup location,0,,0,,0.0,6.06,,,Credit Card
+2025-03-16,21:13:00,UBR100742,Completed,CUST1058,Uber Black,Singapore,Chicago,2.6,10.3,0,,0,,0,,19.16,8.78,,1.9,Cash
+2025-03-02,22:00:00,UBR100863,Cancelled by Driver,CUST1081,Uber Black,Manchester,Melbourne,5.0,23.0,0,,1,Personal emergency,0,,0.0,13.64,2.2,,UPI
+2025-06-07,19:36:00,UBR100574,Completed,CUST1103,Uber Black,Tokyo,Seoul,11.8,4.6,0,,0,,0,,40.07,12.25,4.6,4.8,Credit Card
+2025-04-03,04:15:00,UBR100690,Completed,CUST1095,Uber Green,Sydney,London,12.9,20.4,0,,0,,0,,35.97,11.79,3.5,1.6,Cash
+2025-06-27,07:43:00,UBR100460,Completed,CUST1152,Uber Comfort,Los Angeles,Manchester,3.3,23.4,0,,0,,0,,44.9,18.24,4.5,3.8,Debit Card
+2025-02-12,14:46:00,UBR100553,Completed,CUST1022,Uber Black,Los Angeles,Madrid,14.0,8.5,0,,0,,0,,107.04,28.87,1.1,1.4,PayPal
+2025-02-06,09:43:00,UBR100857,Completed,CUST1026,Uber Black,Dubai,Tokyo,8.7,24.3,0,,0,,0,,30.92,10.05,1.3,2.4,Cash
+2025-05-26,02:32:00,UBR100923,Incomplete,CUST1106,Uber Comfort,Tokyo,Madrid,5.1,22.3,0,,0,,1,Route issue,97.47,30.6,2.6,,Credit Card
+2025-04-14,20:37:00,UBR100206,Completed,CUST1248,UberXL,,Houston,8.8,19.1,0,,0,,0,,126.63,34.79,1.6,4.4,Wallet
+2025-02-25,18:37:00,UBR100392,Incomplete,CUST1092,Uber Comfort,London,Sydney,8.2,20.3,0,,0,,1,Trip interrupted,15.13,3.68,1.8,,Credit Card
+2025-01-16,21:59:00,UBR100794,Cancelled by Customer,CUST1099,Uber Comfort,Berlin,Paris,1.7,10.7,1,Wrong pickup location,0,,0,,0.0,4.8,,,PayPal
+2025-05-25,17:03:00,UBR100870,Completed,CUST1009,UberX,Vancouver,Los Angeles,6.9,3.4,0,,0,,0,,98.36,28.71,4.3,1.6,Wallet
+2025-03-09,08:13:00,UBR100397,Incomplete,CUST1048,Uber Comfort,Los Angeles,Phoenix,15.7,8.9,0,,0,,1,Trip interrupted,115.82,34.56,3.1,,Cash
+2025-01-05,03:36:00,UBR100766,Completed,CUST1048,Uber Comfort,New York,Phoenix,7.8,23.0,0,,0,,0,,23.9,5.46,3.6,4.1,Cash
+2025-01-24,17:29:00,UBR100893,Completed,CUST1124,UberXL,Manchester,Phoenix,15.2,18.7,0,,0,,0,,24.06,7.31,3.9,3.0,Wallet
+2025-01-12,21:53:00,UBR100217,Cancelled by Driver,CUST1081,UberXL,Singapore,Vancouver,13.3,9.0,0,,1,Wrong pickup location,0,,0.0,6.03,2.6,,
+2025-05-26,12:09:00,UBR100004,Completed,CUST1043,UberXL,Los Angeles,Manchester,7.7,23.4,0,,0,,0,,36.05,20.39,3.9,2.3,PayPal
+2025-04-15,19:01:00,UBR100768,Completed,CUST1153,UberX,Melbourne,Birmingham,12.4,13.1,0,,0,,0,,9.47,2.82,5.0,1.9,Cash
+2025-03-07,04:25:00,UBR100642,Completed,CUST1143,Uber Green,Phoenix,Singapore,,19.9,0,,0,,0,,41.56,23.89,3.2,4.5,Debit Card
+2025-02-07,17:46:00,UBR100943,Completed,CUST1116,Uber Green,Singapore,Chicago,6.9,10.6,0,,0,,0,,55.84,18.17,3.4,4.9,Cash
+2025-06-13,14:03:00,UBR100612,Completed,CUST1187,Uber Comfort,Madrid,Tokyo,5.4,18.7,0,,0,,0,,17.84,5.56,2.9,2.6,Wallet
+2025-03-15,14:07:00,UBR100738,Completed,CUST1202,Uber Green,Manchester,London,10.1,21.5,0,,0,,0,,16.85,3.65,3.3,1.2,Debit Card
+2025-05-04,16:06:00,UBR100546,Incomplete,CUST1101,Uber Green,Madrid,Los Angeles,15.6,8.1,0,,0,,1,Emergency,105.33,31.88,1.5,,PayPal
+2025-01-23,03:29:00,UBR100725,Incomplete,CUST1045,Uber Black,Tokyo,Birmingham,17.1,6.0,0,,0,,1,Route issue,51.9,25.1,3.0,,Credit Card
+2025-02-25,22:54:00,UBR100963,Completed,CUST1131,Uber Black,Dubai,Sydney,12.5,8.5,0,,0,,0,,20.78,10.09,3.3,4.8,Credit Card
+2025-04-14,10:34:00,UBR100683,Completed,CUST1047,Uber Black,London,,4.1,18.7,0,,0,,0,,69.38,19.26,2.5,2.6,Debit Card
+2025-02-15,18:56:00,UBR100098,Completed,CUST1232,UberX,Vancouver,,3.0,11.3,0,,0,,0,,7.07,1.42,1.0,4.3,PayPal
+2025-05-12,09:23:00,UBR100804,Completed,CUST1121,UberXL,Manchester,Los Angeles,15.6,13.3,0,,0,,0,,49.31,13.31,2.6,2.8,Debit Card
+2025-02-03,05:52:00,UBR100727,Completed,CUST1043,UberXL,Singapore,Seoul,12.2,8.8,0,,0,,0,,12.33,4.14,1.0,3.1,Cash
+2025-04-20,18:58:00,UBR100573,Completed,CUST1158,UberXL,Madrid,Tokyo,6.3,14.2,0,,0,,0,,12.99,5.3,2.6,4.4,Cash
+2025-05-29,02:05:00,UBR100406,Completed,CUST1187,UberX,Seoul,London,8.2,24.3,0,,0,,0,,21.86,6.22,3.6,3.3,UPI
+2025-01-05,00:12:00,UBR100502,Completed,CUST1146,Uber Comfort,Los Angeles,Manchester,11.3,4.8,0,,0,,0,,82.99,28.89,3.6,4.1,Credit Card
+2025-02-16,15:18:00,UBR100047,Completed,CUST1206,Uber Green,Rome,Phoenix,11.5,18.5,0,,0,,0,,83.88,27.96,1.9,1.5,UPI
+2025-02-27,18:18:00,UBR100032,Completed,CUST1156,Uber Comfort,Birmingham,Madrid,8.1,24.3,0,,0,,0,,65.72,28.73,3.2,2.7,Debit Card
+2025-01-22,08:48:00,UBR100779,Completed,CUST1006,Uber Black,Birmingham,Phoenix,5.6,10.6,0,,0,,0,,75.36,27.08,3.9,3.2,Credit Card
+2025-03-16,17:25:00,UBR100839,Cancelled by Driver,CUST1131,UberX,Vancouver,Paris,16.8,10.3,0,,1,Personal emergency,0,,0.0,26.99,3.0,,Debit Card
+2025-06-05,15:32:00,UBR100200,Completed,CUST1006,Uber Comfort,Melbourne,Houston,1.8,19.8,0,,0,,0,,54.78,18.97,4.8,2.4,Credit Card
+2025-01-24,11:39:00,UBR100134,Completed,CUST1045,Uber Black,Singapore,Chicago,11.3,10.4,0,,0,,0,,55.52,16.27,4.6,4.1,UPI
+2025-03-30,08:07:00,UBR100027,Completed,CUST1236,Uber Green,New York,Los Angeles,11.9,14.4,0,,0,,0,,19.96,9.3,3.6,,Wallet
+2025-04-19,11:23:00,UBR100925,Completed,CUST1011,Uber Green,London,Birmingham,17.1,16.4,0,,0,,0,,19.69,10.42,2.0,4.7,Debit Card
+2025-02-26,09:18:00,UBR100230,Cancelled by Customer,CUST1158,UberX,Madrid,Rome,12.7,18.2,1,Found another ride,0,,0,,0.0,12.6,,,Credit Card
+2025-04-24,08:10:00,UBR100489,Completed,CUST1124,Uber Comfort,Singapore,Houston,11.6,22.4,0,,0,,0,,10.18,1.76,4.8,1.8,Cash
+2025-05-27,15:38:00,UBR100772,Completed,CUST1011,Uber Black,Berlin,Chicago,16.1,11.4,0,,0,,0,,41.48,11.05,3.9,2.9,Debit Card
+2025-05-05,00:44:00,UBR100378,Completed,CUST1133,Uber Green,Los Angeles,Dubai,8.3,16.5,0,,0,,0,,25.03,9.54,1.3,1.4,Credit Card
+2025-03-28,10:50:00,UBR100288,Completed,CUST1109,UberXL,Madrid,Los Angeles,6.8,14.6,0,,0,,0,,33.1,14.36,1.8,5.0,UPI
+2025-06-03,06:44:00,UBR100418,Completed,CUST1071,Uber Green,Phoenix,London,15.2,18.5,0,,0,,0,,16.85,5.95,4.7,4.0,PayPal
+2025-02-16,10:06:00,UBR100674,Cancelled by Driver,CUST1034,UberX,New York,Tokyo,15.8,6.1,0,,1,Personal emergency,0,,0.0,16.44,1.5,,Cash
+2025-01-13,17:04:00,UBR100391,Completed,CUST1033,Uber Comfort,Los Angeles,Paris,10.0,6.8,0,,0,,0,,13.01,5.91,1.7,2.9,Wallet
+2025-06-01,10:22:00,UBR100592,Completed,CUST1182,Uber Black,Melbourne,Sydney,7.6,8.3,0,,0,,0,,83.27,24.09,4.7,3.1,UPI
+2025-03-19,13:12:00,UBR100498,Completed,CUST1047,UberX,Los Angeles,Chicago,3.1,16.9,0,,0,,0,,57.46,29.1,4.6,3.5,Wallet
+2025-04-28,21:11:00,UBR100138,Cancelled by Driver,CUST1107,UberX,Birmingham,Chicago,15.3,14.5,0,,1,Too far from pickup,0,,0.0,5.25,3.5,,Credit Card
+2025-01-05,14:10:00,UBR100062,Completed,CUST1122,UberXL,Paris,Phoenix,16.4,10.0,0,,0,,0,,16.64,6.73,3.4,3.7,PayPal
+2025-04-27,03:44:00,UBR100471,Completed,CUST1248,UberX,Birmingham,Dubai,,24.9,0,,0,,0,,13.64,4.9,4.9,2.8,Cash
+2025-01-01,21:59:00,UBR100647,Completed,CUST1159,Uber Green,Los Angeles,Vancouver,16.8,4.2,0,,0,,0,,11.43,3.05,2.7,3.8,Debit Card
+2025-03-19,16:03:00,UBR100128,Completed,CUST1239,,Tokyo,Sydney,5.8,9.8,0,,0,,0,,37.89,17.4,4.2,3.2,Credit Card
+2025-05-20,09:12:00,UBR100745,Completed,CUST1229,UberXL,Singapore,Seoul,8.3,7.3,0,,0,,0,,98.49,30.67,1.1,4.2,PayPal
+2025-04-08,04:45:00,UBR100520,Completed,CUST1071,UberXL,Toronto,Birmingham,3.6,20.6,0,,0,,0,,60.92,32.69,3.8,1.8,PayPal
+2025-02-08,20:06:00,UBR100392,Cancelled by Driver,CUST1095,Uber Comfort,Dubai,Vancouver,4.1,23.1,0,,1,Customer unreachable,0,,0.0,15.92,4.0,,Debit Card
+2025-01-27,14:40:00,UBR100340,Completed,CUST1181,UberXL,Birmingham,Tokyo,14.0,3.1,0,,0,,0,,70.97,29.82,1.0,2.5,UPI
+2025-06-06,21:52:00,UBR100064,Cancelled by Customer,CUST1243,Uber Black,Chicago,Birmingham,14.4,6.3,1,Change of plans,0,,0,,0.0,5.91,,,Cash
+2025-04-14,08:14:00,UBR100812,Completed,CUST1160,Uber Green,Chicago,Seoul,9.6,17.8,0,,0,,0,,75.71,26.33,4.6,3.0,PayPal
+2025-05-27,22:49:00,UBR100014,Completed,CUST1194,Uber Black,London,Dubai,6.9,5.1,0,,0,,0,,68.75,21.17,4.8,2.6,Credit Card
+2025-04-29,00:38:00,UBR100156,Completed,CUST1240,Uber Comfort,Tokyo,Vancouver,,8.5,0,,0,,0,,109.76,34.74,,,PayPal
+2025-06-13,20:50:00,UBR100040,Completed,CUST1146,Uber Comfort,Toronto,Vancouver,2.3,6.7,0,,0,,0,,88.99,31.32,1.9,2.2,Cash
+2025-01-30,19:27:00,UBR100492,Completed,CUST1204,UberX,New York,Rome,9.2,13.7,0,,0,,0,,38.85,17.69,3.3,4.7,PayPal
+2025-01-15,08:35:00,UBR100379,Completed,CUST1190,UberX,Berlin,Tokyo,6.2,9.5,0,,0,,0,,53.6,14.73,2.1,2.3,Cash
+2025-01-02,19:10:00,UBR100187,Cancelled by Customer,CUST1182,Uber Green,Paris,Sydney,15.2,9.3,1,Found another ride,0,,0,,0.0,3.38,,,UPI
+2025-04-22,14:17:00,UBR100763,Cancelled by Driver,CUST1247,Uber Comfort,Dubai,Manchester,5.2,14.8,0,,1,Vehicle issue,0,,0.0,31.38,3.8,,PayPal
+2025-01-23,09:03:00,UBR100216,Completed,CUST1189,UberXL,Tokyo,Seoul,11.0,16.7,0,,0,,0,,22.96,5.35,1.3,3.7,PayPal
+2025-03-02,04:09:00,UBR100921,Completed,,Uber Comfort,Vancouver,Houston,3.2,15.6,0,,0,,0,,78.72,21.22,2.0,4.2,Debit Card
+2025-06-17,20:37:00,UBR100791,Completed,CUST1149,Uber Black,Paris,Tokyo,7.0,4.6,0,,0,,0,,34.3,11.97,3.7,4.3,Debit Card
+2025-02-25,05:49:00,UBR100052,Completed,CUST1106,Uber Green,Toronto,Paris,1.0,22.1,0,,0,,0,,57.81,17.46,,3.4,UPI
+2025-04-04,14:34:00,UBR100878,Completed,CUST1119,UberXL,Tokyo,New York,15.2,20.9,0,,0,,0,,60.13,27.21,3.1,,Debit Card
+2025-06-12,07:20:00,UBR100337,Completed,CUST1084,Uber Green,Berlin,Manchester,11.8,24.7,0,,0,,0,,19.96,6.91,,2.7,Credit Card
+2025-04-05,08:25:00,UBR100748,Cancelled by Driver,CUST1083,UberX,Chicago,Sydney,5.7,21.1,0,,1,Too far from pickup,0,,0.0,,1.0,,PayPal
+2025-06-14,20:16:00,UBR100719,Cancelled by Customer,CUST1008,UberX,Tokyo,Chicago,9.8,17.4,1,Driver requested cancellation,0,,0,,0.0,26.22,,,Credit Card
+2025-04-26,07:53:00,UBR100724,Completed,CUST1143,UberXL,Rome,Sydney,16.0,12.5,0,,0,,0,,45.89,16.1,2.6,1.1,UPI
+2025-05-18,15:27:00,UBR100295,Completed,CUST1051,Uber Green,Manchester,Toronto,,24.7,0,,0,,0,,32.07,17.25,1.7,,UPI
+2025-06-28,20:44:00,UBR100701,Cancelled by Customer,CUST1051,UberX,Phoenix,Houston,13.6,15.8,1,Driver taking too long,0,,0,,0.0,27.9,,,PayPal
+2025-02-26,13:59:00,UBR100251,Completed,CUST1006,Uber Black,Berlin,Houston,15.5,24.6,0,,0,,0,,,11.9,3.5,2.0,UPI
+2025-03-22,11:07:00,UBR100726,Completed,CUST1146,Uber Green,Chicago,Birmingham,16.4,25.0,0,,0,,0,,55.85,18.09,,4.5,Cash
+2025-03-20,06:08:00,UBR100461,Completed,CUST1092,Uber Green,Vancouver,London,14.0,8.8,0,,0,,0,,97.1,31.61,4.2,2.0,Credit Card
+2025-03-29,17:55:00,UBR100455,Completed,CUST1133,Uber Black,Melbourne,Singapore,8.0,18.5,0,,0,,0,,39.08,19.61,1.9,2.5,PayPal
+2025-06-13,11:13:00,UBR100270,Cancelled by Driver,CUST1200,UberXL,Madrid,Berlin,11.3,8.4,0,,1,Customer unreachable,0,,0.0,,1.2,,PayPal
+2025-05-14,04:34:00,UBR100815,Completed,CUST1017,Uber Black,London,Dubai,1.3,9.9,0,,0,,0,,22.94,5.88,3.6,1.0,UPI
+2025-03-18,17:02:00,UBR100862,Completed,CUST1011,UberXL,London,Sydney,15.0,20.2,0,,0,,0,,32.6,,3.2,1.6,PayPal
+2025-04-14,09:56:00,UBR100269,Completed,CUST1193,Uber Green,Toronto,Sydney,13.5,14.3,0,,0,,0,,48.14,17.74,1.6,1.3,Cash
+2025-02-18,14:40:00,UBR100201,Completed,CUST1037,Uber Green,Singapore,Chicago,10.0,21.5,0,,0,,0,,12.84,,3.3,3.2,UPI
+2025-05-05,19:15:00,UBR100161,Cancelled by Customer,CUST1019,UberXL,Los Angeles,Rome,16.1,16.0,1,Wrong pickup location,0,,0,,0.0,34.88,,,Wallet
+2025-05-08,21:50:00,UBR100555,Cancelled by Driver,CUST1054,Uber Green,Houston,New York,2.5,12.9,0,,1,Vehicle issue,0,,0.0,22.81,4.0,,Debit Card
+2025-02-17,01:56:00,UBR100729,Completed,CUST1226,UberXL,Madrid,Birmingham,15.4,4.4,0,,0,,0,,61.67,18.31,1.1,2.0,Cash
+2025-03-21,16:27:00,UBR100401,Completed,CUST1064,Uber Comfort,New York,Dubai,16.9,23.0,0,,0,,0,,50.0,30.06,4.3,4.6,UPI
+2025-01-18,17:48:00,UBR100702,Completed,CUST1215,Uber Black,Los Angeles,Madrid,2.1,21.3,0,,0,,0,,37.85,18.11,3.2,3.7,UPI
+2025-05-21,06:33:00,UBR100476,Cancelled by Driver,CUST1074,UberXL,Los Angeles,Rome,17.7,22.9,0,,1,Customer unreachable,0,,0.0,11.66,1.2,,Debit Card
+2025-01-25,20:25:00,UBR100821,Cancelled by Customer,CUST1226,UberXL,New York,Sydney,11.1,3.3,1,Found another ride,0,,0,,0.0,16.96,,,Cash
+2025-04-22,16:37:00,UBR100771,Incomplete,CUST1023,Uber Black,Phoenix,Madrid,16.5,21.6,0,,0,,1,Emergency,7.93,1.33,1.5,,PayPal
+2025-05-06,20:59:00,UBR100105,Completed,CUST1083,Uber Comfort,Chicago,Sydney,10.5,8.0,0,,0,,0,,7.57,1.24,1.6,3.6,Wallet
+2025-02-25,15:18:00,UBR100565,Completed,CUST1235,UberX,Phoenix,Berlin,4.0,6.9,0,,0,,0,,57.37,18.72,4.7,,Wallet
+2025-06-25,23:32:00,UBR100389,Completed,CUST1047,Uber Black,New York,Tokyo,13.1,5.3,0,,0,,0,,49.77,20.73,4.4,3.7,Wallet
+2025-02-27,00:21:00,UBR100001,Cancelled by Driver,CUST1235,UberX,Los Angeles,Toronto,6.0,16.5,0,,1,Customer unreachable,0,,0.0,7.35,1.6,,UPI
+2025-06-20,17:54:00,UBR100986,Incomplete,CUST1071,UberX,Sydney,London,11.8,8.7,0,,0,,1,Technical issue,47.35,24.67,1.2,,UPI
+2025-06-18,11:35:00,UBR100211,Completed,CUST1029,UberX,Madrid,Chicago,14.5,24.8,0,,0,,0,,16.56,5.74,1.8,5.0,PayPal
+2025-04-20,09:44:00,UBR100561,Completed,CUST1083,Uber Green,Dubai,Manchester,5.2,8.0,0,,0,,0,,25.62,8.88,,3.0,PayPal
+2025-06-06,09:38:00,UBR100931,Cancelled by Driver,CUST1202,Uber Black,Vancouver,Dubai,1.4,22.8,0,,1,Vehicle issue,0,,0.0,33.96,3.1,,Debit Card
+2025-05-18,23:44:00,UBR100080,Cancelled by Customer,CUST1153,Uber Green,Berlin,London,7.5,14.4,1,Change of plans,0,,0,,0.0,21.5,,,Credit Card
+2025-01-21,04:59:00,UBR100205,Completed,CUST1138,Uber Comfort,Toronto,Seoul,6.9,15.8,0,,0,,0,,,18.35,1.6,2.8,
+2025-01-19,02:56:00,UBR100034,Completed,CUST1099,,Dubai,Singapore,17.3,21.6,0,,0,,0,,69.14,29.13,2.4,4.8,UPI
+2025-04-01,02:56:00,UBR100942,Completed,CUST1192,Uber Green,Birmingham,Seoul,11.7,7.1,0,,0,,0,,58.64,22.71,3.0,3.1,Debit Card
+2025-01-15,15:54:00,UBR100775,Completed,CUST1002,UberXL,Seoul,London,11.8,20.8,0,,0,,0,,53.26,27.39,1.2,2.2,Wallet
+2025-05-07,09:51:00,UBR100508,Completed,CUST1006,Uber Black,Berlin,Rome,10.2,15.1,0,,0,,0,,21.69,6.91,2.4,2.8,Credit Card
+2025-01-18,00:56:00,UBR100427,Completed,CUST1111,Uber Green,Melbourne,New York,3.8,4.4,0,,0,,0,,31.06,15.37,2.3,1.9,Debit Card
+2025-06-27,23:00:00,UBR100454,Completed,CUST1241,Uber Black,Toronto,Seoul,16.9,17.9,0,,0,,0,,50.54,29.65,1.5,1.3,Wallet
+2025-04-20,09:44:00,UBR100561,Completed,CUST1083,Uber Green,Dubai,Manchester,5.2,8.0,0,,0,,0,,25.62,8.88,,3.0,PayPal
+2025-03-12,00:14:00,UBR100366,Completed,CUST1070,UberXL,Chicago,Dubai,4.1,14.9,0,,0,,0,,21.47,9.92,3.6,1.2,Debit Card
+2025-05-28,22:13:00,UBR100091,Completed,CUST1116,Uber Black,Toronto,Los Angeles,9.7,8.1,0,,0,,0,,74.54,34.7,1.7,1.9,Cash
+2025-06-30,10:17:00,UBR100339,Cancelled by Driver,CUST1198,UberXL,Rome,Singapore,11.2,14.3,0,,1,Wrong pickup location,0,,0.0,7.79,1.2,,Debit Card
+2025-06-26,16:15:00,UBR100897,Completed,,UberXL,Manchester,Dubai,,9.3,0,,0,,0,,70.05,29.35,4.8,4.0,Credit Card
+2025-01-28,16:56:00,UBR100564,Cancelled by Driver,CUST1230,Uber Green,Toronto,Tokyo,13.5,22.4,0,,1,Customer unreachable,0,,0.0,6.03,2.7,,Debit Card
+2025-05-20,15:11:00,UBR100345,Completed,CUST1080,Uber Green,Melbourne,Phoenix,15.2,5.8,0,,0,,0,,68.81,22.62,1.5,4.3,Cash
+2025-01-16,14:05:00,UBR100776,Completed,CUST1100,UberX,Phoenix,Sydney,17.6,17.2,0,,0,,0,,82.19,24.1,2.1,5.0,Wallet
+2025-04-22,19:30:00,UBR100241,Completed,CUST1111,Uber Comfort,Seoul,Sydney,11.8,11.0,0,,0,,0,,20.93,8.11,2.2,,Cash
+2025-02-07,04:39:00,UBR100013,Completed,CUST1068,Uber Comfort,London,Houston,17.7,11.8,0,,0,,0,,,13.69,4.3,4.2,Cash
+2025-02-15,17:28:00,UBR100315,Completed,CUST1020,UberX,,Manchester,7.6,10.8,0,,0,,0,,64.47,33.31,1.2,1.9,UPI
+2025-04-08,15:33:00,UBR100600,Completed,CUST1025,UberXL,Tokyo,Madrid,11.7,18.4,0,,0,,0,,60.01,25.91,3.8,1.2,Debit Card
+2025-04-13,20:45:00,UBR100387,Completed,CUST1058,Uber Black,London,,17.1,9.9,0,,0,,0,,,4.05,4.4,1.5,Cash
+2025-03-03,08:48:00,UBR100273,Completed,CUST1170,UberX,Dubai,Chicago,12.4,12.0,0,,0,,0,,49.25,18.36,4.5,1.9,Credit Card
+2025-03-22,09:22:00,UBR100166,Completed,CUST1244,Uber Black,Singapore,Chicago,5.4,12.5,0,,0,,0,,10.89,2.02,4.5,4.4,Wallet
+2025-01-08,05:27:00,UBR100840,Completed,CUST1118,UberXL,London,Sydney,1.6,18.5,0,,0,,0,,15.24,7.18,2.1,3.3,PayPal
+2025-02-15,23:16:00,UBR100020,Cancelled by Customer,CUST1005,Uber Black,Houston,Chicago,13.7,24.0,1,Driver taking too long,0,,0,,0.0,34.82,,,Wallet
+2025-01-09,17:56:00,UBR100646,Completed,CUST1076,Uber Comfort,Manchester,Seoul,5.8,15.8,0,,0,,0,,77.76,26.96,1.2,1.6,PayPal
+2025-04-23,18:50:00,UBR100818,Cancelled by Driver,CUST1033,UberX,Madrid,Rome,4.1,18.0,0,,1,Too far from pickup,0,,0.0,34.53,3.1,,Credit Card
+2025-01-20,09:29:00,UBR100484,Completed,CUST1111,UberX,Singapore,Berlin,14.7,4.7,0,,0,,0,,10.36,1.77,2.7,3.7,UPI
+2025-05-28,03:51:00,UBR100709,Incomplete,CUST1186,Uber Green,Sydney,Dubai,12.5,14.5,0,,0,,1,Vehicle breakdown,7.19,1.96,4.1,,Wallet
+2025-04-22,13:34:00,UBR100504,Completed,CUST1171,UberX,Toronto,Vancouver,2.7,3.4,0,,0,,0,,125.85,33.75,3.5,4.8,Credit Card
+2025-04-18,21:36:00,UBR100831,Cancelled by Customer,CUST1014,UberXL,Melbourne,London,6.2,15.0,1,Driver taking too long,0,,0,,0.0,6.26,,,Cash
+2025-02-23,22:29:00,UBR100243,Completed,,UberX,Toronto,Phoenix,17.5,8.0,0,,0,,0,,57.6,19.68,2.2,2.2,Debit Card
+2025-06-18,18:05:00,UBR100566,Completed,CUST1092,UberXL,Dubai,New York,17.6,8.1,0,,0,,0,,18.55,6.75,4.5,2.3,Wallet
+2025-04-30,07:09:00,UBR100875,Completed,CUST1168,UberX,London,Los Angeles,1.0,16.2,0,,0,,0,,25.21,10.16,2.1,4.5,Credit Card
+2025-02-17,10:37:00,UBR100562,Completed,CUST1238,Uber Green,Singapore,Rome,11.1,22.5,0,,0,,0,,7.02,1.63,4.6,4.0,
+2025-04-27,14:11:00,UBR100969,Cancelled by Customer,CUST1071,Uber Green,Toronto,Sydney,8.0,8.6,1,Driver taking too long,0,,0,,0.0,20.29,,,Credit Card
+2025-05-02,14:51:00,UBR100686,Completed,CUST1009,Uber Comfort,Berlin,Toronto,3.3,18.3,0,,0,,0,,38.16,9.35,1.5,1.9,PayPal
+2025-01-24,04:22:00,UBR100957,Completed,,Uber Black,Houston,Manchester,11.1,9.4,0,,0,,0,,15.15,4.54,2.1,4.1,
+2025-06-17,05:31:00,UBR100189,Cancelled by Driver,CUST1181,Uber Comfort,Houston,Chicago,8.9,6.0,0,,1,Vehicle issue,0,,0.0,2.05,2.4,,UPI
+2025-04-20,07:06:00,UBR100782,Cancelled by Customer,CUST1131,Uber Green,Phoenix,London,16.0,13.4,1,Found another ride,0,,0,,0.0,34.19,,,Debit Card
+2025-05-05,08:28:00,UBR100975,Completed,CUST1203,UberX,Birmingham,Madrid,11.6,13.6,0,,0,,0,,22.96,6.1,2.6,4.9,PayPal
+2025-04-27,06:56:00,UBR100699,Completed,CUST1030,,Madrid,Dubai,15.8,5.2,0,,0,,0,,22.75,7.28,2.7,4.8,UPI
+2025-01-24,08:59:00,UBR100475,Cancelled by Driver,CUST1227,Uber Black,Rome,Vancouver,12.0,8.1,0,,1,Vehicle issue,0,,0.0,,1.6,,Cash
+2025-06-22,10:34:00,UBR100681,Completed,CUST1217,UberX,Madrid,Manchester,15.7,8.1,0,,0,,0,,20.18,10.78,4.1,3.4,Wallet
+2025-01-26,19:04:00,UBR100510,Completed,CUST1141,UberXL,New York,London,15.9,10.8,0,,0,,0,,46.58,26.28,3.9,2.3,Wallet
+2025-06-28,02:52:00,UBR100058,Cancelled by Driver,CUST1043,Uber Green,London,Seoul,4.2,10.1,0,,1,Customer unreachable,0,,0.0,20.02,2.7,,Cash
+2025-05-09,01:56:00,UBR100474,Incomplete,CUST1115,Uber Green,Seoul,Manchester,10.9,6.7,0,,0,,1,Technical issue,54.79,22.85,3.8,,Debit Card
+2025-06-24,09:13:00,UBR100560,Completed,CUST1093,UberXL,Madrid,Chicago,13.6,17.6,0,,0,,0,,59.85,27.91,2.4,4.2,Credit Card
+2025-03-20,01:45:00,UBR100856,Completed,CUST1130,Uber Green,Toronto,London,17.4,8.7,0,,0,,0,,25.29,6.82,1.1,3.2,Cash
+2025-02-07,14:55:00,UBR100747,Completed,,Uber Comfort,Madrid,Toronto,,22.7,0,,0,,0,,,25.78,2.6,2.3,UPI
+2025-05-20,23:44:00,UBR100252,Completed,CUST1133,UberX,New York,Singapore,8.3,22.3,0,,0,,0,,31.96,14.41,3.4,2.0,Cash
+2025-06-09,19:44:00,UBR100021,Incomplete,,UberXL,Dubai,Vancouver,10.5,23.6,0,,0,,1,Route issue,61.46,34.34,,,PayPal
+2025-04-23,04:30:00,UBR100313,Completed,CUST1162,Uber Comfort,Tokyo,Chicago,15.7,8.5,0,,0,,0,,22.62,5.08,3.9,4.4,Credit Card
+2025-01-11,13:58:00,UBR100459,Completed,CUST1116,,Birmingham,Dubai,11.7,14.4,0,,0,,0,,6.67,1.27,1.2,1.9,Wallet
+2025-01-13,23:36:00,UBR100206,Completed,CUST1243,Uber Comfort,Berlin,Sydney,1.1,19.7,0,,0,,0,,21.52,7.56,1.1,4.0,PayPal
+2025-03-07,05:32:00,UBR100276,Cancelled by Driver,CUST1044,Uber Comfort,Birmingham,Houston,18.0,15.3,0,,1,Wrong pickup location,0,,0.0,23.11,2.3,,Debit Card
+2025-03-07,15:14:00,UBR100955,Completed,CUST1052,Uber Comfort,New York,Phoenix,6.3,24.8,0,,0,,0,,63.91,15.95,2.8,3.5,Credit Card
+2025-05-25,09:32:00,UBR100191,Completed,CUST1011,UberXL,Paris,New York,16.4,8.3,0,,0,,0,,57.11,14.96,2.9,2.8,Wallet
+2025-03-21,09:54:00,UBR100385,Completed,CUST1041,UberX,Melbourne,Sydney,6.1,21.9,0,,0,,0,,52.42,28.66,4.4,4.1,Cash
+2025-01-21,10:05:00,UBR100805,Cancelled by Driver,CUST1174,Uber Black,New York,Chicago,7.6,19.3,0,,1,Customer unreachable,0,,0.0,25.61,2.5,,Debit Card
+2025-03-25,02:04:00,UBR100343,Completed,CUST1102,Uber Green,Los Angeles,Sydney,2.2,5.0,0,,0,,0,,85.39,28.44,3.4,2.4,Credit Card
+2025-01-28,23:20:00,UBR100769,Cancelled by Customer,CUST1125,Uber Black,Toronto,New York,15.1,14.8,1,Found another ride,0,,0,,0.0,1.73,,,Debit Card
+2025-06-21,23:19:00,UBR100156,Completed,CUST1172,UberXL,Berlin,Houston,2.9,3.1,0,,0,,0,,17.98,4.14,3.6,3.1,UPI
+2025-03-15,02:48:00,UBR100871,Completed,CUST1248,UberX,Rome,Phoenix,17.5,16.4,0,,0,,0,,77.75,28.56,2.6,3.6,Debit Card
+2025-06-02,23:40:00,UBR100087,Completed,CUST1209,UberX,Rome,Manchester,16.1,16.5,0,,0,,0,,68.48,19.43,1.9,1.1,Credit Card
+2025-01-02,14:03:00,UBR100330,Completed,CUST1120,UberXL,Madrid,Vancouver,16.8,7.7,0,,0,,0,,25.74,10.14,2.7,1.0,Debit Card
+2025-02-20,03:29:00,UBR100620,Cancelled by Customer,CUST1125,Uber Comfort,Chicago,Birmingham,11.1,21.2,1,Wrong pickup location,0,,0,,0.0,16.04,,,Cash
+2025-06-24,20:16:00,UBR100121,Completed,CUST1054,UberXL,New York,Paris,7.4,3.4,0,,0,,0,,37.92,9.13,2.0,4.3,Cash
+2025-05-20,10:05:00,UBR100860,Cancelled by Driver,CUST1219,Uber Black,New York,Rome,8.3,24.5,0,,1,Personal emergency,0,,0.0,33.46,1.4,,Debit Card
