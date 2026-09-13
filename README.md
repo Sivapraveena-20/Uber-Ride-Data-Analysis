@@ -1,4 +1,4 @@
-# Uber Ride Analysis — Project Report
+# Uber Ride Analysis 
 
 An end-to-end data science project on Uber ride-booking data: cleaning, exploratory
 analysis, visualization, and a predictive model for daily ride demand.
