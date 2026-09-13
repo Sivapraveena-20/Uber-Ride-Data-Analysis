@@ -6,7 +6,7 @@ analysis, visualization, and a predictive model for daily ride demand.
 ## 1. Project Structure
 
 ```
-UberRideHistFinal/
+Uber_Ride_Data_Analysis/
 ├── data/
 │   └── Uber_Drive_Raw.csv                # raw dataset
 ├── notebooks/
